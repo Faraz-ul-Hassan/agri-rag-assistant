@@ -1,0 +1,8 @@
+# LLM client (OpenAI-compatible — works with DeepSeek, Gemini via proxy, etc.)
+openai>=1.50.0
+
+# Environment/config
+python-dotenv>=1.0.0
+
+# Will add in later steps:
+# pypdf, sentence-transformers, chromadb, fastapi, uvicorn

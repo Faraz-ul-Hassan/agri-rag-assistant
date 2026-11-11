@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Data (we'll track small samples, ignore raw PDFs)
+data/raw/*
+!data/raw/.gitkeep
+
+# Vector store (regenerated from data)
+chroma_db/
+*.sqlite3
+
+# Model cache
+.cache/
+models/
+
+# OS
+.DS_Store
+Thumbs.db

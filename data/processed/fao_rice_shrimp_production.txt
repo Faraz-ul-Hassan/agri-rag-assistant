@@ -1,0 +1,3998 @@
+Rice–rice and rice–shrimp production
+A gender perspective on labour, time use and access
+to technologies and services in southern Viet Nam
+
+
+
+Flavia Grassi, Thelma R. Paris, Truong Thi Ngoc Chi
+Food and Agriculture Organization of the United Nations
+Rome, 2017
+Rice–rice and rice–shrimp production
+A gender perspective on labour, time use and access to
+technologies and services in southern Viet Nam
+
+Cover photo: Rice–shrimp farmers, Vietnam. 
+©FAO/Nguyen Thanh Lieu
+The designations employed and the presentation of material in this information product do not imply 
+the expression of any opinion whatsoever on the part of the Food and Agriculture Organization of 
+the United Nations (FAO) concerning the legal or development status of any country, territory, city or 
+area or of its authorities, or concerning the delimitation of its frontiers or boundaries. The mention 
+of specific companies or products of manufacturers, whether or not these have been patented, does 
+not imply that these have been endorsed or recommended by FAO in preference to others of a similar 
+nature that are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily 
+reflect the views or policies of FAO.
+ISBN 978-92-5-109760-1
+© FAO, 2017
+FAO encourages the use, reproduction and dissemination of material in this information product. 
+Except where otherwise indicated, material may be copied, downloaded and printed for private study, 
+research and teaching purposes, or for use in non-commercial products or services, provided that 
+appropriate acknowledgement of FAO as the source and copyright holder is given and that FAO’s 
+endorsement of users’ views, products or services is not implied in any way.
+All requests for translation and adaptation rights, and for resale and other commercial use rights 
+should be made via www.fao.org/contact-us/licence-request or addressed to copyright@fao.org.
+FAO information products are available on the FAO website (www.fao.org/publications)
+and can be purchased through publications-sales@fao.org.
+This publication has been printed using selected products and processes so as to ensure minimal 
+environmental impact and to promote sustainable forest management.
+
+iii
+Contents
+Abbreviations and acronyms ......................................................................................   v
+Glossary of terms .......................................................................................................  vi
+Acknowledgements ....................................................................................................  ix
+Executive summary ...................................................................................................   x
+1. Introduction  ..........................................................................................................   1
+2. Methodology   .........................................................................................................   3
+3. The research area  ................................................................................................   5
+4. Insights from the villages  .....................................................................................   7
+4.1. Local context  ..................................................................................................   7
+4.2 The production systems ...................................................................................   9
+4.3 Gender division of labour and economic returns to labour .............................  10
+4.4 Work burden (productive and reproductive tasks)  ..........................................  18
+4.5 Participation in farm-related production decisions  ........................................  21
+4.6 Access to labour-saving technologies and services  .........................................  23
+5. Conclusion  ...........................................................................................................  30
+5.1 Key findings  ...................................................................................................  30
+5.2 Recommendations  .........................................................................................  35
+Bibliography  .............................................................................................................  38
+Appendices  ..............................................................................................................  41
+Appendix 1 Vien An – Overview of productive data by wealth group  ......................  41
+Appendix 2 Hoa Tua1 – Overview of productive data by wealth group  ...................  43
+Appendix 3 Summary sex-disaggregated labour data  ............................................  45
+Appendix 4 Seasonal sex-disaggregated labour data (days/ha)  ...............................  46
+Appendix 5 Labour cost calculation  ......................................................................  47
+Appendix 6 Costs and returns of upland crops  ......................................................  48
+
+Contents
+Tables
+Table 1 Socio-economic characteristics of farming households (hhlds)   ............  7
+Table 2 Costs and benefits in rice–rice and rice–shrimp farming (US$)   ..........  15
+Table 3 Cost and benefits of pig farming (5 pigs), Vien An  ...............................  18
+Table 4 Most time-consuming tasks for women (and health-related  
+consequences)  ....................................................................................  21
+Table 5a Farm-related decision-making, Vien An village  ...................................  22
+Table 5b Farm-related decision-making, Hoa Tua1 village  ................................  22
+Table 6 Adopted labour-saving rice and shrimp technologies  ..........................  24
+Table 7 Share of access to formal/informal credit   ...........................................  28
+Figures
+Figure 1 Map of Soc Trang province with My Xuyen and Tran De districts  .........  5
+Figure 2a Vien An: Income distribution by wealth group  ......................................  8
+Figure 2b Hoa Tua1: Income distribution by wealth group  ...................................  8
+Figure 3a Vien An: Division of labour by productive activities  ............................  10
+Figure 3b Hoa Tua1: Division of labour by productive activities  ..........................  11
+Figure 4a Vien An: Division of labour – wet season rice  ......................................  12
+Figure 4b Vien An: Division of labour – dry season rice   ......................................  12
+Figure 4c Hoa Tua1: Division of labour – wet season rice ....................................  13
+Figure 4d Hoa Tua1: Division of labour – dry season shrimp ...............................  13
+Figure 5a Vien An: Rice-rice workforce distribution  ...........................................  14
+Figure 5b Hoa Tua1: Rice–shrimps workforce distribution  .................................  14
+Figure 6a Rice–rice: Gender division of labour  ...................................................  14
+Figure 6b Rice–shrimp: Gender division of labour  ..............................................  14
+Figure 7a Vien An: Division of labour – cow farming  ..........................................  17
+Figure 7b Hoa Tua1: Division of labour – cow farming  .......................................  17
+Figure 7c Vien An: Division of labour – pig farming  ...........................................  17
+Figure 7d Hoa Tua1: Division of labour – pig farming  .........................................  17
+Figure 8a Vien An: Women and men’s time allocation – wet season rice  ............  19
+Figure 8b Vien An: Women’s work burden – wet season rice  ...............................  19
+Figure 9a Hoa Tua1: Women and men’s time allocation – wet season rice  ..........  20
+Figure 9b Hoa Tua1: Women’s work burden – wet season rice  ............................  20
+Figure 10a Hoa Tua1: Women and men’s time allocation – dry season shrimp  .....  20
+Figure 10b Hoa Tua1: Women’s work burden – dry season shrimp  .......................  20
+Figure 11a Vien An: Membership to community organizations  ............................  26
+Figure 11b Hoa Tua1: Membership to community organizations  ..........................  27
+Figure 12a Vien An: Participation to training courses  ..........................................  27
+Figure 12b Hoa Tua1: Participation to training courses  ........................................  28
+
+v
+Abbreviations and acronyms
+BRAC “Three Reductions, Three Gains” farming practice
+BCR Benefit–cost Ratio
+CLRRI  Cuu Long Delta Rice Research Institute
+DARD  Department of Agricultural Rural Development
+FAO  Food and Agriculture Organization of the United Nations
+FFS Farmer Field Schools
+IPM Integrated Pest Management
+ILRI International Livestock Research Institute
+IRRI  International Rice Research Institute
+MARD  Ministry of Agriculture and Rural Development
+PVS Participatory Varietal Selection
+ROI Return on Investment
+US$ United States Dollars (currency)
+VietGAHP Vietnamese Good Animal and Husbandry practices
+VND Viet Nam Dong (currency)
+
+vi
+Glossary of terms
+The following terms relevant to gender and labour 
+are used in this case study. Some terms are defined 
+in FAO documents and can be accessed from the 
+FAO term portal. Where FAO definitions are not 
+available, those of other sources are provided1. 
+Agricultural holding  when used for statistical 
+purposes, refers to the economic unit of agricultural 
+production under single management, comprising 
+all livestock kept and all land used wholly or partly 
+for agricultural production purposes, without 
+regard to title, legal form or size.a
+Agricultural household refers to a household whose 
+largest source of income consists of income derived 
+from agricultural production.a
+De facto FHH is a household in which an adult male 
+partner is working away from the household, but 
+remains involved through remittances and other 
+economic and social ties.a 
+De jure FHH is a household which has no male 
+partner, such as women who are widowed, divorced 
+or never married.a
+Exchange Labour  is a form of voluntary unpaid 
+labour. It refers to activities performed willingly and 
+without pay to produce goods or provide services for 
+others outside the volunteer’s household or family. 
+Persons in volunteer work are defined as all those 
+of working age who during a short reference period, 
+performed any unpaid, non-compulsory activity 
+to produce goods or provide services for others;
+1 For additional terminology on “naming women’s work” see 
+UNIFEM, 2000 http://www.unwomen.org/en/digital-library/
+publications/2000/1/progress-of-the-world-s-women-2000#view.
+that is for economic units outside the volunteer’s 
+household or family.b
+Female-headed household (FHH)  is a household 
+in which adult males either are not present (owing 
+to divorce, separation, migration, non-marriage, 
+widowhood) or do not contribute to the household 
+income (owing to illness, alcoholism, drug addiction 
+and so forth).a
+Feminization of agriculture refers to the increased 
+concentration of agricultural tasks in the hands of 
+rural women in developing countries.a
+Gender refers to socially constructed differences 
+in attributes and opportunities associated with 
+being female or male and to the social interactions 
+and relations between women and men. Gender 
+determines what is expected, allowed and 
+valued in a woman or a man in a given context. 
+In most societies, there are differences and 
+inequalities between women and men in roles and 
+responsibilities assigned, activities undertaken and 
+access to and control over resources, as well as in 
+decision-making opportunities. These differences 
+and inequalities between the sexes are shaped by 
+the history of social relations and change over time 
+and across cultures.c
+Gender analysis is the study of the different roles of 
+women and men in order to understand what they 
+do, what resources they have, and what their needs 
+and priorities are in a specific context.a
+
+vii
+Glossary of terms
+Gender division of Labour refers to the allocation of 
+different jobs or types of work to men and women, 
+usually by tradition and custom. The activities, 
+tasks and responsibilities that are perceived and 
+ascribed to male and female, creating tendencies of 
+what is performed by them.a
+Gender dynamics is related to “intra-household 
+gender relations”, defined as relations, including 
+power relations, which take place within the 
+household and are affected by existing gender 
+inequalities.a
+Gender equality is the state in which women 
+and men enjoy equal rights, opportunities and 
+entitlements in civil and political life.a
+Gender norms refer to beliefs about women and 
+men, boys and girls that are passed from generation 
+to generation through the process of socialization. 
+They change over time, in different cultures and 
+populations. Gender norms lead to inequality if they 
+reinforce: a) mistreatment of one group or sex over 
+the other; b) differences in power and opportunities.a
+Gender roles are social and behavioural norms that, 
+within a specific culture, are widely considered to 
+be socially appropriate for individuals of a specific 
+sex. These often determine differences in the 
+responsibilities and tasks assigned to women, men, 
+girls and boys within and outside the private sphere 
+of their household.c
+Household is a basic unit for socio-cultural and 
+economic analysis. It includes all persons, kin and 
+non-kin, who live in the same dwelling and share 
+income, expenses and daily subsistence tasks. a
+Intra-household (for example, relations/labour/
+decision-making/allocation of resources/inequality/
+dynamics) refers to relations, including power 
+relations, roles and processes, that take place 
+within the household and are affected by existing 
+gender inequalities.a
+Labour costs. For the purpose of labour cost 
+statistics, labour cost is the cost incurred by the 
+employer in the employment of labour.e
+Productive role refer to the activities carried out 
+by men and women in order to produce goods and 
+services either for sale, exchange, or to meet the 
+subsistence needs of the family (Women and men 
+play multiple roles in society such as productive, 
+household (or reproductive) and community roles. 
+Men tend to focus on productive (remunerative) 
+and community roles, typically fulfilling their 
+multiple roles in a sequence. Women, in contrast, 
+often undertake reproductive, productive and 
+community roles simultaneously).a
+Reproductive role encompasses childbearing/rearing 
+responsibilities and domestic tasks. It includes not 
+only biological reproduction, but also the care and 
+maintenance of children and the elderly.a
+Sex-disaggregated data are data separated by sex 
+in order to allow differential impacts on men and 
+women to be measured. Sex-disaggregated data is 
+quantitative statistical information on differences 
+and inequalities between women and men. a
+Unpaid work can be understood to comprise all 
+productive activities outside the official labour 
+market done by individuals for their own households 
+or for others. These activities are productive in 
+the sense that they use scarce resources to satisfy 
+human wants. Housework, care for children and 
+for sick and old people, do-it-yourself jobs and 
+voluntary community work or work in political 
+or societal organizations, subsistence agriculture, 
+help in family businesses, building the family 
+house, maintenance work, transport services etc 
+have one thing in common: they could, at least 
+in theory, be replaced by market goods and paid 
+services. If it is true that unpaid work is work that, 
+in principle, also could be done in the context of 
+an alternative ‘mode of provision’ by a paid worker, 
+then, by implication the monetary value of unpaid 
+work can be imputed.d
+Unpaid care work refers to all unpaid services 
+provided within a household for its members, 
+including care of persons, housework and voluntary 
+community work (UNIFEM, 2000). These activities 
+are considered work, because theoretically one 
+could pay a third person to perform them.
+
+viii
+Glossary of terms
+Unpaid = the individual performing this activity is 
+not remunerated
+•	 Care = the activity provides what is necessary 
+for the health, well-being, maintenance, and 
+protection of someone or something
+•	 Work = the activity involves mental or physical 
+effort and is costly in terms of time and 
+resources.e
+Unpaid family worker refers to persons who live 
+with the proprietor of the unit and work regularly 
+for the unit, but do not have a contract of service 
+and do not receive a fixed sum for the work they 
+perform. This is limited to those persons who are 
+not included on the payroll of another unit as their 
+principal occupation. For the Labour Force Survey 
+the following definition is used: Family workers are 
+persons who help another member of the family 
+to run an agricultural holding or other business, 
+provided they are not considered as employees.a
+Women’s economic empowerment. Women’s 
+capacity to participate in, contribute to and benefit 
+from growth processes in ways that recognize 
+the value of their contributions, respect their 
+dignity and make it possible to negotiate a fairer 
+distribution of the benefits of growth. a
+Sources:  
+a FAO Term Portal. 
+b ILO Global Statistics and Data Bases. 
+c UNStats. Gender Statistics Manual.  
+d UN DESA, 1999. 
+e OECD 2014.
+
+ix
+Acknowledgements
+Sincere appreciation is extended to colleagues who 
+provided comments and reviewed different drafts 
+of this study: Ilaria Sisto, (ESP), Valentina Franchi, 
+(ESP), Matthias Halwart (SP2), Austin Stankus 
+(FIRA), Massimo Pera (ESA), Clara Park (RAP), and 
+colleagues from the FAO Viet Nam office, SongHa 
+Nguyen and Sanghyun In. Finally, we are indebted 
+to Sofie Isenberg, who not only edited the paper, 
+re-writing some of the sections, but also provided 
+technical inputs and reviewed some of the data. 
+The key findings section of this paper benefited 
+from her analytical contribution. Appreciation and 
+thanks are also extended to Andrea Wöhr for the 
+layout of the publication.
+This case study was carried with the support of the 
+FAO representation in Viet Nam under the direct 
+supervision of Regina Laub, Senior Officer (FAO 
+Social Policies and Rural Institutions Division 
+– ESP). Special acknowledgements go to Ms. 
+Trieu Thy Thanh Thao, Fishery Technical Staff, 
+Planning Office – who organized the field visits. We 
+appreciated the strong support of Mr. Huynh Ngoc 
+Van, and Dr. Tran Dinh Luan, Vice Directors of Soc 
+Trang, Provincial Department of Agricultural Rural 
+Development (DARD) and other staff members of 
+DARD, namely Mr. Long at My Xuyen, sub-DARD, Mr. 
+Dung, leader of Tran De sub-DARD and Mr. Truong 
+Hoang Khai, Vice Leader of Hoa Tua1 commune. 
+We are also deeply indebted to the men and women 
+farmers, government officials and researchers who 
+provided their time and the valuable information 
+on which this study is based on.
+
+x
+Executive summary
+The following are some of the key findings emerging 
+from this study: 
+•	 Of the two production systems, rice–shrimp 
+places a greater demand on households for 
+financial and labour inputs, but it also brings 
+significant social and economic benefits;
+•	 Unpaid family and exchange labour are central to 
+sustaining production in both systems, and play 
+an especially important role in shrimp farming. 
+Traditional labour arrangements should not 
+be dismissed as mere “coping mechanisms”. 
+Rather, their socio-economic relevance to the 
+smallholder context should be given serious 
+consideration and study;
+•	 Households in the rice–shrimp system have 
+more diversified sources of on-farm income 
+compared to those in the rice–rice system and 
+they also earn a significantly higher net income;
+•	 Benefits from rice–shrimp production may foster 
+improvements in economic and social equality. 
+Hoa Tua1 has a much smaller proportion of poor 
+households compared to Vien An, and women in 
+Hoa Tua1 also fare better than their counterparts 
+in a number of ways;
+•	 The large investment required for rice–
+shrimp production makes it a risky enterprise 
+particularly for vulnerable categories (i.e. poor 
+and female-headed households), but if risks are 
+managed it can result in economic growth for 
+the community;
+Viet Nam is one of the major rice exporters in the 
+world. As a result of the Green Revolution, the 
+country was able to meet the increased demand 
+of rice for domestic consumption and for export 
+because of the widespread adoption of high-yielding, 
+short-duration rice varieties, more intensive use of 
+inputs (fertilizers and insecticides) and increased 
+investment in irrigation. Since then, however, the 
+coastal areas of South Viet Nam, which are also  
+heavily affected by saline intrusion, also introduced 
+aquaculture, a farming practice fuelled by technical 
+innovations and a high local and export price of tiger 
+shrimp. Farmers thus converted to shrimp culture 
+during the summer season after harvesting rice.
+This case study analyses and compares the role 
+of women and men in two production systems 
+dominated by rice–rice (double cropping) and rice–
+shrimp. It assesses the gender division of labour, time 
+use and work burden, and reviews the access to and 
+adoption of labour-saving technologies and services. 
+The research draws attention to the importance 
+of making women’s labour contribution visible as 
+this affects many of the production constraints 
+they face.
+The two villages selected for this study are located 
+in the Soc Trang province of southern Viet Nam 
+(see Figure1): Vien An (Tran De district) for rice–
+rice production and Hoa Tua1 (My Xuyen district) 
+for rice–shrimp. The field work was conducted from 
+14 to 24 October, 2015 and relied on the support 
+of the FAO country office and the assistance of a 
+staff member from the province’s Department 
+of Agriculture and Rural Development (DARD). 
+Secondary data was provided by DARD.
+
+xi
+Executive Summary
+•	 Women’s contribution to both productive 
+systems is essential: in addition to being solely 
+responsible for all reproductive work (see 
+“Glossary” section for definitions), women make 
+important labour contributions to farming 
+activities traditionally viewed as “male” while also 
+generating significant income from undervalued 
+“female” activities such as vegetable and small 
+livestock production;
+•	 Cultural norms and expectations about gender 
+roles prevail over changes in the division of 
+labour and create constraints for women. These 
+include:
+ - An insufficient recognition of their productive 
+labour;
+ - An excessive work burden and limited time for 
+engaging in other activities;
+ - An insufficient access to technology, services, 
+agricultural training and credit;
+ - Unequal participation in the decision making 
+process surrounding farm-related activities.
+
+©FAO/Bay Doan Van
+
+1
+1. Introduction
+as “farmers” and decision-makers while women’s 
+contribution remains to be viewed as “housework”.
+Within the framework of supporting sustainable 
+production in a context of rural transformation, this 
+study focuses on smallholder farms 3 in Soc Trang, 
+southern Viet Nam. Its purpose is to highlight 
+and compare women and men’s contributions to 
+two integrated, rice-based farming systems and 
+explore how gender norms affect labour and access 
+to productive inputs, technologies and services: 
+the first is a more traditional production system, 
+centred on double rice cropping, while the second 
+adopted an innovative practice by integrating rice 
+and aquaculture (shrimp farming).
+The research focuses on the entire livelihood 
+system: the analysis, therefore, covers both 
+household and farm work, in order to make 
+competing time demands more visible; moreover, 
+it does not only cover primary productive activities, 
+rice and shrimp, but also illustrates the relevance of 
+women and men’s engagement in complementary 
+income- generating tasks linked to livestock and 
+vegetable farming.
+In order to also highlight the value of unpaid labour 
+to the two farming systems, a traditional gender 
+analysis, which explores roles and responsibilities, 
+decision-making about productive inputs and 
+membership to institutions (as a key entry point 
+for local services), was combined with an economic 
+analysis that included labour costs. As a result, the 
+study provides an insight into the influence of
+3 2010 Viet Nam household living standards data indicated that 
+67.38 percent of the households in Viet Nam have production areas 
+of less than 0.5 hectare (Dao T.A. et al., 2015).
+Viet Nam’s economic growth over the last decades 
+is strongly linked to its agricultural sector: since 
+the 1980s, the intensification of rice production 
+in the Mekong Delta enabled the country not 
+only to achieve food security but also to produce 
+a large surplus for export. Increased investments 
+in irrigation and in high-yielding rice varieties, 
+combined with a more intensive use of fertilizers 
+and technology, allowed farmers to shift from single 
+cropping to double or triple cropping systems. 
+However, limited opportunities to further expand 
+farmland in the Mekong River Delta rice area and 
+strong economic perspectives linked to the high 
+local and export price of tiger shrimp, encouraged 
+the government to support aquaculture as an 
+alternative farming practice. In 2001, the original 
+policy promoting rice production was, therefore, 
+revised to accommodate shrimp cultivation.
+These transformations in the productive system 
+have brought about changes in the social 
+organization of farming and led to shifts in the 
+traditional division of labour. There are a number of 
+factors driving these changes, and affecting women 
+in particular, such as seasonal male out-migration2, 
+youth moving to the cities to look for non-farm 
+employment opportunities, and the introduction 
+of mechanization to support rice and shrimp 
+production. From a social perspective, these changes 
+can offer opportunities for income generation and 
+empowerment but they can also entail risks if social 
+norms and behaviour do not adapt to change. This is 
+the case, for instance, when traditional ideas about 
+gender roles persist and men continue to be viewed 
+2 Male out migration can lead to the “feminization of agriculture”, 
+see Glossary of Terms.  
+
+
+2
+1. Introduction
+gender dynamics on agricultural productivity. 
+In doing so, it contributes to FAO’s work under 
+Strategic Objective 2: “Make agriculture, forestry 
+and fisheries more productive and sustainable”. It 
+also supports two FAO regional initiatives: the Asia 
+and Pacific Blue Growth Initiative and the Regional 
+Rice Initiative.
+It is worth noting that because this study explores 
+a number of themes that exist at the intersection 
+between labour and gender dynamics, it makes 
+frequent use of concepts and terminologies from 
+both of these fields, some of which may partially 
+overlap with each other. For example, despite the 
+fact that they have slightly different connotations, 
+terms such as household, reproductive, and unpaid 
+care work are all used more or less interchangeably 
+throughout the study to denote a specific array 
+of tasks that women in both villages are uniquely 
+responsible for, and which tend not to be recognised 
+as work. The first two terms bring into focus 
+the importance of gender roles in determining 
+the dynamics of labour force participation and 
+recognition. The term “unpaid care work”, on the 
+other hand, places these activities within the larger 
+context of unpaid family and exchange labour in 
+order to highlight the ways in which both productive 
+and reproductive contributions are indispensable to 
+the functioning of the smallholder economy (See 
+“Glossary” section for definitions).
+This introduction is followed by a description 
+of the research methodology (section 2), and an 
+overview of the research area (section 3). Section 4 
+constitutes the main body of the case study: it 
+presents and analyzes the results and compares 
+the two villages and their production systems. The 
+conclusion (section 5) discusses the study’s key 
+findings and provides recommendations to address 
+the main constraints that were identified.
+
+3
+2. Methodology
+Within the framework of its analysis of the overall 
+rice and rice shrimp production systems, this study 
+focuses on the following gender-related themes:
+•	 The division of labour and time-use by gender 
+for primary (rice–rice, rice–shrimp) and 
+complementary productive activities (livestock 
+and vegetables);
+•	 The economic value of women and men’s labour 
+within the productive system;
+•	 Women and men’s daily work burden, based on 
+an analysis of the share of time dedicated to 
+four categories of activities: productive work, 
+household work, leisure, sleep and personal care;
+•	 Access to resources and agricultural services 
+by gender;
+•	 Access to labour-saving technologies and 
+practices by gender;
+•	 Degree of women’s influence with regard to 
+production-related decisions.
+Selection of research sites
+Based on the overall aim of the study, a preparatory 
+visit was conducted to discuss the research sites with 
+officials of the Soc Trang province Department of 
+Agriculture and Rural Development (DARD). A local 
+social scientist and staff from DARD visited potential 
+research sites (district and communes) and conducted 
+informal interviews with key stakeholders. In order 
+to be able to compare a rice–rice system with a rice–
+shrimp system, the team identified sites where the 
+traditional rice–rice production system was in use, 
+as well as sites where a change in farming practices 
+had occurred in recent years. Other considerations 
+included distance to Soc Trang and town proper, 
+and the willingness of the leaders and farmers to 
+cooperate in the interviews. The final selection fell 
+upon Vien An in the Tran De district (rice–rice), and 
+Hoa Tua1 of My Xuyen district (rice–shrimp).
+Data collection
+Fieldwork was conducted from 14 to 24 October, 
+2015 by two social scientists with expertise in 
+gender, supported by a staff member of DARD in the 
+Soc Trang province. DARD provided secondary data 
+regarding the province and districts, while village/
+community information and farm-household level 
+data were collected by using participatory rural 
+appraisal (PRA) tools and through focus group 
+meetings. The researchers mapped different data 
+sets against each other so as to verify the accuracy 
+of the information they collected. Both villages 
+are composed of smallholder farmers (maximum 
+of 1.5 ha of land) but amongst these there are 
+relevant differences in wealth group. Wealth 
+group characteristics were identified based on 
+government criteria (poor households are assessed 
+by income/capita/year while middle and better off 
+households are assessed on income/capita/year as 
+well as rice area).
+The total number of interviewees was 85 
+(58 in Vien An and 27 in Hoa Tua1). Key 
+village informants included leaders of different 
+associations/cooperatives (women, farmers and 
+youth), a representative of the military veterans 
+group, and key female and male farmers. This 
+group provided the overview of the different socio-
+economic groups living in the community, their 
+key productive activities and assets, and their 
+income sources. They also provided inputs on the 
+main organizations and cooperatives active in the 
+communities and their membership. Separate 
+groups of male and female farmers provided the 
+farm/household information (9–12  informants in 
+each focus group).
+It was observed that the production system in both 
+villages did not rely on family members alone but 
+
+4
+2. Methodology
+6
+Finally, in order to estimate the value of unpaid 
+family labour and the returns to labour, the 
+equivalent of men and women’s daily labour cost was 
+incorporated in the analysis. Hourly labour inputs 
+were converted to workday equivalents per plot per 
+season. The labour days were then multiplied by 
+estimated labour costs (these sometimes differ by 
+gender7 and are based on the sum of different wages 
+assigned by task, or lump sums per day).
+6 Crop plots vary in size by season depending on environmental 
+conditions (land drainage), irrigation capacity/water availability. 
+For rice and shrimp, the rice plot converted into shrimp is reduced 
+due to the making of ridges and canals. 
+7 Women’s agricultural labour is, in most cases, paid less than men.
+engaged different types of labourers (“household” 
+men and/or women; hired men/women; female/
+male exchange labourers4).
+In order to assess the diversity of workforce, 
+labour data was collected based on a representative 
+plot size by crop (by converting the local unit of 
+measurement – the big cong – into hectares) 5. By 
+doing this, it became possible to systematically 
+compare different labour inputs to the rice–rice and 
+rice–shrimp systems. For the rice–rice system in 
+Vien An, the plot size identified was 0.65 ha (= 5 big 
+cong) for the wet season and 0.26 ha (2 big cong) 
+for the dry season. For the rice–shrimp system in 
+Hoa Tua1 the plot size identified was 1.3 ha for 
+the wet season 0.2 ha for the dry season 6. For each 
+season, all crop/aquaculture/livestock operations 
+were identified and information was collected for 
+the number and type of labourers contributing to 
+each operation, as well as the total hours worked 
+per day.
+The same principle was used for the collection of 
+livestock data. In order to allow for comparison 
+between the two villages, respondents were asked to 
+identify an average number of livestock owned per 
+household and the feed-back for Vien An was based 
+on three cows and five pigs, while for Hoa Tua1 it 
+was based on two pigs and two cows. The data was 
+weighted accordingly (on a “per hectare” and “per 
+unit of livestock” basis).
+Collateral crops, such as upland vegetables, are 
+important for food security in the dry season 
+and are exclusively farmed by family members 
+(mostly women). The data collection was therefore 
+exclusively based on family labour. The plot sizes 
+under consideration were considerably smaller: 
+0.05 ha for onion leaves, 0.14 ha for squash and 
+0.1 ha for beans.
+4 Labour exchange is a form of unpaid labour, where farmers form a 
+work team that performs tasks (planting, weeding or harvesting) 
+on different farms in succession. In Hoa Tua1, the work team is 
+composed of neighbours, close friends or relatives who have good 
+social relationships/trust with one another. 
+5 See agricultural holding in the glossary of terms.
+
+5
+3. The research area
+The Mekong Delta is the most important rice 
+production area in Viet Nam (1.7 million ha 
+dedicated to rice farming). In 2014, its rice yield 
+was 25.2 million tonnes (average of 5.94 tonnes 
+per ha), of which 5.85 million tonnes of milled 
+rice were exported (General Statistics Office of 
+Viet Nam, 2014). Rice is grown on 0.7 million ha 
+in the coastal zones of the delta and most of this 
+area is affected adversely by salt stress. As in other 
+coastal areas, salinity is normally high during the 
+dry season and then decreases progressively with 
+the onset of monsoon rains that wash the salt from 
+the soil. Unless properly managed, high salt stress 
+can cause problems for dry season crops (including 
+lower rice yields) and wet season rice (during crop 
+establishment). Salt water also travels inland due to 
+lower freshwater levels during the dry season in the 
+Mekong River and its tributaries at the mouth of 
+the delta. This is particularly evident in February–
+May, with the peak during April–May, when salt 
+intrusion can reach close to 60 km inland.
+The rice–shrimp system was developed at the 
+beginning of 1980s in response to the economic 
+Figure 1. Map of Soc Trang province with My Xuyen and Tran De districts
+
+6
+3. The Research Area
+opportunities offered by high shrimp prices and 
+support for production diversification from the 
+government through favourable policies. In 1991, 
+230 000 ha were covered by shrimp production 
+(yielding 56 000 tonnes). By 2013, the shrimp area 
+had expanded to 652 613 ha with a total production 
+of 475 854 tonnes. Shrimp hatcheries, processing 
+plants and feed factories were developed, and 
+water management skills and land ownership 
+allowed farmers to modify their ponds according 
+to the needs of the production systems (World 
+Aquaculture 2015).
+Soc Trang province (Figure 1) is one of the provinces 
+located in the Mekong Delta. The whole area is 
+veined by channels of the Mekong River, including 
+one of its larger tributaries, the Bassac River, 
+which runs across the province’s north-eastern 
+border. The Bassac River empties into the South 
+China Sea, which is the south-eastern border of the 
+province. The meeting of these two large bodies of 
+water makes this part of the delta ripe for saline 
+intrusion. As most of the land is located in salinity 
+and drought-prone zones near the river, canals and 
+sea, this environment affects rice yields (in 2012, 
+the rice area of Soc Trang province was 147 127 ha 
+with an average yield of 6.2 tonnes/ha) but offers 
+the opportunity for shrimp farming.
+Of the two villages selected for this study, Vien 
+An (rice–rice) continues to mostly farm rice: 
+89.4 percent of its total land area (2 416 of 2 703 ha) 
+is devoted to agriculture, of which 80.7 percent 
+(1 959 ha) is cultivated with rice. The village has a 
+population of 10 606 of which 54 percent are females 
+(Ministry of Agriculture and Rural Development 
+2013). The second village, Hoa Tua1, is larger than 
+Vien An and has a more diversified economy: out 
+of its total area of 3 186 ha, 51.1 percent is devoted 
+to agriculture (1 628 ha). Its rice–shrimp area 
+occupies 2 400 ha (75 percent) of the agricultural 
+area (DARD 2015).
+
+7
+4.1. Local context
+This section gives an overview of the socio-
+economic context in which farming households in 
+the two villages operate.
+Table 1 shows that the proportion of poor 
+households is much higher in Vien An than in 
+Hoa Tua1 (where more than half of the households 
+belong to the middle income group8). Both villages 
+have an average of 20 percent of female-headed 
+households, which are concentrated amongst 
+the poorest households. In both villages, poorer 
+families have an average of four household 
+8 This includes the de jure (widows, divorced) and the de facto  heads 
+(married women whose husbands are away for long periods of time 
+due to migration or who are engaged in non-farm employment).
+members, which is consistent with the national 
+average household size of 4.2 members in the 
+Mekong Rice Delta (FAO & SIDA, 2010). In both 
+villages there is an adult gender gap in access to 
+education. Except for the better off households in 
+Hoa Tua1, women consistently have fewer years of 
+schooling than men in the same income category 
+and they often have not completed elementary 
+school. Data was not collected for children’s 
+school attendance, but it was observed that the 
+education gap seems to have diminished as a result 
+of a government policy for better education of 
+young children and youth from the rural areas: all 
+children now attend school.
+Table 1. Socio-economic characteristics of farming households (hhlds)
+Village Vien An (rice–rice) Hoa Tua1 (rice–shrimp) 
+Indicator/wealth group Poor 
+Middle  
+income Better off Poor
+Middle 
+income Better off
+Average size of households 4 4 6 4 5 6
+Number of households
+(% of households)
+1 020 
+(41 %)
+1 027
+(41 %)
+440
+(18 %)
+300 
+(13 %)
+1 241
+(52 %)
+823
+(35 %)
+% Male headed hhlds
+% Female headed hhlds
+75
+25
+85
+15
+90
+10
+70
+30
+85
+15
+80
+20
+Adult men (yrs in school)
+Adult women (yrs in school) 
+5
+3
+8
+6
+9
+7
+5
+4
+9
+6
+12
+12
+Income/capita/year (US$) 284 284 to 1 
+091
+≥ 1 091 284 284 to 
+1 636
+≥ 1 636
+Size of land holding(ha) 0.25 0.75 1.50 0.10 0.80 1.50
+Distance from house to farm (m) 0–500 1–500 0–200 0 0 0–200
+Source: Small group discussions with key community leaders from each village.
+4. Insights from the villages
+
+8
+Economic status and income
+Poverty is strongly related to farm size. Poor income 
+households in the two villages own small units of 
+land (0.10 to 0.25 ha) which means that they can 
+only rely on limited subsistence production which 
+needs to be integrated with agricultural wage work 
+(their yearly income per capita is US$284). In both 
+villages, the middle income group owns an average 
+of 0.8 ha while the better off households own 
+1.5 ha each.
+Income data was collected for an economic analysis of 
+the production system (data in Table 1). Information 
+was obtained about the sources of income from 
+the sale of rice, vegetables, shrimp and livestock 
+(cattle, pigs, poultry), as well as agricultural labour 
+and non-farm income, including remittances (see 
+Figures 2a and 2b). Table 2 shows that the income 
+per capita per year of the poor households is similar 
+for both villages. However, the middle and better 
+off households in Hoa Tua1 earn more than those 
+in Vien An village.
+In terms of an analysis of different income sources, 
+in Vien An, rice sales comprise the highest share 
+of total income among the middle and better off 
+groups (60 percent). In contrast, poor households 
+consume almost all of the rice they grow and derive 
+most of their income from working as agricultural 
+labourers on other farms (45 percent), and other 
+non-farm income, including remittances and 
+seasonal work in the city (30 percent).
+The share of milk sales to total income is substantial 
+for the middle income groups, and provides cash 
+flow for the daily expenditures required in between 
+rice planting and harvesting. In contrast, the 
+poor and better off households have fewer milk-
+producing cows and earn more income from 
+other types of animals, such as pigs and poultry. 
+Migrant male family members leave the village 
+after harvesting rice and come back in January, so 
+they send remittances back to their families. This 
+increases women’s work burden as they have to take 
+over the agricultural work in addition to household 
+chores and childcare responsibilities.
+In Hoa Tua1, households have more diversified 
+sources of livelihoods. In contrast to Vien An, 
+poor households only rely on agricultural labour 
+and other non-farm activities for half of their 
+income. For the poor and middle income groups, 
+rice, vegetables, shrimp and livestock sales are of 
+close to equal importance. Shrimp production is 
+the major income source of better off households. 
+In this village, members of households from the 
+Figure 2a. Vien An: Income distribution by  
+wealth group
+Better off
+Middle income
+Poor
+Non Farm
+Ag. Labour
+Livestock
+Milk
+Vegetables
+Rice
+Figure 2b. Hoa Tua1: Income distribution by 
+wealth group 
+Non Farm
+Ag. Labour
+Livestock
+Milk
+Vegetables
+Rice
+Better off
+Middle income
+Poor
+4. Insights from the villages
+
+9
+middle and better off income group are not engaged 
+in off-farm work. A few better off farmers who own 
+machinery earn non-farm income by providing 
+rental services to other farmers (Figure 2b).
+4.2 The production systems
+Both Vien An and Hoa Tua1 have adopted a mixed 
+farming system based primarily on rice or rice–
+shrimp integrated with vegetables and livestock 
+breeding. The degree of market orientation of 
+farming households in both villages is high, 
+despite small farm sizes. This study focuses on 
+the production side, but it would also be relevant 
+to carry out an in-depth study on market access 
+and income generation (Appendix Tables 1 and 2 
+provide additional information by village on percent 
+of households farming rice and shrimp, growing 
+vegetables and breeding livestock by wealth group. 
+The tables include information on yields as well as 
+amounts kept for consumption and production).
+Rice–rice
+Rice–rice (i.e. two crops of rice per year) is the 
+major farming practice adopted in Vien An. Before 
+1984, farmers grew only one rice crop per year with 
+traditional rice varieties. In 1983, rice production 
+collectives were established and by 1988, rice–rice 
+was spreading gradually. This shift can be attributed 
+to government directives to improve the irrigation 
+canals. Farmers contributed with their labour 
+while the government paid for the machinery to dig 
+the canals. By 2000, all rice farming households 
+had adopted the rice–rice system, which involves 
+growing rice during both the wet season (July to 
+October) and dry season (October to January). 
+During the wet season, farmers prepare the land in 
+late June, sow seeds in early July, weed the fields 
+in early August, harvest and thresh in late October. 
+For the dry season, they start preparing the land in 
+October and harvest in January. Farmers use short-
+duration varieties developed and introduced by the 
+Department of Agriculture in Soc Trang province 
+and the Cuu Long Delta Rice Research Institute 
+(CLRRI). Average rice yields are higher (7 tonnes/
+ha) during the dry season than in the wet season 
+(6 tonnes/ha).
+Rice–shrimp
+Rice–shrimp is the dominant farming practice in 
+Hoa Tua1. During the wet season, farmers grow 
+rice in September and harvest in December. In 
+order to farm shrimp, the traditional rice fields 
+are redesigned with a trench and dike around the 
+periphery of the field. Even though the available 
+area for rice production is reduced, trenches have 
+the benefit of providing a refuge for shrimp away 
+from the more extreme environmental conditions 
+of flooded rice fields (Brennan and Preston 2002). A 
+flap gate is used to manage tidal influx of water. At 
+the start of the shrimp season, when the water in the 
+local canal system has become saline, the trenches 
+are filled and the entire field is flooded with saline 
+water. At the beginning of the wet season, rainfalls 
+as well as fresh water from the river are used to 
+flush the fields of residual salinity, before planting 
+the new rice crop.
+After the December rice harvest, farmers convert 
+the field for shrimp farming by removing the rice 
+stubbles and dumping the soft mud on the bunds. 
+They drain and dry the fields twice, to control the 
+bacteria left on the soil. They also apply lime to 
+reduce soil acidity. Then, in April, farmers release 
+the shrimp larvae and feed them three to four 
+times per day. They measure the soil pH, apply 
+lime at ten to fifteen day intervals, and operate the 
+ventilator at night starting at 8 p.m. and during the 
+day at two hour intervals. The duration of shrimp 
+production depends on the breed. It takes four to five 
+months to raise “Tom Su” (common tiger prawn). 
+Harvesting and selling takes place in July when 
+shrimp produced on the farm are sold to traders.
+Vegetables
+Aside from rice and shrimp production, most 
+farming households grow vegetables on the uplands 
+or upper bunds for food consumption and/or income 
+generation. This activity is especially concentrated 
+among middle-income and poor households in 
+both villages (50 to 60 percent of middle income 
+households and 30 percent of poor households are 
+engaged in vegetable production). In Vien An, the 
+main production is onion leaves, while in Hoa Tua1 
+it is green beans and squash. All the green beans 
+produced are kept for home consumption and 
+4. Insights from the villages
+
+10
+provide an important source of nutrition for the 
+family, while onion leaves and squash are mainly 
+grown for sale. In Vien An, the upper bunds are also 
+used to grow fodder for livestock.
+Livestock
+Livestock farming is prominent in both villages, with 
+some differences between villages and income groups. 
+Overall, it is more common among households in 
+Hoa Tua1 than in Vien An, especially for poultry 
+and duck production. In Vien An, however, 
+individual households own more cattle, as these 
+are raised for milk production 9, while in Hoa Tua1 
+they are raised for fattening 10 The percentage of 
+households involved in livestock production tends 
+to be higher in the middle-income group than in 
+the poor and better off groups, with the exception 
+of poultry production in Hoa Tua1, which involves 
+100 percent of households across all income 
+groups. In both villages, pigs are raised mainly for 
+fattening, while chickens and ducks are partially 
+kept for consumption and partially sold.
+9 One household can sell 12 kg milk/day to the Milking Cow 
+Cooperatives.
+4.3 Gender division of labour and 
+economic returns to labour
+10
+The data presented below illustrate the sex-
+disaggregated distribution of labour across the entire 
+spectrum of productive activities in the two villages 
+(Figures 3a and 3b). This summarized information 
+is followed by two sections focusing specifically 
+on the main productive activities (rice–rice and 
+rice–shrimp) and on livestock as a complementary 
+activity which has relevant implications from the 
+labour and economic point of view. Labour inputs 
+to vegetable production are not elaborated as a 
+separate section but all the summary labour data 
+can be found in Appendix Table 3.
+The importance of unpaid family labour (through 
+the attribution and analysis of workforce members’ 
+estimated costs of labour by day/hectare) is 
+also highlighted through the presentation of 
+an economic analysis (cost and benefit) and 
+comparison of the two production systems.
+As shown in Figure 3a, women’s labour inputs 
+in agriculture in Vien An are substantial. In fact, 
+women’s contribution to rice production is slightly 
+higher (52 percent) than men’s during the wet season, 
+and their contribution to onion leaves production 
+10 One cow costs between US$909 to 1 270 and it can produce up 
+to two calves in two years (this is locally considered as a good 
+investment). A farmer usually sells one calf at US$909 and keeps 
+the second calf to breed.
+Example of trenches created in-between farmland
+Farmer tending to cattle
+Figure 3a. Vien An: Division of labour by 
+productive activities 
+Rice
+(wet)
+52
+48
+Rice
+(dry)
+48
+52
+Onion
+leaves
+61
+39
+Pigs
+67
+33
+Cows
+41
+59
+% Men
+% Women
+4. Insights from the villages
+©FAO/Bay Doan Van©FAO/Hoang Dinh Nam
+
+11
+and pig farming is significantly higher (61 percent 
+and 67 percent). They also have a key role in cattle 
+farming (41 percent), even though this activity is 
+culturally perceived as being male-dominated.
+In Hoa Tua1 village (Figure 3b), disparities in the 
+division of labour are more pronounced. Men’s 
+labour inputs are dominant in both rice and 
+shrimp production (66 percent and 70 percent 
+respectively). However, women’s contribution is 
+still relevant and despite having a stronger focus 
+on subsistence crops, such as squash (52 percent) 
+and beans (79 percent), they were also reported as 
+contributing to household income by engaging in 
+market sales of rice and shrimp. Similarly to Vien 
+An, women also make significant contributions to 
+cattle (43 percent) and pig farming (75 percent).
+4.3.1 Division of labour in primary productive 
+activities (rice and shrimp)
+The findings introduced in this section refer to 
+labour and time use data collected by season, 
+as variations linked to temperature and rainfall 
+affect soil conditions and farming practices. The 
+detailed sex-disaggregated data presented below 
+highlight the fact that despite the importance of 
+traditionally assigned roles among men and women 
+(men assigned to “heavy tasks” which they carry out 
+with the help of mechanization and women mostly 
+assigned to time consuming and manual tasks), the 
+gender division of labour is changing and adapting to 
+external factors linked to male migration, technology 
+introduction or, more broadly, household economic 
+need. For instance, the data showed that women 
+now contribute to tasks which were once exclusively 
+attributed to men, such as spraying pesticides on 
+rice, or weighing and mixing shrimp feed, while men 
+have begun to share women’s work on hand weeding 
+and gap filling as a result of the introduction of the 
+gap-filling tool. Despite these changes, cultural 
+perceptions remain aligned with traditional gender 
+roles, in which men are seen as performing “heavy” 
+tasks (see sub-sections below for examples) and 
+managing farms, while women are understood as 
+housewives who perform “light” tasks. Because of 
+some of these perceptions, women’s unpaid labour 
+inputs are often officially invisible and they are under-
+represented in agricultural training and agricultural 
+extension programmes. As a result of this, women’s 
+labour inputs are valued less than men’s and their 
+wages are lower: women receive VND100 000/day 
+(US$4.55) for gap-filling11, weeding and harvesting 
+while men are paid VND120 000/day (US$5.45/
+day) for field work such as spraying chemicals, rice 
+hauling, etc. Other work is not paid by activity but 
+rather through lump sum contracts.
+Vien An village: Rice production (wet season)
+Of the total labour inputs (number of person days 
+per hectare), the percentage contribution of female 
+labour is slightly higher (52 percent) than that of 
+men (48 percent). An analysis of the person days/
+hours spent per hectare shows that the sequence 
+in rice operations during the wet and dry season 
+is similar, but several operations (land preparation 
+and weeding) require much more time overall 
+(98 days compared to 42). In terms of division of 
+labour, men exclusively prepare the land, broadcast 
+the seeds, irrigate with a water pump, drain the 
+fields, and harvest/thresh the rice with the use 
+of the combine. Women fully share some of the 
+“heavy” tasks, such as cleaning the fields, preparing 
+the bunds, making internal field ditches, and take 
+their share at spraying pesticides, broadcasting 
+fertilizer and regularly visiting the fields to check 
+for pests and diseases. They have full responsibility 
+for the more manually demanding and tiring jobs 
+11 “Gap filling” refers to filling the areas where seeds have not 
+germinated within 7 to 10 days after transplanting.
+Figure 3b. Hoa Tua1: Division of labour by 
+productive activities 
+Rice
+(wet)
+Shrimp
+(dry)
+Green
+beans
+Squash Pigs Cows
+34
+66
+30
+70
+79
+21
+52
+48
+75
+25
+43
+57
+% Men
+% Women
+4. Insights from the villages
+
+12
+such as hand weeding, which is repetitive, time-
+consuming and difficult to describe as “light”. 
+The introduction of farming technologies for a 
+given task tends to lead to men taking over that 
+task: traditionally, gap filling was also exclusively 
+a women’s job, but according to the women, when 
+they invented the gap-filling tool, men began to 
+be involved in this activity. Manual harvesting is 
+still relegated to women but the introduction of 
+the combine (harvester-thresher) has exclusively 
+shifted the mechanised activity to men.
+Vien An village: Rice production (dry season)
+Of the total labour inputs in rice production 
+per hectare, women provide 48 percent, which 
+is almost equal to their male counterparts 
+(52 percent). Land preparation, making internal 
+ditches, bund preparation, levelling the field, 
+spraying pesticides, and irrigating the fields remain 
+exclusively men’s jobs. However, there have been 
+changes in the gender division of labour in some of 
+the rice operations. Cleaning the field, broadcasting 
+seeds and broadcasting fertilizer are activities that 
+used to be exclusively done by men and are now 
+equally divided among men and women. Although 
+harvesting in this village is commonly done by a 
+combine, rice stalks have a higher propensity to 
+lodge during the dry season, and therefore require 
+manual work by sickle, a task relegated mainly to 
+women (as is hand weeding). Gap filling, which 
+used to be exclusively done by women, is now 
+equally done by both men and women as a result of 
+the introduction of the gap-filling tool.
+Hoa Tua1 village: Rice production (wet season)
+Under the rice–shrimp farming system, women’s 
+overall contribution to rice production is smaller 
+compared to men’s (34 percent vs 66 percent). 
+Farmers in Hoa Tua1 grow rice after harvesting 
+shrimp during the dry season. As shown in Figure 4c 
+the entire preparatory work, from washing out 
+salinity to pulling seedlings is exclusively done 
+Figure 4a. Vien An: Division of labour – wet season rice 
+% Men
+% Women
+0
+20
+40
+60
+80
+100
+Prepare land(mechanized)
+Make field ditches
+(manual)
+Clean the field
+combine
+Harvest with Prepare bundsBroadcast seeds
+Fill gaps
+Broadcast fertilizerSpry pesticidesDrain the fieldHandweedVisit the field
+Haul Total
+52
+48
+Figure 4b. Vien An: Division of labour – dry season rice 
+48
+52
+Prepare land
+Make field ditches Prepare bunds Broadcast seeds
+Fill gaps
+Broadcast fertilizer
+Spry pesticidesDrain the fieldHandweedVisit the fieldLever land
+Total
+% Men
+% Women
+(manual)
+Clean the field
+combine
+Harvest with 
+0
+20
+40
+60
+80
+100
+4. Insights from the villages
+
+13
+by men and requires a lot of time and effort. Men 
+also devote more time to field visits. Interestingly, 
+hand weeding, an activity that used to be assigned 
+to women, is shared, while gap filling remains 
+exclusively a task for women. Women also manually 
+harvest with a sickle, as the softness of the soils do 
+not allow for mechanised harvesting. Mechanical 
+threshing is predominantly done by men although 
+women also help. Thanks to the mechanical 
+threshing, women save time for winnowing.
+Hoa Tua1 village: Shrimp production (dry season)
+Shrimp farming is both labour and knowledge-
+intensive. After harvesting rice, farmers have to 
+carefully prepare the pond for shrimp production 
+in order to prevent disease infestation. Women 
+contribute by removing the stubbles that remain 
+in the soil after harvesting rice. Once this 
+operation is complete, men remove the mud, 
+drain the field, apply lime to reduce soil acidity, 
+and irrigate the fields. Men and women share the 
+work strictly linked to shrimp farming: there is 
+an equal distribution of labour for releasing the 
+shrimp larvae, operating the ventilator to provide 
+oxygen to the shrimp, and visiting the fields. 
+More men than women are involved in weighing 
+and mixing the feeds, feeding the shrimp, and 
+classifying them for sale. Of the total person days/
+ha spent on shrimp production during the dry 
+season, women and men contribute 30  percent and 
+70 percent, respectively (Figure 4d). This season 
+also coincides with the cultivation of vegetables 
+(squash and green beans) grown on the bunds or 
+upland fields, which sees heavy labour inputs by 
+women (see Appendix Table  4).
+Workforce distribution
+Labour inputs are often the highest share of total 
+production costs for smallholders, and family 
+labour allows households to save on these costs. In 
+Figure 4c. Hoa Tua1: Division of labour – wet season rice 
+% Men
+% Women
+0
+20
+40
+60
+80
+100
+Make field ditchesIrrigate & drain fieldBroadcast seeds
+Put the seeds to fill gaps
+Fill gaps
+Broadcast fertilizerSpry pesticidesHandweedVisit the field Harvest manually
+Thresh
+Wash field salinity
+Total
+34
+66
+Prepare land(mechanized)
+Figure 4d. Hoa Tua1: Division of labour – dry season shrimp 
+0
+20
+40
+60
+80
+100
+30
+70
+Remove rice
+Remove soft mudDrain the field
+Apply limePump water
+Total
+Release shrimp larvae
+Operate ventilatorWeight & mix feed
+Feed shrimp
+Test PH and salinity
+Visit the field
+stubbles
+% Men
+% Women
+4. Insights from the villages
+
+14
+both communities households were found to rely 
+on family labour, though to different extents (in 
+Figure 5a and b below family labour is disaggregated 
+by “HH men” and the “HH women” 12). In this 
+section we present the diverse profile of the rice 
+and shrimp workforce in order to illustrate the 
+yearly contribution of women and men (sum of 
+two seasons) and discuss the importance and 
+implications of unpaid labour.
+In both villages, the workforce includes family 
+labour (male and female) plus hired labour. In 
+addition, farmers in Hoa Tua1 cope with labour 
+and cash shortages during the peak rice season 
+by using exchange labour (male and female), a 
+practice based on reciprocity, trust and good will 
+among a group of community members (mostly 
+friends and relatives).
+Figure 5a highlights the vital importance of both 
+male and female unpaid family members’ labour 
+contributions to the rice–rice production system 
+12 The research did not separately assess female-headed households 
+nor was the labour of other household members included (eg. sons 
+and daughters).
+(67 percent total). Hired labour, which is also almost 
+evenly divided among men and women, makes up 
+the remaining 33 percent of the workforce. Family 
+labour is even more important in the rice–shrimp 
+production system, as family members work both 
+as unpaid and exchange labourers (Figure 5b), 
+resulting in very low levels of hired labour (7 percent 
+of labour is made up of hired males and hired 
+females are close to zero). In contrast to the rice–
+rice system, the demand for male family labour is 
+higher than for female family labour.
+Total labour inputs in the rice–shrimp system are 
+significantly higher (239 person days/ha) than in 
+the rice–rice system (140 person days/ha). Women’s 
+labour inputs compared with men (Figures 6a and 
+6b) are higher in the rice–rice system (51 percent) 
+than in the rice–shrimp system (31 percent).
+In summary, in both production systems, family 
+members contribute significantly in saving on 
+labour costs and securing returns on investments.
+Figure 5a. Vien An: Rice-rice workforce distribution 
+33%
+34%
+16%
+17%
+HH Women
+Hired Women 
+HH Men
+Hired Men 
+Figure 5b. Hoa Tua1: Rice–shrimps workforce distribution 
+54%
+24%
+8%
+7%
+7%
+HH Women
+Exchange Women 
+Hired Men 
+HH Men
+Exchange Men 
+Figure 6a. Rice–rice: Gender division of labour
+49%51%
+Women
+Men 
+Figure 6b. Rice–shrimp: Gender division of labour
+69%
+31%
+Women
+Men 
+4. Insights from the villages
+
+15
+Production returns from rice–rice and rice–shrimp
+This section presents an economic analysis and 
+discusses the benefit–cost ratio (BCR) and overall 
+returns to rice–rice and rice–shrimp production. 
+As part of this analysis, a financial value was 
+assigned to both paid and unpaid labour in order 
+to highlight the importance of these contributions 
+to the productivity of each system. In order to 
+determine the value of labour, hourly labour inputs 
+were converted to workday equivalents per plot per 
+season. The labour days were then multiplied by the 
+average wages or lump sums paid to women and 
+men (these differ by gender) for the agricultural 
+task in question. By including both actual and 
+implied costs to the system, the analysis helps to 
+highlight the importance of labour contributions 
+that would otherwise be invisible to the system.
+Table 2 below illustrates that rice–shrimp yearly 
+brings in a gross return 2.4 times higher than rice–
+rice (US$2 838/ha versus US$1 186/ha). However, 
+because the cost of material inputs for rice–shrimp 
+production is over four times higher than it is for 
+rice–rice production, the BCR for rice–shrimp is 
+Table 2. Costs and benefits in rice–rice and rice–shrimp farming (US$)
+Farming system  Rice–rice Rice–shrimp
+Variables
+Rice  
+(wet)
+Rice  
+(dry)
+Rice–rice 
+converted
+into ha*
+Rice  
+(wet)
+Shrimp 
+(dry)
+Rice– 
+shrimp 
+converted 
+into ha*
+Plot size 0.65 0.26 0.91 1.3 0.2 1.5
+Yield (kg/plot) 3 500 1 800 9 750 500
+Price (VND/kg converted in US$/kg) 0.19 0.23 0.25 3.64
+Gross returns (US$) 665 414 1 186 2 438 1 820 2 838
+HH men labour costs 
+(including exchange labour) 108 25 146 307 165 314
+HH women labour costs 105 13 130 177 80 171
+Hired men labour cost 116 70 204 122 100 148
+Hired women labour cost 45 11 61 7 0 5
+Total labour costs (US$) (TLC)**
+(Including cost of unpaid labour)
+161
+(374)
+81
+(119)
+265
+(541)
+129
+(613)
+100
+(345)
+153
+(638)
+Seeds 59 24 91 82 205 191
+Fertilizer 37 50 96 199 36 157
+Pesticides 23 55 85 223 0 149
+Shrimp medicines - - - - 227 152
+Shrimp feed - - - - 788 525
+Fuel - - - - 8 5
+Total material costs (TMC) 119 128 272 504 1 264 1 179
+Total variable costs (TC) = 
+TLC+TMC  
+(Including cost of unpaid labour)
+280
+(493)
+209
+(247)
+537
+(813)
+633
+(1 117)
+1 364
+(1 609)
+1 332
+(1 817)
+Net (GR Returns–TC)
+(Including cost of unpaid labour)
+385
+(172)
+205
+(167)
+649
+(373)
+1 805
+(1 321)
+456
+(211)
+1 506
+(1 021)
+Benefit/Costs ratio (BCR) (=GR/TC)  
+(Including costs of unpaid labour)
+2.20
+(1.45)
+2.13
+(1.56)
+Note: Figures are rounded up.
+*Farming system figures are all weighted against sum of the seasonal plot sizes (e.g.: /0.91 ha for rice–rice and /1.5ha for rice shrimp)
+** Labour costs = Labour days/plot/season x estimated wage equivalent (based on average wage for each gender for different operations) –  
+see Appendix Table 5 for an example.
+4. Insights from the villages
+
+16
+actually slightly lower than it is for rice–rice (the 
+rice–shrimp system brings in US$2.13 for every 
+dollar spent and rice–rice US$2.20). This brings to 
+light another important difference between the two 
+systems: the high cost of material inputs required for 
+shrimp production makes engaging in rice–shrimp 
+a financially risky enterprise for smallholders.
+The analysis and sex disaggregation of labour costs 
+shows that both production systems would be 
+unsustainable without family labour. If households 
+had to pay wages for all currently unpaid labour 
+inputs, the BCR for both production systems would 
+be significantly lower (1.45 for rice–rice and 1.56 for 
+rice–shrimp). Net returns for rice–rice, which are 
+already comparatively low, would be almost halved. 
+Rice–shrimp production especially benefits from 
+unpaid labour contributions: households save on 
+76 percent of labour costs by relying on family 
+and exchange labour (compare to rice–rice, which 
+saves 51 percent by relying on family labour). 
+Unpaid female family labour inputs account for 24 
+and 27 percent of the value of all labour costs in 
+rice–rice and rice–shrimp production. If women 
+received wages equal to those of men, this value 
+would be even higher.
+4.3.2. Division of labour in complementary 
+productive activities (livestock)
+Livestock constitutes a major asset for many rural 
+households and is a primary livelihood resource 
+for many low-income rural communities (FAO, 
+2012). Although livestock production is not the main 
+productive activity in either of the two villages in 
+this study, it still contributes significantly to overall 
+household income. Daily milk offtake from dairy 
+cows provides a regular flow of cash income often 
+used to pay for purchases of food and household 
+items. Keeping livestock also represents an important 
+wealth storage strategy: farming households raise 
+livestock in order to create a buffer against risks 
+such as floods or to have access to an emergency 
+source of cash for unexpected expenses such as 
+medical treatment, marriages, funerals and school 
+fees. Examining the division of labour for cattle and 
+pig farming is therefore interesting not only from 
+the perspective of gaining a fuller understanding 
+of women’s time use and labour contribution, but 
+also as a way of making women’s contribution to 
+household income and financial stability more visible.
+Despite ample available research on this subject, 
+women’s role in livestock production tends to be 
+undervalued by policy makers. It is often assumed 
+that large animals are men’s business, while pig 
+and poultry management are exclusively women’s 
+domain. Following the same approach as for the 
+primary productive activities discussed above, sex-
+disaggregated labour information was collected on 
+the time (hours/day) spent on cow and pig farming 
+by women and men family members. The data 
+was collected on the basis of an average number 
+of livestock per household. Overall, cow farming 
+requires a substantially larger amount of time 
+compared to pig farming (the difference lies in an 
+average of 8 to 14 hours/day for cows and 1 hour/day 
+for pigs). Pig farming, however, provides good returns 
+on such a relatively small labour commitment.
+Cow farming
+Contrary to the traditional view that cattle 
+management is men’s business, findings reveal that 
+women in both villages contribute over 40 percent 
+of labour for this activity (Figures 7a and 7b). In Vien 
+An an average household owns three milking cows 
+and men and women share equal time in almost 
+all cattle production activities except for collecting 
+grass for animal fodder, which is mostly carried out 
+by men and is especially time-consuming during 
+the dry season (6 hours/day). In Hoa Tua1, farming 
+households on average raise one to two cows for 
+fattening. Women and men provide equal labour 
+inputs in almost all management activities except 
+for bathing the cows and cleaning the shed, which 
+are carried out exclusively by men.
+Pig farming
+Pig farming is more relevant in Vien An than in Hoa 
+Tua1 (the average amount of pigs reared by women 
+is five compared to two). In terms of distribution of 
+labour, women from both villages carry out most 
+of the pig farming activities, while men contribute 
+to feeding the piglets and taking care of sick 
+animals (Figures 7c and 7d). The only significant 
+difference between the two villages is that men in 
+Vien An mix the feed instead of women. Pig sheds 
+4. Insights from the villages
+
+17
+are often attached to the houses, which makes it 
+easier for women to combine pig management 
+tasks with other household chores and childcare 
+responsibilities. Women also reduce the costs of 
+commercial feeds by collecting vegetables (see 
+“collect local fodder”) cooking them and mixing 
+them with commercial feeds.
+Returns from pig farming in Vien An
+This section includes an assessment of the profits 
+made in Vien An from pig production as this 
+was reported as an important collateral income-
+generation activity and a source of savings for 
+women, despite the fact that piglets are susceptible 
+to diseases and mortality if not well managed. 
+Women buy and raise piglets to sell after four 
+months, when they reach 100 kg. Table 4 shows 
+that the return on investment (ROI) to the family 
+for one pig sold at VND40 000 is 3.1 (over three 
+times the cost of investment). As with rice and 
+shrimp, the analysis aimed at unveiling the hidden 
+costs of unpaid labour 13. Results show that even 
+when the family labour costs are fully included in 
+the analysis, the returns to investment would still 
+be 1.45 (e.g. close to a 50 percent increase vis-à-vis 
+the initial investment).
+As pig farming relies to a great extent on women’s 
+work (67 percent), pig breeding could be a strong 
+trigger for women’s economic empowerment, 
+assuming that returns to labour accrue directly 
+to the individuals who are investing their time. 
+13 A value was attributed to women and men’s labour contribution 
+based on the prevailing market wage. In this case this was the same 
+amount for men and women: VND12 500/h.
+Figure 7c. Vien An: Division of labour – pig farming
+0
+20
+40
+60
+80
+100
+67
+33
+% Men
+% Women
+Bathe
+animals
+Clean
+shed
+Collect
+local
+fodder
+Mix
+feed
+Feed
+pigs
+Take 
+care
+sick 
+animal
+Total
+Figure 7d. Hoa Tua1: Division of labour – pig farming
+0
+20
+40
+60
+80
+100
+% Men
+% Women
+Bathe
+animals
+Clean
+shed
+Collect
+local
+fodder
+Mix
+feed
+Feed
+pigs
+Take 
+care
+sick 
+animal
+Total
+75
+25
+Figure 7b. Hoa Tua1: Division of labour – cow farming
+0
+20
+40
+60
+80
+100
+% Men
+% Women
+Build
+shed
+Bathe
+cow
+Clean
+shed
+Graze
+cow
+Collect
+grass
+Feed
+cow
+Total
+43
+57
+Figure 7a. Vien An: Division of labour – cow farming 
+0
+20
+40
+60
+80
+100
+41
+59
+% Men
+% Women
+Build
+shed
+Bathe
+cow
+Clean
+shed
+Grow
+grass
+Collect
+grass
+Feed
+cow
+Milk
+cow
+Sell
+milk
+Total
+Note: As “building the shed” is a one-off activity, it is not included in the total share (based on hours/day).
+4. Insights from the villages
+
+18
+Information was not collected on control over 
+income (section 4.5 analyses data on decision-
+making authority over productive inputs only) but 
+it seems likely that women’s control is relatively 
+weak, as they do not appear to fully use this income 
+generation opportunity despite revealing how they 
+planned for the pigs to reach a certain weight to be 
+able to sell them better.
+4.4 Work burden (productive and 
+reproductive tasks)
+In addition to measuring the division of labour 
+within the productive sphere, the study also looked 
+at men and women’s overall time allocation within 
+an average span of 24 hours in order to assess the 
+work burden generated by multiple and sometimes 
+overlapping tasks. Representatives from the two 
+villages participated in the exercise and the two 
+groups were further divided by gender and asked 
+to discuss their daily time-use in order to find 
+consensus on how to present a typical day from the 
+time they woke until they retired in the evening.
+Interviewees identified daily activities that were later 
+grouped, for ease of reference, under four major time 
+clusters: productive (agricultural work), reproductive 
+(household work, childcare), leisure, and personal 
+care and sleep time. This last category includes 
+personal hygiene, eating, resting and exercising. As 
+farmers from Vien An did not highlight considerable 
+differences between seasons, the data presented for 
+that village is for the wet season only.
+The exercise revealed relevant differences between 
+women and men in the daily share of time spent 
+on productive and non-productive tasks. It also 
+highlights how the time cost associated with a heavy 
+reproductive work burden 14 places constraints on 
+women’s productive capacities as well as on their 
+time for rest and leisure. Work burden is a major 
+obstacle to balanced and efficient time management 
+for women, and the fact that a large part of the tasks 
+they carry out are not recognized as work prevents 
+women from getting the support they need from 
+partners and the community at large.
+14 The definition of productive and reproductive roles can be found in 
+the Glossary of terms. 
+Table 3. Cost and benefits of pig farming (5 pigs), Vien An
+Costs VND*
+Shed cost for 1 year (for 6 m2, which can last for 10 years) 150 000
+Cost (VND900 000 per head) 4 500 000 
+Feed (4.5 bags x 40 kg x 5 pigs x VND1 500/kg) 1 350 000
+Medicine (for 4 months) 250 000
+Estimated value of labour of family members (men and women)** (1 815 000)
+Electricity (VND25 000 for 4 months) 100 000
+Total costs (TC)
+including cost of unpaid labour
+6 350 000 (US$288.64)
+8 165 000 (US$371.14) 
+Gross returns (GR) VND40 000 x 5 pigs (@100 kg each) 20 000 000 (US$909.09)
+Net returns (GR–TC) 
+including cost of unpaid labour
+13 650 000 (US$620.45)
+11 835 000 (US$537.95) 
+Return on Investment (ROI) = Net benefits/total costs
+including cost of unpaid labour
+3.1
+1.45 
+* Exchange rate: US$1 = VND22 000
+**  Male labour – 0.4 hours/day x VND12 500/hr (VND100 000/8 hours) = VND5 000 x 120 days = 600 000  
++ female labour – 0.8 hours/day x VND12 500/hr (VND100 000/8 hours) = VND1 215 000 x 120 days (4 months)
+4. Insights from the villages
+
+19
+The exercise also revealed significant similarities 
+and differences between the two villages and 
+production systems. The overall work burden 
+for both men and women is higher in Hoa Tua1 
+than in Vien An, and this is reflected in less time 
+for sleep and personal care. Men in both villages 
+spend between 4.5 and 5.5 hours on leisure during 
+both wet and dry seasons, but they do not perform 
+“women’s tasks” such as household chores and 
+childcare, whereas women in both villages are 
+exclusively responsible for reproductive work and 
+they also contribute significantly to productive 
+work, including by performing “men’s tasks.
+Even though the overall work burden is higher in 
+Hoa Tua1, the proportion of time allocated to work, 
+rest and leisure is more balanced between men 
+and women in Hoa Tua1 than it is between men 
+and women in Vien An. Women in Vien An put in 
+5.25 more hours of work per day than men while 
+having only 1 hour of leisure and less time for sleep 
+and personal care than men. This is because in 
+addition to putting in an average of one more hour 
+of productive work per day than men, they also 
+carry out all reproductive work. In Hoa Tua1, on 
+the other hand, women’s combined productive and 
+reproductive work during the wet season is close 
+to being even with men’s productive work. As a 
+result, they have more time for leisure than women 
+in Vien An (3 hours), and more time for sleep and 
+personal care than men in their own village.
+Vien An village (wet season)
+During the peak period women reported spending 
+more time engaged in productive work (7.5 hours/
+day) than men (6.75 hours/day). This information 
+coincides with the information shared in Figure 3a 
+(percentage share of labour/ha) and acts as a 
+corrective to the cultural perception that men 
+are the only family members who do productive 
+work and earn income. In addition to their 
+productive work, women also spend 2.5 hours per 
+day on household chores and 1.75 hours per day 
+on childcare (including helping with homework), 
+making their overall daily work burden just over 
+5 hours greater than men’s. Only one hour remains 
+available for leisure. In contrast, men do not spend 
+any time in reproductive tasks and they dedicate 
+5 hours to leisure. They also dedicate more time 
+to personal care and sleep (Figure 8a). Figure 8b 
+clusters women’s productive and reproductive work 
+to enable the reader to visualise the overall workload.
+Women’s days are extremely busy, performing 
+intermittent/simultaneous tasks to fulfil household, 
+childcare and productive activities while men tend 
+to engage in continuous or single tasks for longer 
+stretches of time. Before going to the field women 
+take their children to school. Later in the day, they 
+rush back from the fields to fetch them, cook and 
+Time allocation exercise in Hoa Tua1
+Figure 8a. Vien An: Women and men’s time allocation – 
+wet season rice
+Productive
+Personal care and sleep
+Household
+Leisure
+Men
+Women
+13
+11.25
+6.5
+7.5
+4.5
+4.25 1
+Figure 8b. Vien An: Women’s work burden – wet 
+season rice
+Productive + household 
+Personal care and sleep
+Leisure
+13
+11.25
+6.5
+11.75
+4.5
+1
+Men
+Women
+4. Insights from the villages
+©FAO/TTN Chi
+
+20
+help with homework. This work is interrupted by 
+the need to feed the animals and milk the cows. The 
+remaining time they have is often spent in the field 
+performing time-consuming tasks such as gap-
+filling or hand weeding.
+Hoa Tua1 village: Rice (wet season)
+Men and women’s overall time use in Hoa Tua1 
+is less imbalanced. Men spend more time (11 hrs 
+per day) than women (6 hours) in productive work 
+during the peak wet season. However, this means 
+that women are able to balance their time more 
+equally between productive and household tasks, 
+for an overall work burden which is almost the same 
+as men’s. Men have two more hours for leisure than 
+women, but they also spend less time on personal 
+care and sleep (Figures 9a and 9b).
+Hoa Tua1. Shrimp (dry season)
+During the dry season, women’s work burden 
+increases, while men’s stays about the same. Men 
+spend an average of 10.8 hrs per day on productive 
+work. Part of this is guarding the fields during 
+harvesting season because of frequent shrimp 
+thefts. Women, however, have a heavier overall 
+work burden: they have to add 6 hours per day of 
+household work (including 3 hours for child care) 
+to the 7.5 hours they already spend on productive 
+work, and men do not help in any household 
+activities (Figures 10a and 10b). The additional 
+time that women spend working comes out of their 
+personal care and sleep; the average amount of time 
+spent on leisure remains the same.
+Impact of time-consuming tasks in both villages
+The most time-consuming activities and their 
+consequences were discussed in a focus group. 
+These activities deserve closer observation in order 
+to facilitate the identification of labour-saving 
+technologies that could be introduced to reduce 
+labour intensity. Many of the most time-consuming 
+tasks are not mechanized and therefore may tend to 
+affect women more than men.
+In order to identify the most time-consuming 
+activities, the study compared the amounts of time 
+dedicated to individual rice and shrimp tasks (see 
+Appendix Table 4). For rice production, it emerges 
+that wet season rice is more time demanding 
+than dry season rice. During the wet season, rice 
+production requires a greater amount of manual 
+tasks such as cleaning of the fields (in Vien An 
+over 12 hours/ha, with 7.7 hours done by men), 
+pesticide spraying (in Vien An over 13 hours/ha 
+shared equally between men and women), hand 
+weeding (in Vien An 18.5 hours/ha done exclusively 
+Figure 9a. Hoa Tua1: Women and men’s time allocation – 
+wet season rice
+8 11 5
+9.5 6 5.5 3
+Productive
+Personal care and sleep
+Household
+Leisure
+Men
+Women
+Figure 10a. Hoa Tua1: Women and men’s time 
+allocation – dry season shrimp
+7.7 10.8 5.5
+7.5 7.5 6 3
+Productive
+Personal care and sleep
+Household
+Leisure
+Men
+Women
+Figure 9b. Hoa Tua1: Women’s work burden – wet 
+season rice
+8 11 5
+9.5 11.5 3
+Productive + Household 
+Personal care and sleep
+Leisure
+Men
+Women
+Figure 10b. Hoa Tua1: Women’s work burden – dry 
+season shrimp
+7.7 10.8 5.5
+7.5 13.5 3
+Productive + household 
+Personal care and sleep
+Leisure
+Men
+Women
+4. Insights from the villages
+
+21
+by women), gap filling (in both villages over 
+9 hours/ha mostly done by women) and manual 
+harvesting (in Hoa Tua1 about 14 hours/ha shared 
+by men and women). Shrimp production is highly 
+time-consuming in terms of clearing the land 
+after rice farming (removing rice stubbles takes 
+12.5 hours/ha, removing soft mud takes 10 hours/
+ha and applying lime 15 hours/ha – all mostly 
+done by men), shrimp feeding (close to 19 hours/
+ha mostly done by men), while another heavily 
+time-consuming task is operating the ventilator 
+(44 hours/ha equally shared between men and 
+women). Table 4, above, describes the main time-
+consuming activities reported by women and 
+highlights their consequences on health.
+4.5 Participation in farm-related 
+production decisions
+Cultural and context-specific differences affect 
+the division of labour and the decisions made 
+at household level as to which technologies and 
+services are to be used by whom for production. As 
+seen in this case study, women’s labour inputs are 
+not always fully recognized or “visible”, with the 
+result that decisions regarding technology use tend 
+to favour men’s labour requirements. Moreover, the 
+power or authority to make decisions about the 
+farm generally rests with the head of the household, 
+who usually has the relevant knowledge and access 
+to information.
+An insight into family level decision-making 
+can guide development interventions that aim 
+at providing equal access to productive inputs. 
+Understanding the extent of household members’ 
+decision-making power regarding farm inputs 
+and resources can help to assess their level of 
+empowerment and ability to make choices about 
+farm production and its derived benefits. Given 
+the limited time for research, a few key interview 
+questions were formulated to capture these 
+differences and the responses reveal that women’s 
+decision-making power is not reflective of their 
+labour engagement: in both rice and shrimp 
+production, men appear to make the majority 
+of decisions.
+In Vien An, where women’s labour contribution 
+is around 50 percent, men decide which varieties 
+to use, how and when to apply inputs, which 
+Table 4. Most time-consuming tasks for women (and health-related consequences)
+Re-planting or gap filling.  Rice seedlings need to be re-planted when gaps in the rice fields emerge due to 
+flood damage or rat and golden snail infestations. Replanting and gap filling are repetitive and demanding tasks 
+commonly relegated to women. After pulling the seedlings, women have to carry them to the muddy fields. Of the 
+women labourers, 30 percent have to pull seedlings by hand and 70 percent use the gap-filling tool. When they 
+carry out this operation, their body is submerged in the muddy water, so in addition to suffering from fatigue, back 
+and leg pains their general health is also affected.
+Hand weeding. The crop establishment method used is broadcasting pre-germinated seedlings, which causes 
+weed problems. Again, women’s bodies are submerged in the muddy fields during this work. As a result, they 
+suffer from severe back pains and gynaecological infections. 
+Spraying pesticides.  Women spray pesticides both on upland crops (vegetables) and on rice fields, particularly 
+when men are unavailable. Exposure to pesticides is especially harmful to women’s reproductive health. 
+Farmer mixing shrimp feed
+Feeding shrimp.  This activity is required 3 to 4 times per day and 
+involves carrying the feed containers to the field. Preparing the feed 
+requires technical knowledge and time. Furthermore, women have 
+to carry about 10 kg or more of feed and broadcast it on the shrimp 
+pond. During the peak season, when the men tend to be busier, women 
+take over in feeding shrimp and also monitor the amount of feed in the 
+container. The frequency and intermittent work affects their productivity 
+in doing other work. They suffer from leg pains due to the frequent 
+feeding during the day.
+4. Insights from the villages
+©FAO/T. Paris
+
+22
+technologies to use and which farmer’s meetings to 
+attend. Women usually only make decisions related 
+to how much rice to keep for home consumption. 
+For onion leaf production, women and men consult 
+each other on most decisions and women have 
+direct responsibility for deciding how much seed to 
+use and how much to keep for home consumption.
+In Hoa Tua1, men are the major decision-makers for 
+both shrimp and rice production: they consult with 
+their wives on almost all production decisions, but 
+ultimately have more decision-making power. The 
+only decisions in which women participate equally 
+are the selection of rice varieties and the amount of 
+shrimp to keep for home consumption. However, in 
+the production of green beans and squash, which 
+are socially accepted as women’s activities, women’s 
+greater labour contribution does translate to 
+greater decision-making power. For more than half 
+of the decisions involved in vegetable production, 
+women either make decisions alone, or have more 
+power to decide than men (Table 5b).
+4.6 Access to labour-saving 
+technologies and services
+There are labour-saving technologies and related 
+services available to support productive and 
+household chores, but their accessibility and adoption 
+by farmers, and women in particular, depends on 
+overcoming demand and supply constraints.
+Table 5a. Farm-related decision-making, Vien An village
+Who decides?
+Decision taken individually,  
+equally (=) or more by men/women (>) Rice production Onion leaf production
+What variety/crop to grow M>W M=W
+Seed rates M W
+Timing and amount of fertilizer to use M>W M>W
+Timing and amount of pesticides M>W M=W
+Whether to use new technologies M>W M=W
+To attend farm meetings M>W M=W
+Amount of farm products to use for home consumption W W
+Selling price M=W W
+Table 5b. Farm-related decision-making, Hoa Tua1 village
+Who decides?
+Decision taken individually,  
+equally (=) or more by men/women (>)
+Rice 
+production
+Shrimp 
+production
+Green bean 
+production
+Squash  
+production
+What variety/crop/breed to use M=W M>W W>M W
+Amount of seeds/shrimp larvae to use M>W M>W W>M W>M
+Timing and amount of fertilizer/shrimp feed to use M M M>W W>M
+Timing and amount of pesticides M>W M>W M=W W>M
+Whether to use new technologies M>W M>W M>W M=W
+To attend farm-related meetings M>W M>W M>W W
+Amount of farm products to keep for home 
+consumption 
+M>W M=W W W
+At what price the commodity should be sold M=W M W W
+4. Insights from the villages
+
+23
+On the demand side, women and men’s 
+contributions at the household level need to be 
+recognized, so that a discussion takes place on 
+technology needs and possible cultural constraints 
+linked to the “appropriateness” of its use can be 
+overcome. This is especially important because 
+the information on technologies available needs to 
+reach the actors who actually provide a given type 
+of labour input so that they may assess whether 
+the solution being proposed is suitable, financially 
+viable and corresponds to their needs. It is equally 
+important that women and men have time to attend 
+meetings and to join a cooperative or group that 
+provides access to agricultural credit, technologies 
+and services.
+On the supply side, research institutions, project 
+implementation and extension agents need 
+to consult farmers to develop and introduce 
+technologies that are responsive to local needs. 
+They should be sensitive to gender differences 
+and provide the service, technical know-how, 
+rental and maintenance options that are designed 
+to be accessible to those who carry out the work. 
+Mobility, in the form of suitable transport, needs to 
+be assured so that people can easily reach training 
+facilities and demonstration plots.
+The data collected and the discussions held 
+at community level on gender roles and time 
+allocation in both villages indicate that men and 
+women face labour constraints linked to overall 
+time availability and seasonal labour peaks, 
+simultaneous work commitments and lack of 
+financial capacity to hire wage workers; they also 
+have uneven access to technologies designed for 
+specific needs and adapted to local conditions. In 
+Vien An, there is a labour shortage during the peak 
+season because of the higher incidence of male 
+out-migration. Women commented that this trend 
+has increased their farming responsibilities in 
+addition to household and complementary livestock 
+management activities.
+More in depth analysis would be needed at the 
+household level to further understand the gender 
+dynamics that affect productivity and access to 
+technology: this would enable local authorities 
+and extension workers to introduce technologies 
+specifically designed to assist time-consuming 
+operations and also to provide inclusive and 
+adequate services to farmers. In Hoa Tua1, for 
+example, women contribute to shrimp farming 
+without being exposed to technology training and 
+skill enhancement. Similarly, technology solutions 
+could be identified to support some of the most 
+time-consuming activities.
+This section will focus on the gender differentiated 
+access to technologies and services to understand 
+which technologies and services are currently 
+available and whether they respond to local needs.
+4.6.1 Labour-saving technologies
+Despite the obvious presence of women working 
+in fields and homesteads, perceptions that women 
+are not farmers and food producers still prevail, 
+thus reducing women’s access to technologies and 
+services (Paris, 2009). Women farmers are also 
+still underrepresented in agricultural research for 
+development and extension programmes.
+Over the past decade, the Department of Agriculture 
+and Rural Development (DARD) has introduced 
+several technologies and farming practices in both 
+villages through extension services and farmers’ 
+organizations. Among these are short-duration rice 
+varieties, improved management practices to reduce 
+inputs for rice production, shrimp technologies, 
+agricultural machines and light tools. Farmers 
+themselves have also invented several simple tools 
+to overcome some of their labour constraints.
+Table 6 describes these technologies and how 
+they contributed to reducing time and labour 
+constraints.
+The research conducted for this study revealed that 
+most existing agricultural tools and equipment 
+tend to support the labour needs of men; moreover, 
+service providers do not necessarily take into 
+consideration the fact that women carry out tasks 
+traditionally done by men.
+Technologies are often designed for men’s use and 
+physiques, with the result that they risk being too 
+4. Insights from the villages
+
+24
+Table 6. Adopted labour-saving rice and shrimp technologies
+Rice technology Description and labour-saving aspects
+Short-duration rice varieties 
+ Farmers grow short-duration and salinity tolerant rice varieties. These 
+varieties are also high-yielding, and have good nutritional properties. 
+Aside from increasing productivity and production, short-duration 
+varieties reduce the labour time spent during the season from 180 days 
+to 105–120 days per season. 
+“Three Reductions, Three Gains” 
+farming practice (3R3G) 15
+The 3R3G farming practice, introduced to the area in 2007, reduces the 
+use of seeds, pesticides and fertilizer. Seed rates were reduced from  
+25–28 kg per 1 300 square meters to 16–20 kg per 1 300 m 2 and yields 
+were increased by 200 kg per 1 300 m 2. This practice has benefited 
+both men and women because savings on pesticides and fertilizer are 
+used for buying farm supplies, for food and for children’s education. 
+Moreover, this practice has reduced the amount of labour time 
+needed for spraying pesticides and applying fertilizer, tasks which 
+are predominantly done by men, but are also increasingly done by 
+the women.
+Combine (harvester-thresher)
+Vien An, Tran De district
+The combine harvester was introduced by the Department of Agriculture 
+in Tran De district in 2011. All of the farming households in Vien An 
+make use of this technology through service providers. A farmer can 
+rent a combine for the equivalent of US$115/ha. This machine has 
+reduced labour requirements and post-harvest losses by 10 percent, 
+and increased income due to savings in hiring manual labour for 
+harvesting. The total amount saved is about 470 000 VND/big cong 
+(US$21.36/0.2 ha). Households use the savings for house repair, 
+children’s education and daily expenses. 
+The introduction of the technology has reduced the amount of hand 
+cutting and grain gathering after threshing carried out by women, as well 
+as the amount of hauling and rice gathering for men. However, during the 
+wet season, rice stalks lodge and cannot be harvested with the combine. 
+As a result, they must be harvested manually and this tedious task is 
+relegated to women.
+Gap-filling tool
+ The gap-filling tool is a labour-saving technology which has been adopted 
+by all households in Vien An village. It serves to pull seedlings and 
+re-transplant them on the fields. The tool is attached to a long bamboo 
+pole and has 3 prongs for picking up seedlings and transplanting them 
+on the soil. It was invented by a female farmer and produced locally in 
+the village. 
+The tool reduces the amount of labour required for pulling seedlings from 
+the nurseries and re-transplanting them, and thus reduces women’s back 
+pains, drudgery and fatigue. Men are beginning to use this tool for gap 
+filling, which is traditionally a women’s job. 
+4. Insights from the villages
+1
+1 Huelgas and Templeton (2010).
+©FAO/TTN Chi©FAO/TTN Chi©FAO/TTN Chi ©FAO/Bay Doan Van
+
+25
+Lightweight pesticide sprayer
+ Spraying pesticides for example, herbicide reduces women’s labour in 
+weeding. There are two kinds of sprayers: the light weight sprayer for 
+8 litres which can be carried by women and the heavy-weight mechanical 
+sprayer for 16 litres which is often carried by men. 
+Since women often take over from men in spraying pesticides, they 
+should be given training on the judicious use of pesticides and knowledge 
+on safe pesticide management (use and storage of empty pesticide 
+containers) to avoid ill effects on the health of family members especially 
+the children.
+Portable  rice thresher
+ The portable rice thresher is an alternative to the combine for when 
+the soil is too soft and deep to use the combine. It is rented by farmers 
+through service providers coming from other provinces, such a Vinh 
+Long province. Traditionally, threshing is done manually. In 1985, a local 
+manufacturer modified a large thresher (introduced to save labour but 
+too heavy to operate) into a small thresher (250 kg). In addition to its 
+reduced weight, this thresher can be dismantled so that it can easily be 
+transported on a vehicle or boat. 
+The time saved ranges from one to eight hours per hectare, but only men 
+use this technology. Farmers use the free time created by this technology 
+to prepare soil for shrimp culture. This machine reduces men’s labour 
+in threshing and eliminates the time spent by women on winnowing and 
+removing rice straw from the fields.
+Shrimp technologies Description and labour-saving aspects
+Ventilator for shrimp culture
+ The ventilator was introduced in 2002 in Hoa Tua1 village through training 
+from DARD. It is required equipment for shrimp production and serves to 
+increase the oxygen content of the water (by mixing air with water in order 
+to replace oxygen deficits, it flushes the excreted, potentially toxic, carbon 
+dioxide and ammonia). The pump also creates a horizontal physical water 
+current in the pond when sufficient numbers of aerators are employed 
+and implementation is done correctly. 
+Without the ventilator, shrimp production is 500 kg/ha; with the ventilator, 
+farmers can get 5 000 kg/ha. Operating the ventilator requires labour as it 
+is heavy to carry and needs to be switched on and off several times a day. 
+Mud remover equipment
+ This equipment removes the mud after rice harvesting in preparation for 
+shrimp production. Introduced in 2005 by a farmer-inventor, it reduces 
+men’s drudgery and labour during land preparation. 
+Without mud remover equipment, it takes 48 hours per square meter 
+to remove the mud. With the remover, it takes only 3 hours per 
+square meter. 
+©FAO/Hoang Dinh Nam
+4. Insights from the villages
+heavy for women to handle comfortably. In Hoa 
+Tua1, the combine (harvester-thresher) cannot be 
+used due to the soft muddy soils, and the alternative 
+is a manually operated mechanical thresher that is 
+heavy to transport, mount and operate. In Vien An, 
+female (de facto) heads of household complained 
+that the technologies available for them to carry out 
+heavy tasks such as land preparation and spraying 
+pesticides are too heavy for women to carry. Farmers 
+are inventive and have designed tools for gap filling 
+and removing mud, but they need more support 
+to share their experiences and develop these tools. 
+Increased dialogue on work burden and labour-
+saving technologies at household/community level 
+and with service providers would be an important 
+step toward supporting farmers’ needs.
+©FAO/TTN Chi©FAO/Bay Doan Van©FAO/Ha Phan
+
+26
+4.6.2 Services
+Electricity, water and transport
+Electricity, water and transport infrastructure and 
+services are essential for agricultural development. 
+While all households in Vien An village have 
+access to electricity, only 50 percent of these can 
+access piped water, which is essential for cooking 
+and childcare. The rest either rely on women and 
+children collecting rainwater by placing big clay 
+jars near the roof spout or they purify water from 
+the canals with alum. Weak road infrastructure 
+also affects mobility: the roads inside the village 
+can only be used by motorcycle or bicycle, so 
+transporting inputs and farm products from the 
+fields is a challenge. In Hoa Tua1 all households 
+have access to piped water and electricity. This 
+enables farmers to use the ventilator, which is a 
+major requirement for shrimp production.
+Extension and advisory services
+Farmers in both villages make use of a number 
+of different types of agricultural inputs (certified 
+seeds, shrimp larvae, technologies, fertilizer and 
+pesticides) and rely on services for land preparation, 
+distribution/trading and veterinary care. The 
+service providers are the Soc Trang Department of 
+Agriculture and Rural Development (DARD) and a set 
+of community organizations. Through membership 
+to these organizations, farmers can also gain access 
+to collateral services such as training, credit and 
+information. This study explored the level of women’s 
+access to services and inputs, their membership in key 
+local organizations and the type of training extended 
+to them. Aside from government extension (DARD), 
+the most important organizations that provide 
+services in both villages are the Farmers’ Association, 
+the Cooperatives and the Women’s Association.
+In Vien An, membership in the Farmers’ Association 
+and the Milk Cooperative is dominated by men 
+(Figure 11a). Given that the Farmers’ Association 
+collaborates with DARD in organizing technical 
+training, and meets with the farmers to inform 
+them of the schedule of seed sowing, women’s 
+opportunities for training and technical skill 
+development are likely to be negatively affected by 
+their lack of representation in the Association. This 
+association also manages the Milk Cooperative, 
+which buys the milk produced by the farmers 
+in the community and provides a credit scheme 
+that allows members to take out loans at a low 
+interest rate (2 percent per month). Women are 
+therefore also largely excluded from collateral 
+membership benefits such as credit, which would 
+give them autonomy to rent machinery and 
+access information. In order to address some of 
+these challenges, women have founded their own 
+association that offers advice on government laws, 
+women’s rights, health and sanitation practices 
+and also provides training on improved crop and 
+livestock management.
+Figure 11a. Vien An: Membership to community 
+organizations 
+Hoa Tua1 presents a similar picture: the Farmers’ 
+Association and cooperatives are male-dominated. 
+Government policies (e.g. seed and shrimp larvae 
+distribution schemes and technical training 
+activities) are implemented through these two 
+organizations and therefore mostly target heads of 
+household, who are primarily men (who are also the 
+land owners). Through the cooperatives, farmers 
+can buy inputs at lower prices. The cooperatives 
+also facilitate the signing of contracts between 
+farmers and buyers and help farmers improve 
+their products to enable them to get higher prices. 
+Women’s membership to these organizations is only 
+at 30 percent. The Women’s Association and the 
+Savings Scheme organizations, on the other hand, 
+are exclusively for women (Figure 11b). The members 
+of the Women’s Association hold weekly meetings to 
+discuss issues such as government laws and women’s 
+rights. The women organize themselves for saving 
+Farmer’s
+Association
+20
+80
+Milk
+cooperative
+15
+85
+Women’s
+Association
+100
+% Men
+% Women
+4. Insights from the villages
+
+27
+schemes, training on health care, family planning 
+and training on improved rice and animal production. 
+The Savings Scheme organization collects money 
+from its members to pool a larger amount to help 
+build up capital. A member contributes VND50 000/
+month and accumulates savings which are useful 
+as additional income or to invest (e.g. for buying a 
+piglet or trading vegetables).
+Figure 11b. Hoa Tua1: Membership to community 
+organizations 
+In the case of both villages, it remains unclear 
+whether women’s associations, created to 
+compensate for women’s limited participation in 
+farmers’ organizations and milk cooperatives, 
+provide adequate and sufficient and services to 
+their members.
+Agricultural training activities
+One of the major factors influencing agricultural 
+productivity is a farmer’s technical knowledge 
+on improved farming practices obtained 
+through participation in training and extension 
+programmes. Women cannot always access these 
+programmes and providers may not always target 
+the most relevant actors for training.
+The training activities listed below were organized 
+by community organizations in collaboration 
+with the local government and the Soc Trang 
+Department of Agricultural and Rural Development 
+(DARD). Access to training differs, to some extent, 
+by income group (due to a number of factors 
+such as farm size and land ownership; farmers’ 
+Farmer’s
+Association
+Cooperative Women’s
+Association
+Savings
+Association
+% Men
+% Women
+30
+70
+100100
+30
+70
+interest or incentive to participate; availability of 
+time, especially for women; bias towards male and 
+wealthier farmers). The figures presented below 
+are based on data from households belonging to 
+the poorer income group, as this is where the most 
+notable differences in access seem to occur. Level 
+of access also reflects common beliefs about the 
+traditional gender distribution of labour, which, 
+as discovered in this study, might not take into 
+consideration recent changes in labour use.
+In Vien An, for instance, women from the poor 
+households are not included in some trainings, such 
+as integrated pest management (IPM) and 3Rs and 
+3Gs (Figure 12a). The fact that women substitute 
+men in spraying chemicals to control pests on rice is 
+not taken into consideration, thus resulting in a gap 
+in training. Not surprisingly, women’s participation 
+is much higher for trainings on improved livestock 
+management and safe production of vegetables.
+Figure 12a. Vien An: Participation to training courses 
+Note: The data refers to women and men from poor income groups
+In Hoa Tua1 village, access to training is more 
+balanced. Both men and women attended the 
+training courses on reduced usage of pesticides 
+for improved rice farming and production of 
+vegetables. The vast majority of participants 
+in trainings covering pig and poultry farming 
+were women, which is unsurprising considering 
+their recognized role in those areas. However, 
+women’s participation in the improved livestock 
+management course was low despite the fact that 
+women’s labour contributions in this area are 
+IPM &
+3Rs3Gs
+Cow
+50
+50
+Chicken
+70
+30
+Pig Upland
+100
+80
+20
+50
+50
+% Men
+% Women
+4. Insights from the villages
+
+28
+significant (43 percent, see Figure 3b). Women were 
+also under-represented in the shrimp management 
+course (Figure 12b). Topics covered by the training 
+course included: how to measure the oxygen, 
+pH, salinity; guide to use medicine for shrimp; 
+identifying which medicine to use and not to use; 
+how to select larvae which are active and of the 
+same size; how to feed shrimp the right quantity 
+and frequency. Women’s under-representation is 
+the result of their perceived lack of participation 
+in shrimp farming. However, as this study has 
+shown, women are  performing several technically 
+demanding tasks, which suggests that their lack of 
+participation in trainings actually enhances risks to 
+shrimp farming.
+Figure 12b. Hoa Tua1: Participation to training courses
+Note: The data refers to women and men from poor income groups
+Agricultural credit
+Farmers need capital to invest in crop, shrimp and 
+livestock production and they can obtain loans 
+both from formal and private money lenders. As 
+shown in Table 7, men are the main borrowers of 
+formal loans from the Farmers’ Association and 
+Cooperatives in both villages. Farmers take out 
+Rice Shrimp Vegetable Cow Pig Poultry Upland
+30
+70
+20
+80
+50
+50
+10
+90
+95
+5
+50
+50
+95
+5
+% Men
+% Women
+loans and pay after 4 months at 1 percent per 
+month interest rate. During the wet rice season, 
+farmers usually borrow in June and pay in October. 
+In the dry season, they borrow in October and pay 
+back in February. Men have greater access to formal 
+sources of credit for several reasons:
+•	 Higher degree of membership to the Associations 
+and Cooperatives that provide loans at lower 
+interest rates;
+•	 The title of the land which serves as collateral for 
+a loan is mostly under the husband’s name;
+•	 Due to higher levels of education and mobility, 
+they are more capable of managing loan 
+transactions (women have less time and 
+knowledge to access information and credit).
+•	 In Vien An (Table 7), a very high percentage of 
+poor and middle income women take out loans 
+from informal sources at higher interest rates 
+(5 to 6 percent). They usually need capital to 
+purchase tools or for small trading such as buying 
+and selling vegetables. They take out loans before 
+the peak production period to purchase inputs 
+and pay after harvest, particularly during the 
+dry season when yields/ha and rice income are 
+higher. Better off women rely on their husbands 
+to access formal credit.
+In Hoa Tua1, informal borrowing of money is 
+not practiced. Instead, a small percentage of 
+women access the formal credit system and take 
+out loans from the Women’s Savings Scheme 
+group. They contribute VND50/month (minimal 
+amount) as savings for larger loans. Loans ranging 
+from VND300 000 to VND500 000 ($13.60 to 
+$22.73) are extended exclusively to members, who 
+use them for farm inputs, feed for pigs, medical 
+expenses and social obligations.
+Table 7. Share of access to formal/informal credit
+Villages Vien An  Hoa Tua1
+Type of 
+credit
+Poor Middle income Better off Poor Middle income Better off
+M W M W M W M W M W M W
+Formal 90% 10% 100% - 100% - 70%  30% 80% 20% 90% 10%
+Informal 20% 80% 30% 70% - - - - - - - -
+4. Insights from the villages
+
+29
+•	 Good agronomic practices 15: Despite their 
+experience in rice farming, women asked to 
+be trained on good agronomic practices (GAP) 
+for rice production. It was suggested that 
+demonstration trials or “hands-on” training 
+would be better than the lectures often conducted 
+by agricultural extension services.
+•	 Integrated pest management (IPM): Women 
+expressed the need for training on integrated 
+pest management and better agro-ecological 
+practices, including the integration of useful 
+flowers and plants such as marigold, which 
+attracts “friendly” insects. This would provide a 
+valuable alternative to using pesticides in their 
+vegetable plots.
+•	 Business training for improved management 
+of poultry and pig farming: The profitability 
+of small livestock production depends in large 
+part on the quality of management. Women 
+specifically expressed the need for business 
+training that would enable them to improve 
+their investments.
+15 GAPs are practices achieving an optimum balance between 
+economic, social and environmental goals; as such they improve 
+efficiency but also look at labour constraints and “acceptable 
+working hours” (FAO, 2004).
+4.6.3 Training and technology priorities 
+identified by women in the two communities
+In addition to the existing technologies and 
+services available in the two communities, focus 
+group discussion participants also identified 
+additional labour-saving technologies and practices 
+that could assist women in their domestic work, as 
+well as farming and non-farm activities. Women 
+had well-developed ideas regarding their needs 
+and were often able to envision strategies for 
+technology introduction and adoption. Below are 
+some examples:
+•	 Piped water (Vien An): where there is no piped 
+water, women have to collect rainwater and store 
+it in big clay jars. Access to running water is a 
+priority for daily household chores, childcare and 
+other domestic responsibilities.
+•	 Labour-saving technologies: In order to save time 
+and reduce the drudgery linked to specific tasks, 
+women expressed the need to explore accessible 
+and simple labour-saving technologies that can 
+also be affordable, easy to operate and maintain 
+and which could support income-generation. 
+The gap-filling tool is one example of labour-
+saving equipment that is spreading among 
+women as well as men. Similarly, particular 
+land management practices that promote weed 
+suppressing cover crops were mentioned as 
+possible answers to weeding.
+•	 Timing of training offer: training programmes 
+should always include women and take into 
+consideration their household tasks;
+•	 Certified rice-seeds : there is a demand on the 
+part of women to have the Women’s Savings 
+Association introduce/offer certified or purified 
+seeds of new rice varieties as well as training 
+on how to produce better quality seeds. This 
+was seen as an opportunity to compare new 
+varieties in terms of performance, taste and 
+cooking qualities;
+4. Insights from the villages
+
+30
+The primary purpose of this study was to explore 
+the differences between women and men’s 
+participation in and benefit from the rice–rice and 
+rice–shrimp farming systems in Soc Trang, Viet 
+Nam. By recognizing the importance of linking an 
+understanding of gender differentiated dynamics 
+and labour inputs to the equitable provision of 
+productive inputs and resources, the study was not 
+only able to produce general information on how 
+women fare in the two farming systems, it was also 
+able to detect the ways in which local perceptions 
+about gender influence labour patterns, create 
+additional constraints for women, and hinder the 
+recognition of women’s work. The study yielded 
+valuable information on the contributions made 
+by women to each system, both in terms of labour 
+and proportion of household income. It also 
+produced a wealth of useful data for making overall 
+comparisons between the two production systems, 
+which will help government and development 
+partners to better understand the advantages and 
+potential challenges of moving to rice–fish or other 
+integrated production systems.
+This chapter is structured into two sections: Key 
+Findings and Recommendations. The Key Findings 
+section is divided into three overall findings that 
+came out of the study, each of which contains 
+a set of more specific findings related to it. The 
+Recommendations section proposes five main areas 
+of action that are necessary to address the main 
+concerns highlighted by the study.
+5.1 Key findings
+5.1.1. Of the two farming systems, rice–shrimp 
+farming involves greater risks and challenges, 
+but these are outweighed by the social and 
+economic benefits it brings
+A recurring theme that emerged from this 
+study was an apparent link between diversified 
+livelihoods and an accrual of a number of socio-
+economic benefits. In small-scale production, 
+diversification of economic activities offers the 
+opportunity to secure basic subsistence while 
+taking advantage of additional opportunities for 
+economic empowerment. Furthermore, because 
+of the nature of women’s labour in small-scale 
+agricultural settings, production systems that are 
+highly diversified may create the possibility for 
+women’s labour contribution to gain in perceived 
+importance and receive greater recognition, thus 
+leading to improvements in gender equality as 
+well as in the efficiency of the economic system as 
+a whole.
+In comparing the rice–rice and rice–shrimp 
+systems, the findings discussed below appear to 
+confirm this possibility, and suggest that while 
+close attention needs to be paid to the challenges 
+that may arise as part of a transition to a more 
+mechanized and labour-intensive system, there 
+is great potential for integrated crop–livestock–
+fish systems to promote socio-economic growth 
+and development if women are actively involved, 
+recognized and supported.
+5. Conclusion
+
+31
+Unpaid family and exchange labour is central to 
+sustaining production in both systems, and it plays an 
+especially important role in shrimp farming
+From a production perspective, rice–rice and rice–
+shrimp primarily differ in terms of material costs and 
+labour requirements. However, because traditional 
+economic models tend to focus exclusively on 
+financial costs in their benefit–cost analyses, the 
+importance of unpaid labour to each production 
+system can be easy to miss. Due to the high demand 
+on labour during the conversion of land from rice 
+to shrimp, rice–shrimp farming is highly labour 
+intensive (239 days/ha compared to 140 days/ha for 
+rice–rice). Both systems would be unsustainable 
+without family labour, but while the rice–rice system 
+meets over a third of its needs through hired labour, 
+the rice–shrimp system is almost entirely dependent 
+upon family and exchange labour (92 percent) . To 
+demonstrate the importance of this contribution 
+to each production system, this study conducted 
+a benefit–cost analysis that measured the market 
+value of unpaid labour inputs and included it as a 
+cost to the system together with hired labour and 
+material inputs (See Table 4). Once unpaid labour is 
+factored in as a production cost, farmers’ return on 
+investment decreases significantly. This is especially 
+true for the rice–shrimp system, where the benefit–
+cost ratio is only marginally better than it is for 
+rice–rice once unpaid labour is accounted for (i.e. if 
+they had to pay for all labour, farmers in Hoa Tua1 
+and Vien An could only expect US$1.56 and US$1.44 
+respectively for every US$1 spent).
+A purely economic perspective, which only treats 
+exchange labour as a coping mechanism for cost 
+reduction, however, risks to overshadow some 
+important social and also economic benefits (see 
+findings b–d in this section) derived from traditional 
+labour arrangements.  Family and exchange 
+labour are often deeply rooted practices that may 
+not necessarily be irrelevant to or incompatible 
+with newer, more market-oriented systems of 
+production. Furthermore, labour exchanges can 
+offer the opportunity for social cohesion, which 
+is an essential element of smallholder productive 
+systems. Any analysis of smallholders’ role within 
+national and international markets will have to take 
+the existence of such labour practices into account.
+Hoa Tua1’s rice–shrimp farming system is more 
+diversified than Vien an’s rice–rice and brings in a 
+significantly higher net income
+Overall returns on shrimp production are much 
+more substantial than they are for rice, so even 
+after subtracting the high cost of paid labour and 
+material inputs, the net income from primary 
+productive activities for households in Hoa 
+Tua1 is about 2.3 times higher than in Vien An 
+(US$1 506/  ha versus US$649/ha). This finding is 
+consistent with those of other studies comparing 
+rice–rice and rice–fish production in Southeast Asia 
+(e.g. FAO, 2016). Livelihoods in Hoa Tua1 are also 
+more diversified than in Vien An. Middle and better 
+off households in Vien An derive 50 and 60 percent 
+of their household income from rice alone, and poor 
+households rely on agricultural labour and non-
+farm income (including remittances) for 75 percent 
+of their income. In contrast, poor households in Hoa 
+Tua1 rely less on non-farm income and agricultural 
+labour (50 percent) and more on farming activities, 
+which represent 50 percent of income and are 
+close to evenly distributed among rice, shrimp, 
+non-rice (i.e. vegetables), and livestock. Middle 
+income households in Hoa Tua1, like households 
+in the corresponding income category in Vien An, 
+derive almost all of their income from farming, but 
+unlike Vien An households, their income is much 
+more evenly distributed among the various types 
+of productive activities: 25 percent each from rice 
+and shrimp, and 20 percent each from vegetable 
+and livestock production (compared to 50 percent 
+from rice, 28 percent from milk sales, and only 
+5 and 3 percent respectively from vegetables and 
+small livestock).
+Benefits from rice–shrimp farming may foster 
+improvements in economic and social equality
+A comparison of the two villages also reveals lower 
+levels of inequality present in the rice–shrimp 
+system. In addition to a higher average household 
+income from rice–shrimp production, Hoa Tua1 
+has a much smaller proportion of poor households 
+compared to Vien An (13 percent vs. 41 percent) 
+and women in Hoa Tua1 also fare better than their 
+counterparts in Vien An in a number of ways: their 
+burden of work is less uneven compared to the men 
+in their community, and they have more time for 
+5. Conclusion
+
+32
+5. Conclusion
+leisure compared to women in Vien An. They also 
+have their own savings institution and more access 
+to formal credit, and seem to benefit from a greater 
+participation community organizations, and higher 
+rates of participation in agricultural trainings.
+The large investment required for rice–shrimp  
+farming makes it a risky enterprise for vulnerable 
+categories (i.e. poor and female -headed 
+households), but if risks are managed it can bring 
+in economic growth for the community
+For smallholders, the cost of material inputs 
+necessary for rice–shrimp farming is very high (just 
+over four times higher than for rice–rice). Shrimp 
+farming also requires more technical know-how 
+and training than rice, and is subject to a number 
+of additional risks, including shrimp disease. As a 
+result, rice–shrimp farming represents a higher 
+level of financial risk to poor households and 
+households with lower levels of access to credit (e.g. 
+female-headed households). It also puts women, 
+who have less access to training and technology, at 
+a disadvantage for engaging in shrimp production. 
+On the other hand, as we have seen, rice–shrimp 
+has the potential to bring in substantial benefits to 
+households if these risks can be mitigated.
+In contrast to rice–shrimp, rice–rice production 
+involves less financial risk, is less mechanized, 
+and relies more heavily on a hired workforce. At 
+first glance, the larger market for hired manual 
+labour in Vien An may seem like an opportunity 
+for the poorest and least skilled to access wage 
+labour. This is especially so for women, who take 
+lower wages and tend to carry out manual tasks. 
+However, while this opportunity may be beneficial 
+to disadvantaged individuals in the short-term, a 
+system of production based on inefficient labour 
+practices and  unequal wages is unlikely to favour 
+sustainable economic development . The apparent 
+correlation in the villages between lower income 
+status and reliance on wage work, not to mention 
+the higher levels of poverty and gender inequality 
+present in Vien An, would seem to support this 
+hypothesis. Rice–rice may be less risky, but it also 
+offers fewer opportunities for economic growth.
+This overall evaluation of the two systems brings to 
+light an important consideration for governments 
+and development partners to address when 
+promoting new technology-dependent and labour-
+intensive production systems. The rice–shrimp 
+system does appear to create more value than 
+rice–rice and eventually lead to a more equitable 
+distribution of benefits for the community. However, 
+it has two main weaknesses: the additional labour 
+burden it creates and the risks it presents to the 
+most vulnerable members of the community . 
+Both of these factors should be addressed through 
+appropriate interventions (see Recommendation 5).
+5.1.2. Women’s contribution to both farming 
+systems is essential
+The time-use data collected for this study suggests 
+that on average, women work up to 5.25 hours 
+more than men every day. This estimate includes 
+household responsibilities, which tend to go 
+unrecognized as work, and which therefore may lead 
+to a lack of recognition of women’s contribution. 
+Local perceptions also hinder recognition of 
+women’s productive work: women’s contributions 
+to primary or “male” economic activities remain 
+relatively invisible while the economic importance 
+of “female” activities is consistently undervalued 
+(see Finding 3 below). For these reasons, the sex-
+disaggregated data collected for this study on labour 
+inputs and income for all significant economic 
+activities within the production system is especially 
+helpful in that it brings to light the true value of 
+women’s productive contribution.
+In Vien An, women are responsible for 51 percent 
+of labour in rice farming and 41 percent of the 
+labour that goes into raising cows. These two 
+activities alone account for 70 to 78 percent of all 
+income among middle and better off households. 
+Weighing women’s labour contribution against the 
+share of household income for each activity reveals 
+that close to 50 percent of the income derived from 
+these traditionally “male” activities is actually 
+the result of female labour (see Figures 2a and 
+Appendix Table 3). Women also put in the majority 
+of labour for other on-farm activities (vegetables, 
+pigs, poultry), which account for an additional 
+8–10 percent of income among middle and better 
+
+33
+off households. As we have seen, poor households 
+in Vien An rely primarily on agricultural labour 
+and non-farm income, including remittances 
+(75 percent of income comes from these two 
+sources), but interestingly, “female” activities such 
+as vegetable production and small livestock account 
+for a greater proportion of farming income in these 
+households than rice and milk sales put together.
+Due in large part to men’s dominance in shrimp 
+farming, a superficial glance at the rice–shrimp 
+system in Hoa Tua1 might initially suggest a 
+reduced economic role for women: they contribute 
+31 percent of the labour that goes into rice and 
+shrimp farming. However, livelihoods in Hoa 
+Tua1 are more diverse than in Vien An, and 
+agricultural labour and non-farm income are less 
+significant to household income. A closer look 
+at other on-farm activities presents a different 
+picture altogether: women are responsible for 
+63 percent of labour in vegetable production and 
+47 percent of labour in livestock (this figure does 
+not include poultry, which in any case falls under 
+women’s responsibilities). Livestock and vegetable 
+production account for 20 percent of income in poor 
+and better off households and 40 percent in middle-
+income households.  In the middle wealth group, 
+vegetable production alone  accounts for one fifth 
+of all income. In other words, women’s relatively 
+smaller role in primary productive activities masks 
+the significant economic contribution they make 
+through other on-farm activities.
+5.1.3. Cultural norms, and expectations 
+about gender roles, prevail over changes in 
+the division of labour and create additional 
+constraints for women
+Social and economic changes such as migration, 
+the influx of remittances, or the introduction of 
+new agricultural practices and technologies affect 
+production systems so that the gender division 
+of labour constantly adapts to farmers’ evolving 
+needs. For example, women in the two villages 
+not only carry out the tasks that are traditionally 
+assigned to them, but they also increasingly take 
+on “heavy” tasks that are culturally perceived as 
+men’s work (e.g. digging ditches, cleaning the fields 
+and preparing the bunds, spraying pesticides and 
+conducting field visits to check for disease or pest 
+infestation). This study reveals that the disconnect 
+between the shifting reality of labour distribution 
+and persistent local ideas about what constitutes 
+“men’s work” and “women’s work” has its effects 
+on women’s access to productive resources and 
+services. For instance, women in Hoa Tua1 perform 
+shrimp tasks for which they are not trained. The 
+fact that gender roles remain the same despite 
+transformations in labour dynamics reinforces 
+inequalities and in some cases creates additional 
+constraints for women. The study found several 
+such constraints to be present in both villages; 
+these are discussed below.
+Women’s productive labour is not sufficiently 
+recognized
+The data collected on labour inputs for this study 
+clearly demonstrates that in both villages, women 
+make essential contributions without which 
+neither production system could thrive, and yet 
+their role as economic agents does not appear to be 
+fully acknowledged. Women are highly involved in 
+economic activities such as rice farming and raising 
+cattle for milking and fattening, but because these 
+activities are perceived as “men’s work”, the labour 
+women contribute in these areas remains largely 
+invisible. Furthermore, traditionally “female” 
+activities such as raising poultry and pigs or farming 
+vegetables tend to be given less importance, when 
+in reality they bring significant economic and 
+nutritional value to households, especially in the 
+poor and middle income groups, where rice and 
+shrimp only make up between 5 and 50 percent of 
+total income (See Figures 2a and 2b). Finally, the 
+study found that both systems rely heavily on unpaid 
+family labour, but while men’s work is perceived 
+as economic activity and is therefore catered to 
+by government and service providers, women’s 
+productive work is often culturally associated with 
+subsistence or family duty and as such receives less 
+recognition and support.
+5. Conclusion
+
+34
+Women are time poor and subject to an excessive 
+work burden
+Based on self-reported time use data, the study 
+found that women’s overall daily work burden ranges 
+from half an hour to over five hours above men’s, 
+depending on the season and production system. 
+Men do not take part in reproductive tasks in either 
+village; as a result, women are solely responsible for 
+the 4.5 to 6 hours of domestic work and childcare-
+related tasks to be carried out each day. This means 
+that increases in labour requirements (i.e. due to 
+male outmigration or the introduction of a labour-
+intensive productive activity) disproportionately 
+affect women’s labour burden, leaving them with 
+less time for leisure, and in some cases, less time for 
+sleep and personal care than men. This burden is 
+further increased by the fact that time-consuming 
+manual tasks are largely relegated to women, while 
+tasks supported by labour-saving technologies are 
+usually carried out by men (see next finding).
+Uptake of technology by women is weak
+The nexus between men and technology, and 
+women and manual labour, persists for a number 
+of reasons:
+•	 The technology introduced by government 
+through extension services (DARD) targets both 
+men and women in theory, but the invisibility of 
+women’s work affects government’s capacity to 
+target women’s labour needs;
+•	 Labour-saving technologies tend to be developed 
+to support the primary economic activities of the 
+production system (in this case rice and shrimp), 
+rather than for the “complementary” activities 
+that rely mostly on female labour;
+•	 Within the primary economic activities, 
+technology is mainly developed for tasks 
+dominated by men (land preparation, application 
+of chemicals, harvesting and threshing tasks), 
+while women still mostly carry out manual tasks 
+such as pulling seedlings, re-transplanting (gap 
+filling) and weeding. An especially illustrative 
+example of this dichotomy is the division of 
+harvesting responsibilities in the rice–rice 
+system: during the dry season, when only 
+manual harvesting is possible, women carry out 
+this task, while during the wet season harvesting 
+by combine is done by men;
+•	 When a labour-saving technology is developed 
+for a traditionally “female” task, men often begin 
+to show interest and share in or take over that 
+task;
+•	 In shrimp farming, the support and training 
+men receive in using technologies allows them 
+to carry out increasingly advanced tasks, thus 
+enhancing their skills and reinforcing the 
+association between men and technology, while 
+further widening the gap in competitiveness 
+between men and women.
+Gender inequalities persist in access to advisory 
+services, agricultural training activities and credit
+Despite their high level of participation in farming, 
+women have less access to extension and advisory 
+services, agricultural training activities, and 
+credit. Due to the cultural invisibility of women’s 
+work, patterns of service delivery tend to reflect 
+traditional gender roles rather than women’s actual 
+needs. Furthermore, women are underrepresented 
+in local institutions such as farmers’ organizations, 
+which are key entry points for accessing training, 
+information, farm inputs, and credit for crop and 
+livestock production.
+Participation in farm-related production decisions is 
+unequal and does not reflect labour contribution
+The influence of cultural norms and expectations 
+about gender is especially noticeable in the way in 
+which farm-related decisions are made within the 
+household. Men have the greater decision-making 
+influence by far with regards to rice and shrimp 
+production, and they also have a significant amount 
+of influence over traditionally female-dominated 
+vegetable production activities. This distribution of 
+power does not reflect actual labour contributions: 
+In Vien An, for example, women contribute 
+slightly more than men to rice production and 
+significantly more to onion leaf production, and 
+yet men dominate almost all production decisions. 
+It seems more likely that the causes behind such 
+an imbalance derive from the prevailing cultural 
+expectations about gender roles and responsibilities, 
+which both prevents recognition of women’s work 
+and limits their say in matters considered to be the 
+purview of men. Even in Hoa Tua1, where women 
+have a number of advantages compared to women 
+5. Conclusion
+
+35
+in Vien An, the balance of decision-making power 
+remains significantly skewed in men’s favour. 
+As we have already seen, ideas about gender also 
+influence women’s access to productive resources 
+and services, which in turn helps to determine 
+women’s level of economic empowerment. Women’s 
+lack of access to technology, training and credit is 
+therefore also a likely factor limiting their voice in 
+decision-making.
+5.2 Recommendations
+5.2.1. Carry out gender-focused research
+From the research perspective, sex-disaggregated 
+data on labour and time use is needed to acknowledge 
+key productive actors and make labour contributions 
+visible. This would allow for the identification of 
+sources of bias and inequality and help policy and 
+project design to better focus on constraints. A 
+gender-sensitive labour analysis, which takes into 
+account different wealth groups, can identify needs 
+and likely impacts of technologies while focusing 
+on solutions that can be labour-saving. As part of 
+this analysis, men and women’s understanding of 
+specific farming practices needs to be reviewed to 
+identify knowledge gaps. Moreover, with the spread 
+of agricultural mechanization in South Viet Nam, 
+it is necessary to assess the likely implications on 
+women’s and men’s time use, work burden, food 
+security, nutrition and overall family welfare.
+This study also revealed that farming households 
+have a high degree of market orientation. There 
+is a need to conduct gender analysis beyond 
+production, which was the scope of this study, to 
+the entire value chain, to also capture women and 
+men’s roles in post-harvest operations, processing, 
+and marketing. Given the findings of this study 
+on improvements in the status of women in the 
+rice–shrimp system, it would also be interesting 
+for future studies to explore further any possible 
+connections between integrated rice–livestock–
+fish production systems, diversified livelihoods, and 
+gender equality.
+5.2.2. Challenge gender norms: encourage 
+discussion and promote the redistribution of 
+work burden at the household level
+Both the rice–rice and rice–shrimp system present 
+inequalities in the division of the overall workload 
+at the household level. Women have to juggle 
+simultaneous household and productive tasks and 
+often, during the dry season, are also in charge of 
+community work. Lack of time affects productivity, 
+health, availability for training and participation in 
+local institutions, choice and quality of life.
+A first step towards addressing this imbalance lies 
+in making household members aware of men and 
+women’s time use and facilitating a discussion 
+on how work can be re-distributed. Discussing 
+emergency situations is one way to introduce the 
+subject (e.g.: what happens if the wife falls ill or 
+has an accident). There are participatory exercises, 
+approaches and methodologies at household 
+and community level that can be used to discuss 
+workload and generate more understanding of work 
+constraints in order to redress some of the labour 
+imbalance and channel resources to the end users16.
+5.2.3. Support inclusive community 
+dialogue to identify needs and strengthen 
+technology development
+The process of matching supply and demand for 
+labour-saving technologies and services needs to 
+be supported: at the community level, development 
+projects/initiatives need to closely work with 
+government extension and NGOs to make women 
+and men’s work visible so that farmers can express 
+their needs. Local technology developers also need 
+to be made aware of the end users’ needs so that they 
+may develop and introduce tools that successfully 
+address work burden. This study shows that women 
+are knowledgeable and aware of the training and 
+technology they need: if consulted, they have 
+strategies to overcome labour strain (for example, 
+they expressed the need for carts with wheels to 
+transport their farm products). Moreover, they have 
+16 See the following links for further resources on household 
+methodologies: https://www.ifad.org/topic/household_
+methodologies/overview ; http://www.fao.org/dimitra/about-
+dimitra/en/
+5. Conclusion
+
+36
+also shown initiative by locally manufacturing a 
+tool that was broadly adopted by women (and more 
+recently by men also).
+The Department of Agriculture and Rural 
+Development (DARD) has established strong 
+relationships with village Women’s Cooperatives. 
+Thus DARD can build on this relationship by 
+engaging women’s cooperatives along with other 
+local cooperatives in dialogues that are related to 
+farm production as well as income generation. The 
+first step is to highlight and recognize the important 
+roles of women in agriculture and discuss strategies 
+on how to improve women’s lives as farmers, 
+mothers and homemakers. DARD can show the 
+results of this study to initiate the dialogue.
+5.2.4. Avail women of the skills, technology and 
+services they need
+Despite the fact that women are heavily involved 
+in farming activities, agricultural extension and 
+service providers tend to communicate with and 
+serve male farmers because it is more culturally 
+acceptable, and because men usually have more 
+access to communication technologies and more 
+time available. Providers of training, technology 
+and services should both target women as farmers 
+in their programmes and provide basic training 
+on gender to extension services responsible for 
+interacting with the community. Furthermore, 
+training programmes for women should take into 
+account their specific constraints, including level of 
+education and limited availability of free time.
+The findings of this study reveal that women are 
+involved in spraying pesticides on rice and on 
+upland crops, yet none of them participated in IPM 
+training. It is essential that women be included 
+in training courses on basic knowledge in pest 
+and disease diagnosis, pesticides and application 
+methods. Women’s participation in shrimp and cow 
+farming should also be recognized and government 
+extension services (DARD) should ensure a higher 
+level of participation from women in trainings on 
+technology use and farming methods.
+Agricultural research institutions such as the 
+International Livestock Research Institute (ILRI) 
+and Viet Nam’s Ministry of Agriculture and Rural 
+Development have plans for long-term partnerships 
+in livestock development research. Women are 
+very active in pig and poultry production, and 
+should therefore be involved in testing and 
+dissemination of livestock-related technologies and 
+also be targeted for training. More efforts should 
+be given to the production and transportation 
+of green fodder , and on the preparation of feeds 
+based on local ingredients . DARD could support 
+farmers, especially the women, to adopt improved 
+pig production practices. Through the Vietnamese 
+Good practice examples for training on rice production
+“Ecological engineering”
+Women from Tien Giang Province participated in a training to learn how to keep their rice fields ecologically sound 
+and balanced by planting flowers around them. The “friendly” insects and other organisms that live in this diverse 
+vegetation around the rice fields help control rice pests such as the brown planthopper. Women were trained to 
+observe the increase in bees and parasitoids (called small bees) that visit the nectar-producing flowers grown on 
+bunds and to preserve them. If the women continue implementing what they learned, in the long term, households 
+will save as much as $50-100 per season by reducing insecticide inputs without suffering any production loss.
+Source: (IRRI Rice Today 2013).
+Participatory varietal selection (PVS) of new rice varieties for submergence prone and salt-affected areas
+Through PVS, men and women can express their criteria in selecting rice varieties as well as test the new seeds/
+varieties on their own fields. For example, in most Asian rice farming systems, weeds are pests that cause low yields. 
+Women from poor farming households provide unpaid labour and suffer the drudgery of hand weeding to obtain 
+higher yields. Experience in eastern India revealed that when participants of PVS were given training on removing 
+weed seeds and off-types to maintain the quality of seeds to be planted for the next season, the knowledge they 
+gained gave them more decision-making authority on weed and seed management.
+Sources: Chi et al., 2011; Manzanilla et al., 2011; Paris et al., 2008. 
+5. Conclusion
+
+37
+Good Animal and Husbandry practices (VietGAHP) 
+pig farmers’ income could be increased by reducing 
+piglet mortality and improving overall farm 
+productivity. This would lead to increased supply of 
+cheaper pork to consumers, while ensuring higher 
+income to farmers from higher volume sold.
+In addition to providing training through 
+cooperatives, government extension services can 
+address women’s knowledge gap by providing more 
+subject-focused training programmes and ‘hands-
+on’ training through Farmer Field Schools (FFS) . 
+FFS is a popular education and extension approach 
+developed by FAO and partners, and evidence to 
+date suggests that this approach works in reaching 
+small farmers, particularly women17.
+Women’s time spent fulfilling day-to-day household 
+chores can be reduced by providing access to 
+improved household water sources , in the case 
+of Vien An village. There is also a need for the 
+local government to support poor households 
+in the construction of latrines for better health 
+and sanitation in the village. Day care centres  
+established in the village could support women 
+farmers during the peak agricultural season.
+With the rapid adoption of information technology, 
+there is a need to tap into potential for dissemination 
+of climate-related information, market prices and 
+improved crop production practices through cell 
+phones. The provision of affordable cell phones 
+to women can supply them with key knowledge 
+and help link them to the market. They can get 
+better prices for rice, shrimp and livestock, and 
+also have better access to input and product 
+markets, veterinary services, and rental services for 
+agricultural machinery.
+Through consultation, the risks associated with 
+men taking control over farming technologies can 
+also be mitigated. Measures in support of women’s 
+ownership and control over technologies should 
+be established in order to avoid women being 
+17 For more information on the FFS approach: http://www.fao.org/
+agriculture/ippm/programme/ffs-approach/en/.
+deprived of income-earning opportunities. One way 
+to achieve this is to provide women’s groups with 
+training in operating a specific piece of equipment 
+and managing its rental use. Groups of women can 
+be organized to act as service providers for a portable 
+threshing machine or for pulling of seedlings and 
+gap filling, particularly during peak crop season.
+5.2.5. Mitigate the social and economic risks 
+inherent to rice–shrimp farming
+When introducing farming practices that rely 
+on high input costs (e.g. shrimp), specific policy 
+measures need to be explored to mitigate farmers’ 
+risks and special attention needs to be paid to 
+supporting those who are made most vulnerable 
+during shifts toward mechanization. As we have 
+seen, the risks inherent to rice–shrimp production 
+include a significant increase in the overall burden of 
+labour, gender imbalance in participation in shrimp 
+farming, and the high cost of material inputs. 
+Implementing Recommendations 2 through 4 
+can help to mitigate the first two risks. If labour 
+burden from other activities is reduced and women 
+are better targeted as rice and shrimp producers 
+through training and increased participation in 
+key institutions, a more equitable and efficient 
+production system will result.
+As for managing financial risk, facilitating access 
+to formal credit for under-served categories, such 
+as women, is an important first step. This would 
+imply working both with financial service providers 
+and local women. The former would need to be 
+encouraged to develop products that can be easily 
+made accessible to women who might lack access 
+to collateral – while the capacity of the latter 
+would need to be strengthened with financial 
+literacy and household business planning skills (if 
+women, for instance, are supported to build a track 
+record of successful positive repayments through 
+credit bureaus, they can enhance their ability in 
+accessing loans). 
+5. Conclusion
+
+38
+Blackden, M. & Wodon, Q. 2006. Gender, time use, 
+and poverty: introduction. In M. Blackden & Q. 
+Wodon, eds. Gender, time use, and poverty in 
+sub-Saharan Africa. World Bank Working Paper 
+No.73. Washington, DC, World Bank.
+Brennan, D., Preston, N., Clayton, H., and Tran 
+Thanh Be 2002, Shrimp farming and the 
+Environment. An Evaluation of Rice–shrimp 
+Farming Systems in the Mekong Delta. 
+(Available at: http://library.enaca.org/Shrimp/
+Case/Vietnam/FinalVietnam.pdf ).
+Carr, M. & Hartl, M . 2010. Lightening the load. 
+Labour-saving technologies and practices 
+for rural women. IFAD and Practical Action 
+Publishing Ltd.
+Chi, T.T.N., Paris, T.R., Manzanilla D., Tatlonghari 
+G., Labios, R., Tuyen T.Q. & Lang N.T. 2011. 
+Understanding farmers’ preferences through 
+participatory varietal selection (PVS) in the flood 
+prone rice areas of the Mekong Delta, Viet Nam. 
+Omonrice 18:167–181. (Available at: http://clrri.
+org/ver2/uploads/noidung/18–21.pdf ).
+Chi, T.T.N., Paris, T.R., Anh Tran Thi Thuy., Duy 
+Le, & Loan Dang Tuyet . 2015. Enhancing the 
+roles of women in rice farming as an adaptation 
+strategy for climate change risks: a case study 
+in submergence villages in Hau Giang province, 
+South Viet Nam . Report submitted to Climate 
+Change in Agriculture and Food Security. 
+Technical report submitted to CCAFS, Hanoi, 
+Viet Nam.
+Dao, T.A. & Nguyen, D.M.C. 2015. Family Farming 
+and Farmland Policy in Viet Nam: Current 
+Situation and Perspective. FFTC–MARDI 
+International Seminar on Cultivating the Young 
+Generation of Farmers with Farmland Policy 
+Implications, May 25–29. Serdang, Selangor, 
+ Malaysia, MARDI. (Available at: http://ap.fftc.
+agnet.org/files/ap_policy/452/452_1.pdf )
+DARD (Department of Agriculture and Rural 
+Development, Viet Nam). 2015. Master Plan 
+of Soc Trang Committee. Materials circulated 
+within People and Soc Trang province (In 
+Vietnamese).
+Dixon, M . 1985. Women’s work in the Third 
+World agriculture: concepts and indicators. 
+Women, work and development . No.9. Geneva 
+(Switzerland), ILO (International Labour 
+Organization). 151 p.
+FAO. 2013. FAO Policy on Gender Equality. 
+Attaining Food Security Goals in Agriculture 
+and Rural Development . Rome. (Available at 
+http://www.fao.org/docrep/017/i3205e/i3205e.
+pdf).
+FAO. 2015. The State of Food and Agriculture. 
+Social protection and agriculture: breaking the 
+cycle of rural poverty. Rome. (Available at: http://
+www.fao.org/3/a-i4910e.pdf)
+FAO. 2016. Report of the knowledge exchange on 
+the promotion of efficient rice farming practices, 
+farmer field school curriculum development 
+and value chains . Yogyakarta, Indonesia, 
+26–29 September 2016 . FAO Fisheries and 
+Aquaculture Report No.1181. Rome.
+FAO & SIDA (Swedish International Development 
+Agency). 2012. National Gender Profile of 
+Agricultural Households . Report based on the 
+2006 Rural, Agriculture and Fishery Census. 
+FAO/Hanoi 2010.
+FAO. Term portal. (Available at http://www.fao.org/
+faoterm/en/).
+Bibliography
+
+39
+Bibliogrphy
+General Statistics Office of Viet Nam. 2014 data set. 
+Accessed: 10 May 2016. (Available at: http://www.
+gso.gov.vn/Default_en.aspx?tabid=491).
+Gershuny, J . 1983. Social Innovation and the 
+Division of Labour . London: Oxford University 
+Press.
+Gershuny, J . 1988. Time, Technology and the 
+Informal Economy. In Pahl, R.E., ed. On Work . 
+Oxford, Blackwell.
+Grassi, F., Landberg, J. & Huyer, S . 2015. Running 
+out of time. The reduction of women’s work 
+burden in agricultural production . Rome. 
+(Available at: http://www.fao.org/3/a-i4741e.pdf).
+Gurung, K., Bhandari, H. & Paris, T.R . 2016. 
+Transformation from Rice Farming to Commercial 
+Aquaculture in Bangladesh: Implications 
+for Gender, Food Security, and Livelihood . 
+Gender, Technology and Development . March 
+2016 20:  49 –80. Asian Institute of Technology. 
+India, SAGE.
+Huelgas, Z.M. & Templeton, D.J . 2010. Adoption of 
+crop management technology and cost-efficiency 
+impacts: the case of Three Reductions, Three 
+Gains in the Mekong River Delta of Viet Nam. In: 
+FG Palis, GR Singleton, MC Casimero, B Hardy, 
+eds, Research to Impact: case studies for natural 
+resource management for irrigated rice in Asia. 
+Los Baños (Philippines), IRRI (International 
+Rice Research Institute). 289–316.
+ILO Global Statistics and Data Bases. (Available 
+at:  http://www.ilo.org/global/statistics-and-
+databases/statistics-overview-and-topics/
+WCMS_470308/lang--en/index.htm ).
+ILO/SEAPAT (International Labour Organization/
+South-East Asia and the Pacific Multidisciplinary 
+Advisory Team). 1998. Unit 1: A conceptual 
+framework for gender analysis and planning. 
+In ILO/SEAPAT’s Online Gender Learning & 
+Information Module . (Available at: http://www.
+ilo.org/public/english/region/asro/mdtmanila/
+training/unit1/groles.htm).
+IRRI (International Rice Research Institute). 1985. 
+Women in rice farming . Manila (Philippines): 
+Gower, Aldershot and IRRI.
+IRRI. 2013. Women restore balance in rice fields 
+with flowers. (Available at: http://irri.org/news/
+media-releases/women-restore-balance-in-rice-
+field-with-flowers).
+IRRI. 2015. The ongoing transformation of rice 
+farming in Asia. IRRI Today . Vol 14 No. 4. Los 
+Banos, Laguna, Philippines, IRRI.
+Joffre, O., Prein, M., Tun, P.B.V., Saha, S.B., Hao, 
+N.V. & Alam, M.J. 2010. The evolution of shrimp 
+aquaculture systems in the coastal zones of 
+Bangladesh and Viet Nam: a comparison. In 
+C.T. Hoanh, B.W. Szhuster, K. Suan-Pheng, 
+A.M. Ismail & A.D. Noble. Tropical deltas and 
+coastal zones: food production, communities, 
+and environment at the land-water interface. Pp. 
+48–63. CABI International.
+Khiem, N.T. & Hossain, M . 2009. Dynamics of 
+livelihoods and resource use strategies in 
+different ecosystems of the coastal zones of Bac 
+Lieu province, Viet Nam. In C.T. Hoanh, B.W. 
+Szhuster, K. Suan-Pheng, A.M. Ismail & A.D. 
+Noble. Tropical deltas and coastal zones: food 
+production, communities, and environment at 
+the land–water interface . Pp. 436–447. CABI 
+International.
+Lang, N.T., Buu, B.C., Viet, N.V., & Ismail, A.M. 
+2009. Strategies for improving and stabilizing 
+rice productivity in the coastal zones of the 
+Mekong Delta, Viet Nam. In C.T. Hoanh, B.W. 
+Szhuster, K. Suan-Pheng, A.M. Ismail & A.D. 
+Noble. Tropical deltas and coastal zones: food 
+production, communities, and environment at 
+the land–water interface. CABI International.
+Manzanilla, D.O., Paris, T.R., Vergara, G.V., Ismail, 
+A.M. Pandey, S., Labios, R.V., Tatlonghari, 
+G.T., Acda, R.D., Chi, T.T.N., Doangsila, K., 
+Siliphouthone, I., Manikmas, M.O.A. & Mackill 
+D.J. 2011. Submergence risks and farmers’ 
+preferences: implications for breeding Sub1 rice 
+in Southeast Asia. Agricultural Systems  104 
+(2011), 335–347. Elsevier LTD.
+MARD (Ministry of Agricultural Development 
+Research). 2013. Viet Nam.
+
+40
+Bibliogrphy
+Meinzen-Dick, R., Quisumbing, A., Behrman, J., 
+Biermayr-Jenzano, P., Wilde, V., Noordeloos, M. 
+Ragasa, R. & Beintema, N . 2010. Engendering 
+agricultural research, development and 
+extension, Washington, D.C. IFPRI.
+Moser, C . 1989. Gender planning in the Third 
+World: meeting practical and strategic needs. 
+World Development, 17(11)1799–1825.
+OECD (the Organisation for Economic Co-
+operation and Development). 2014. Issues Paper: 
+Unpaid Care Work: The missing link in the 
+analysis of gender gaps in labour outcomes . By 
+Gaëlle Ferrant, Luca Maria Pesando and Keiko 
+Nowacka. (Available at: https://www.oecd.org/
+dev/development-gender/Unpaid_care_work.
+pdf).
+Paris, T.R. 2007. Women’s roles and needs in 
+changing rural Asia with emphasis on rice-based 
+agriculture. Food and Fertilizer Technology 
+Center. Extension Bulletin 593. November 2007.
+Paris, T.R. 2009. Women’s Roles and Needs in 
+Changing Rural Asia with Emphasis on Rice-
+Based Agriculture. International Rice Research 
+Institute (IRRI). Los Baños, Laguna, Philippines.
+Paris, T.R. & Chi, T.T.N . 2005. The impact of row 
+seeder technology on women labor: a case 
+study in the Mekong Delta , Viet Nam . Gender, 
+Technology and Development 9(2). Sage 
+Publications.
+Paris, T.R., Diaz, C. & Hossain, I. 2011. Participatory 
+evaluation of a rice flour mill by poor rural 
+women: Lessons from Bangladesh. Gender, 
+Technology and Development 15 (5:275–299).
+Paris, T.R., Singh, A., Cueno, A. & Singh, V.N. 2008. 
+Assessing the impact of participatory research in 
+rice breeding on women farmers: a case study 
+in eastern Uttar Pradesh, India. Experimental 
+Agriculture. Vol 44, pp. 97–112. Cambridge 
+University Press.
+Paris, T.R., Chi, T.T.N., Rubzen-Rola, M.F. & Luis, 
+J.S. 2009. Effects of out-migration on rice-
+farming households and women left behind in 
+Viet Nam. Gender, Technology and Development 
+(13:2). Sage Publications.
+Poisot, A.-S., Speedy, A. and Kueneman, E , 2004. 
+Good Agricultural Practices – a working 
+concept Background paper for the FAO Internal 
+Workshop on Good Agricultural Practices. FAO 
+GAP working paper series. (Available at: ftp://ftp.
+fao.org/docrep/fao/010/ag856e/ag856e00.pdf).
+Tran Ngoc Hai, Pham Minh Duc, Vo Nam Son, 
+Truong Hoang Minh and Nguyen Thanh Phuong. 
+2015. Innovation in Seed Production and 
+Farming of Marine Shrimp in Viet Nam. World 
+Aquaculture (the quarterly magazine of the 
+World Aquaculture Society). Volume 46, 
+Number 1, March 2015. (Available at: https://
+www.researchgate.net/publication/308202269_
+INNOVATION_OF_MARINE_SHRIMP_SEED_
+PRODUCTION_AND_FARMING_IN_VIETNAM).
+UN DESA (United Nations Department of Economic 
+and Social Affairs). 1999. Unpaid Work and 
+Policy-Making: Towards a Broader Perspective 
+of Work and Employment . By Joke Swiebel. 
+ST/ESA/1999/DP.4. DESA Discussion Paper 
+No. 4. (Available at: http://www.un.org/esa/desa/
+papers/1999/esa99dp4.pdf ).
+UNIFEM (United Nations Development Fund for 
+Women, now UN Women). 2000. Chapter 1: 
+The Progress of Women: Empowerment and 
+Economics. In Progress of the World’s Women 
+2000. UNIFEM Biennial Report . New York. 
+(Available at: http://www.unwomen.org/-/media/
+headquarters/media/publications/unifem/153_
+chap1.pdf?vs=1003).
+UN Stats. Gender Statistics Manual: Glossary of 
+terms. (Available at: https://unstats.un.org/unsd/
+genderstatmanual/Glossary.ashx)
+
+41
+Appendices
+Appendix 1 
+ 
+Vien An – Overview of productive data by wealth group
+Rice, vegetable farming and livestock breeding data
+Productivity/wealth status Poor Middle income Better off
+Rice average yield  
+Wet season: 6 t/ha – dry season: 7 t/ha 
+% of households which grow rice 100 100 100
+Average production (kg)/household/yr 3 550 9 500 20 000
+% Sold 90 90 95
+% Consumed 10 10 5
+Onion leaves (dry season) 
+% of households which grow onion leaves on 
+upland fields
+30 60 10
+Plot area (m2)/household 500 2 000 2 000
+Average production (onion) kg 2 400 8 000 4 000
+% Sold (seedlings) 80 80 80
+% Consumed 20 20 20
+
+42
+Appendices
+Livestock production
+Livestock productivity/wealth status Poor Middle income Better off
+Dairy cattle 
+% of households with cattle 30 40 30
+Number of cows/household 1–2 2–4 5–7
+% Sold 100 100 100
+Swine fattening 
+% of households with pigs 10 20 10
+Number of pigs/household 1–2 4–6 7–10
+% Sold 100 100 100
+Poultry 
+(% of households with chickens) 20 50 30
+Number of chickens/household 5–10 10–20 10–20
+% Sold 50 50 50
+% Consumed 50 50 50
+Duck 
+% of households with ducks 2 10 0
+Number of ducks raised (heads) 10–20 20–50 0
+% Sold 50 70 0
+% Consumed 50 30 0
+Source: Small group discussions with key community leaders.
+
+43
+Appendices
+Appendix 2 
+ 
+Hoa Tua1 – Overview of productive data by wealth group
+Rice, shrimp and vegetable farming and livestock breeding data
+Productivity/wealth status Poor Middle income Better off
+Rice Average yield 
+Wet season: 6 t/ha – dry season: 7 t/ha 
+% of households which grow rice 100 100 100
+Average production (kg)/household/year 850 dry rice
+(6.5 t/ha)
+3 000 dry rice
+(6.5 t/ha)
+5 000 dry rice
+(6.5 t/ha)
+% Sold 5 50 20
+% Consumed 95 50 80
+Shrimp 
+% of households who raise shrimp 85 100 100
+Average production (kg)/household/year 200 450 1 000
+% Sold 10 100 100
+% Consumed 90 0 0
+Green beans (upper bunds)
+% of households who grow beans 30 50 20
+Average production (kg)/household/year 5 10 20
+% Consumed 100 100 100
+Squash (upper bunds) 
+% of households who grow squash 30 50 20
+Average production (kg)/household/year 200 400 650
+% Sold 99 99 99
+% Consumed 1 1 1
+
+44
+Livestock production
+Livestock/productivity/wealth status Poor Middle income Better off
+Cattle fattening 
+% of households 30 45 20
+Number of cows/household 1 2 4
+% Sold 100 100 100
+Swine fattening 
+% of hhlds 20 30 0
+Number of pigs/household 1 2 0
+% Sold 100 100 100
+Poultry 
+(% of households) 100 100 100
+Number of chickens/household 10 30 15
+% Sold 90 70 100
+% consumed 10 30 0
+Duck 
+(% of households) 60 70 20 
+Number of ducks raised 10 25 15
+% Sold 100 80 100
+% Consumed 0 20 0
+Source: Small group discussions with key community leaders.
+Appendices
+
+45
+Appendix 3 
+ 
+Summary sex-disaggregated labour data
+Labour inputs in rice, vegetables, shrimp and livestock production in Vien An and Hoa Tua1 village
+Vien An village Men (person days) Women (person days) Total person days/ha
+Crops 
+Rice (wet) Person days/ha 47 (48 %) 51 (52 %) 98 (100)
+Rice (dry) Person days/ha 22 (52 %) 20 (48 %) 42 (100)
+Onions Person days/ha 77 (39 %) 121 (61 %) 198 (100)
+Rice–rice Person days/ha 69 (49 %) 71 (51 %) 140 (100)
+Livestock
+Cows (3 heads) hours/day
+(wet season) 
+8.2 (59 %) 5.7 (41 %) 13.9 (100)
+Pigs (5 piglets) hours/day 0.4 (33 %) 0.81(67 %) 1.21 (100)
+Hoa Tua1 village Men (person days) Women (person days) Total person days/ha
+Crop and Shrimp
+Rice (wet) Person days/ha 38 (66 %) 20 (34 %) 58 (100)
+Shrimp (dry) Person days/ha 126 (70 %) 55 (30 %) 181 (100)
+Rice–shrimp (Person days/ha) 164 (69 %) 75 (31 %) 239 (100)
+Squash (Person days/ha) 58 (48 %) 64 (52 %) 122 (100)
+Green beans (Person days/ha) 18 (21 %) 68 (79 %) 86 (100)
+Livestock 
+Cows (1–2 heads) hrs/day 5.0 (57 %) 4.0 (43 %) 9 (100)
+Pigs (1–2 piglets) hrs/day 0.2 (25 %) 0.6 (75 %) 0.8 (100)
+Livestock wage rates: Women are paid VND100 000/day (US$4.54/day). Men are paid VND120 000 to 150 000/day.
+Appendices
+
+46
+Appendices
+Appendix 4 
+ 
+Seasonal sex-disaggregated labour data (days/ha)
+Vien An
+Wet rice Total 
+M/ha
+Total 
+F/ha
+Prepare land 0.4 0
+Make field ditches 1.5 1.5
+Clean the field (manual) 7.7 4.6
+Prepare bunds 4.6 1.5
+Broadcast seeds 1.5 0
+Fill gaps 1.5 7.7
+Broadcast fertilizer 2.3 0.4
+Spray pesticides 6.7 6.7
+Drain the field 5.4 0
+Handweed 0 18.5
+Field visit 10 10
+Harvest with combine 3.5 0
+Haul 1.7 0
+Sub totals 47 51
+Total men and women days/ha 98
+Dry rice crop Total 
+M/ha
+Total 
+F/ha
+Prepare land 0.1 0
+Make field ditches 0.2 0
+Clean the field (manual) 1.4 1.4
+Prepare bund 1.9 0
+Level land 0.5 0
+Broadcast seeds 0.5 0.5
+Fill Gaps 7.7 7.7
+Broadcast fertilizer 1.4 1.4
+Spray pesticides 2.9 0
+Drain the field 3.4 0
+Handweed 0 7.7
+Visit the field 1.4 0.3
+Harvest with Combine 0.2 1.4
+Sub totals 22 20
+Total men and women days/ha 42
+Yearly total: 140 days
+Hoa Tua1
+Wet season rice Total 
+M/ha
+Total 
+F/ha
+Wash salinity in the field 2.4 0
+Prepare land/mechanical 0.8 0
+Make field ditches 0.8 0
+Irrigate the field/drainage 0.2 0
+Broadcast seeds 0.5 0
+Pull the seeds for gap filling 6.9 0
+Fill gaps 0 9.2
+Broadcast fertilizer 3.5 0
+Spray pesticides 6.9 0
+Handweed 0.8 0.8
+Visit the field 6.7 1.0
+Harvest manually 6.1 7.8
+Thresh 2.3 0.8
+Sub totals 38 20
+Total men and women days/ha 58
+Shrimp Total 
+M/ha
+Total 
+F/ha
+Remove rice stubbles 7.5 5
+Remove soft mud 10 0
+Drain the field 0.3 0
+Apply lime 15 0
+Pump water 7.5 0
+Release shrimp larvae 0.6 0.6
+Operate ventilator 22 22
+Weigh & Mix feed 15 2.5
+Feed shrimp 18.8 3.1
+Test PH and salinity 7.5 0
+Visit the field 22 22
+Total 126 55
+Total men and women days/ha 181
+Yearly total: 239 days
+
+47
+Appendices
+Appendix 5 
+ 
+Labour cost calculation
+Example based on the costs attributed to the labour input of household men in Vien An’s wet rice season  
+(see labour costs referred to in Table 2 on page 15) 
+Activity HH men* (days/ha) VND/day** Cost/ha in VND
+Land preparation (hired labour) 0
+Making internal field ditches 1.54 150 000 231 000
+Cleaning the field (manual labour) 4.62 150 000 693 000
+Bund preparation 1.54 150 000 231 000
+Broadcasting seeds 0.77 120 000 92 400
+Gap-filling 1.54 120 000 184 800
+Broadcasting fertilizer 1.15 120 000 138 000
+Spraying pesticides 6.73 120 000 807 600
+Water pumping/draining the field 0.58 150 000 86 700
+Hand weeding (women’s labour) 0 -
+Field visit 10 120 000 1 200 000
+Combined harvester (hired labour) 0 -
+Hauling (hired labour) 0 -
+Days/ha 28.47
+Total 3 664 500
+US$ conversion 167
+Cost equivalent of HH men labour US$/plot size (167/0.65) 108
+* HH men: Household men
+** US$1 = VND22 000
+
+48
+Appendices
+Appendix 6 
+ 
+Costs and returns of upland crops
+Cost and returns of upland crops (including household labour inputs in days/ha)
+Hoa Tua1  
+Squash production on 1400m 2 (0.14 ha) 
+Household men labour  
+(days/ha)
+58 
+Household women labour  
+(days/ha)
+64
+Seed cost/ha (VND) 1 347 518
+Labour cost/ha (VND) 16 345 745
+Fertilizer cost/ha (VND) 1 134 752
+Pesticide cost/ha (VND) 1 177 305
+Total cost (VND) 20 005 319
+Yield (kg/ha) 8 511
+Price (VND/kg) 7 000
+Squash gross return (VND/ha) 59 574 468
+Net return (VND/ha) 39 569 149
+Benefit–cost ratio* 2.98
+Vien An  
+Onion leaf production on 500m 2 (0.05 ha)
+Household men labour 31
+Household women labour 49
+Labour cost/ha (VND)** 1 600 000
+Selling cost (VND) 1 000 000
+Insecticide cost (VND) 200 000
+Total cost (VND) 2 800 000
+Yield (kg) 600
+Price (VND/kg) 6 000
+Onion leaf gross return (VND/ha) 3 600 000
+Net return/crop (VND/ha) 800 000
+Net return per year (2 crops) 
+(VND/ha)
+1 600 000
+Benefit–cost ratio* 1.28
+* BCR = GR/TC
+** 80hrs/season (40 days x 2 hrs) @ VND20 000/hrs
+Hoa Tua1 
+Green bean production on 1000m 2 (0.10 ha) 
+Household men labour  
+(days/ha)
+18
+Household women labour  
+(days/ha)
+68
+Seed cost/ha (VND) 200 000
+Labour cost/ha (VND) 10 725 000
+Fertilizer cost/ha (VND) 1 480 000
+Pesticide cost/ha (VND) 250 000
+Total cost(VND) 12 655 000
+Yield (kg/ha) 1 500
+Price (VND/kg) 30 000
+Green bean gross return (VND/ha) 45 000 000
+Net return (VND/ha) 32 345 000
+Benefit–cost ratio* 3.56
+
+
+
+This case study focuses on smallholder farms in Soc Trang, southern 
+Viet Nam. Its purpose is to illustrate and compare women and men’s 
+contributions to two integrated, rice-based farming systems: the first and 
+more traditional one is centered on double rice cropping, while the second 
+adopted an innovative practice which integrates rice and aquaculture 
+(shrimp farming). The study explores how gender norms affect the division 
+of labour and farmer’s access to and decision-making about productive 
+inputs, technologies and services. 
+The conclusion introduces a set of key findings from a social and economic 
+perspective, acknowledging the importance of recognizing “invisible 
+family labour” when pursuing agricultural productivity goals and pointing 
+to the benefits of integrated agriculture/aquaculture/livestock systems. It 
+is followed by recommendations, aimed at policy makers, researchers and 
+development partners.   
+© FAO, 2017

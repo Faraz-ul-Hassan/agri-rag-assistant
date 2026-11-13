@@ -1,0 +1,1422 @@
+Integrated soil fertility management
+Training guide for facilitators
+
+
+
+Integrated soil fertility management
+Training guide for facilitators
+Food and Agriculture Organization of the United Nations
+Rome, 2026
+Kizito Kayanda Mwajombe
+Janet Maro
+Meddy Ayub Njusi
+Daudi Edward  Gwabara  
+Sustainable Agriculture Tanzania, Morogoro
+
+Required citation:
+Mwajombe, K. K., Maro, J., Njusi, M. A. & Gwabara, D.E. 2026. Integrated soil fertility management – 
+Training guide for facilitators. Rome, FAO. https://doi.org/10.4060/cd7905en
+The designations employed and the presentation of material in this information product do not imply the 
+expression of any opinion whatsoever on the part of the Food and Agriculture Organization of the United 
+Nations (FAO) concerning the legal or development status of any country, territory, city or area or of its 
+authorities, or concerning the delimitation of its frontiers or boundaries. The mention of specific companies 
+or products of manufacturers, whether or not these have been patented, does not imply that these have been 
+endorsed or recommended by FAO in preference to others of a similar nature that are not mentioned.
+The views expressed in this information product are those of the author(s) and do not necessarily reflect the 
+views or policies of FAO.
+ISBN 978-92-5-140374-7
+© FAO, 2026
+Some rights reserved. This work is made available under the Creative Commons Attribution- 4.0 International 
+licence (CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode.en).  
+Under the terms of this licence, this work may be copied, redistributed and adapted, provided that the work 
+is appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific 
+organization, products or services. The use of the FAO logo is not permitted. If a translation or adaptation of 
+this work is created, it must include the following disclaimer along with the required citation: “This translation 
+[or adaptation] was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is 
+not responsible for the content or accuracy of this translation [or adaptation]. The original [Language] edition 
+shall be the authoritative edition.” 
+Any dispute arising under this licence that cannot be settled amicably shall be referred to arbitration in 
+accordance with the Arbitration Rules of the United Nations Commission on International Trade Law 
+(UNCITRAL). The parties shall be bound by any arbitration award rendered as a result of such arbitration as 
+the final adjudication of such a dispute. 
+Third-party materials. This Creative Commons licence CC BY 4.0 does not apply to non-FAO copyright 
+materials included in this publication. Users wishing to reuse material from this work that is attributed to a 
+third party, such as tables, figures or images, are responsible for determining whether permission is needed 
+for that reuse and for obtaining permission from the copyright holder. The risk of claims resulting from 
+infringement of any third-party-owned component in the work rests solely with the user.  
+FAO photographs. FAO photographs that may appear in this work are not subject to the above-mentioned 
+Creative Commons licence. Queries for the use of any FAO photographs should be submitted to: photo-
+library@fao.org. 
+Sales, rights and licensing. FAO information products are available on the FAO website (www.fao.org/
+publications) and print copies can be purchased through the distributors listed there. For general enquiries 
+about FAO publications please contact:  publications@fao.org. Queries regarding rights and licensing of 
+publications should be submitted to: copyright@fao.org. 
+This publication has been produced with the assistance of the European Union. The contents of this publication are the sole responsibility 
+of FAO and can in no way be taken to reflect the views of the European Union.
+Cover photograph: © FAO/Marco Longari
+
+
+CONTENTS
+GLOSSARY ..............................................................................................................IV
+ACKNOWLEDGEMENTS ..................................................................................V
+FOREWORD ...........................................................................................................VI
+CHAPTER 1 INTRODUCTION .........................................................................1
+About integrated soil fertility management .................................................................1
+Purpose and rationale for the training guide  .............................................................2
+The principles of integrated soil fertility management .................................................2
+SESSION I SOIL AS A LIVING ORGANISM ...............................................4
+Why is soil considered a living organism? .................................................................. 4
+Introduction to soil health management ......................................................................4
+LESSON PLAN FOR SESSION I ....................................................................7
+SESSION II INTEGRATED SOIL FERTILITY MANAGEMENT 
+PRACTICES ................................................................................................................8
+Soil and water conservation practices .........................................................................8
+LESSON PLAN FOR SESSION II ................................................................12
+SESSION III SOURCES AND PREPARATION OF ORGANIC 
+FERTILIZER ...............................................................................................................13
+Preparation of compost .............................................................................................13
+Materials and tools needed for compost preparation. ...............................................13
+Steps in preparing the compost heap ........................................................................14
+Preparation of solid organic fertilizers....................................................................... 15
+Tea manure preparation ...........................................................................................18
+LESSON PLAN FOR SESSION III ................................................................. 20
+NOTES ..................................................................................................................... 21
+iii
+
+
+GLOSSARY
+Agriculture The practice of cultivating the soil, growing crops, or raising livestock for 
+human use, including the production of food, feed, fibre, fuel or other 
+useful products.
+Agroecology The application of ecological principles to agriculture systems and 
+practices.
+Agroforestry A land use management system in which trees or shrubs are grown 
+around or among crops or pastureland.
+Compost A mixture of ingredients used as plant fertilizer to improve the soil’s 
+physical, chemical and biological properties.
+Conversional 
+agriculture
+A farming system that uses synthetic chemicals and fertilizer to maximize 
+the yield of a particular crop.
+Crop residues Materials left on cultivated land after the crop has been harvested.
+Farmyard manure A mixture of dung, urine, litter and leftover materials from roughages 
+and fodder fed to animals.
+Integrated 
+soil fertility 
+management
+The enhancement of crop productivity while maximizing the agronomic 
+efficiency of applied inputs.
+Nutrient elements The elements required for the normal life cycle of an organism whose 
+function cannot be substituted by any other chemical compound.
+Organic farming An agricultural system that uses organic fertilizers such as compost.
+Organic fertilizer Fertilizer consisting of degradable materials derived from plant and 
+animal products.
+Organic matter A reservoir of nutrients that can be released to the soil.
+Plant nutrients The chemical elements that are essential to the nourishment of plant 
+health.
+Recycling The process of converting waste materials into new reusable materials 
+and objects.
+Soil The upper layer of earth in which plants grow.
+Soil fertility The ability of soil to sustain agricultural plant growth.
+Soil health The capacity of soil to function as a living system to sustain plant and 
+animal productivity.
+Soil structure The way individual particles of sand, silt and clay are assembled.
+Soil texture The proportion of sand, silt and clay-sized particles that make up the 
+mineral fraction of the soil.
+Synthetic fertilizer Chemically manufactured materials containing one or more of the 
+primary nutrients necessary for plant growth.
+iv
+
+
+The Integrated soil fertility management: 
+Training guide for facilitators has been 
+developed as a tool for transferring integrated 
+soil fertility management (ISFM) knowledge 
+and practices to extension agents and farmers. 
+This Guide was commissioned by the Food and 
+Agriculture Organization of the United Nations 
+(FAO) under the Capacity Building Related 
+to Multilateral Environmental Agreements 
+in African, Caribbean and Pacific Countries 
+Phase III programme (ACP MEAs 3), funded by 
+the European Union.
+Sincere gratitude for their expertise is extended 
+to the contributing institutions led by Sustainable 
+Agriculture Tanzania, Sokoine University of 
+Agriculture, Tanzania Organic Agriculture 
+Movement, Participatory Ecological Land Use 
+Management Tanzania, Tanzania Alliance for 
+Biodiversity, University of Dar Es Salaam, the 
+local government authority from Bagamoyo 
+District Council, Tanzania Plant Health and 
+Pesticides Authority, and the Nelson Mandela 
+African Institution of Science and Technology. 
+This Guide is the result of remarkable efforts by 
+several staff from these institutions who shared 
+their knowledge and long-term experience of 
+working with farming communities. The technical 
+support provided by FAO and the financial 
+support provided by the European Union are 
+acknowledged and highly appreciated.
+ACKNOWLEDGEMENTS
+v
+
+
+Tipo Nyabenyi
+FAO Country Representative, 
+United Republic of Tanzania
+Integrated soil fertility management (ISFM) 
+is intricately woven within the fabric of 
+the agricultural landscape; it is a holistic 
+approach aimed at nurturing soil fertility 
+and agricultural productivity sustainably. 
+Recognizing soil fertility as a dynamic and 
+multifaceted system, ISFM acknowledges the 
+interplay of diverse factors such as nutrient 
+dynamics, organic matter content and soil 
+structure, and the symbiotic relationships 
+between plants, soil organisms and 
+microorganisms.
+In our pursuit of resilient agricultural 
+systems, the application of ISFM practices 
+is indispensable. ISFM is a cornerstone 
+of sustainable agriculture, which aims to 
+harmonize food production with ecosystem 
+integrity while fostering equity and resilience.
+The European Union-funded programme 
+“Capacity Building Related to Multilateral 
+Environmental Agreements in African,
+ 
+Caribbean 
+and Pacific Countries Phase III (ACP 
+MEAs 3)” implemented field activities in 
+the United Republic of Tanzania to mainstream 
+biodiversity into the agricultural sector. 
+The programme underscored the need for 
+enhancing the knowledge base of farmers and 
+extension service providers in areas such as 
+agroforestry systems and ISFM, which led to the 
+development of a training manual tailored to 
+local contexts.
+The Integrated soil fertility management: Training 
+guide for facilitators stands as a testament to our 
+commitment to democratizing knowledge and 
+empowering stakeholders at the grassroots level. 
+By distilling complex concepts into accessible 
+guidance, it equips facilitators, i.e. farmers, 
+extension officers and development agents, with 
+the tools needed to implement ISFM approaches 
+effectively.
+As we embark on this journey towards 
+sustainable agriculture, let us remain steadfast 
+in our dedication to nurturing both crops and 
+ecosystems. Through the adoption of ISFM 
+practices, we endeavour to cultivate high-quality 
+agricultural produce while safeguarding the 
+environment for future generations.
+FOREWORD
+© FAO
+vi
+
+
+CHAPTER 1  
+Introduction
+About integrated soil fertility 
+management
+Soil fertility is the ability of soil to sustain 
+plant growth and optimize crop yield. Current 
+advocated approaches and techniques target 
+enhancing soil fertility and crop production while 
+minimizing the environmental impact. Therefore, 
+advancing food security and environmental 
+sustainability in farming systems requires an 
+integrated soil fertility management (ISFM) 
+approach that maximizes crop production 
+while minimizing the mining of soil nutrient 
+reserves and the degradation of the physical 
+and chemical properties of soil that can lead 
+to land degradation, including soil erosion. 
+These soil fertility management practices most 
+often include the use of organic inputs, crop 
+rotation with legumes and the use of improved 
+germplasm, combined with the knowledge on 
+how to adapt these practices to local conditions.
+ISFM aims at maximizing the efficiency of the 
+agronomic use of nutrients and improving 
+crop productivity. This can be achieved by 
+intercropping, using cover crops, practising crop 
+rotation, adding farmyard manure or compost, 
+using green manure, and other processes that 
+minimize losses through leaching below the crop 
+rooting zone by improved water and nutrient 
+application.
+The ISFM approach can be applied to both 
+agricultural and non-agricultural settings, such 
+as home gardens. ISFM takes advantage of all 
+appropriate ISFM options including, but not 
+limited to, soil and water conservation practices, 
+crop residue management, recycling of organic 
+wastes, the implementation of agroforestry 
+practices related to ISFM, and the preparation 
+and use of fertilizers.
+Why integrated soil fertility management? 
+It’s easy to question the need for ISFM when 
+inorganic fertilizers alone very often succeed 
+at boosting plant growth and crop productivity. 
+The United Republic of Tanzania’s soils are 
+inherently of poor quality, and the current land 
+degradation has greatly amplified biodiversity 
+loss, altered species abundance, worsened 
+climate impact, and reduced ecosystem 
+services. This is primarily due to inadequate soil 
+fertility and poor management, undermining 
+productivity. Considering the expense of 
+fertilizers for small-scale farmers and their 
+limited use, it is recommended to adopt ISFM, 
+a strategy that combines fertilizer with other 
+soil management methods tailored to local 
+conditions to enhance crop productivity.1 
+The application of soil fertility management 
+practices should be applied, and the knowledge 
+to adapt them to local conditions maximizes 
+fertilizer and organic resource use efficiency and 
+crop productivity. These practices necessarily 
+include appropriate fertilizer and organic input 
+management combined with the utilization 
+of improved germplasm. Good agronomic 
+practices in terms of planting dates, plant 
+densities and weeding are essential for ensuring 
+the efficient use of scarce nutrients.
+Productivity is substantially enhanced when 
+IFSM is successfully adopted. What’s more, a 
+positive synergistic effect between organic and 
+inorganic inputs is often observed. As a result, 
+the efficiency of rainfall use is greatly enhanced. 
+ISFM targets nutrient resources within crop 
+rotation cycles, preferably by including legumes, 
+thus going beyond recommendations for a 
+single crop.2
+Purpose and rationale for the 
+training guide 
+The purpose of the training guide is to provide 
+extension officers and farmers with an overall 
+understanding of ISFM concepts as well as 
+the principles for implementing them at the 
+field level. The participants are guided on the 
+1
+
+
+set of practices related to cropping, fertilizers, 
+organic resources and other amendments on 
+smallholder farms to increase production and 
+input use efficiency.
+The Guide aims to equip small-scale farmers, 
+agricultural extension officers and other 
+facilitators with knowledge and skills on how to 
+adopt and implement ISFM in order to enhance 
+their capacity to make the right decisions 
+in managing soil health and soil fertility by 
+applying agroecological practices.
+How was the training guide prepared?
+The Guide was prepared through rigorous 
+efforts of individuals from different 
+organizations. It therefore draws from a wealth 
+of experience gathered by these individuals 
+through their long time of service to farmers 
+in different parts of the United Republic of 
+Tanzania. The Guide also benefits from research 
+studies by authors engaged in agroecology 
+and by different universities and organizations 
+that have implemented ISFM, and from 
+lessons learned. Content adopted from other 
+research has been duly acknowledged. This 
+Guide will be continuously improved based 
+on the users’ practices, improvements and 
+technological advancements, and will support 
+the transformation towards healthy soils and 
+healthy food.
+How is the Guide organized? 
+The first part of this manual introduces the 
+intention for developing the Guide. It provides 
+details about the intended users of the manual 
+and its purpose. Subsequently, the next parts 
+of this manual provide an understanding of 
+the ISFM principles and practices, as well as its 
+establishment and implementation.
+The benefits of using this Guide
+Farmers and extension agents will benefit from 
+using this Guide as a comprehensive reference 
+tool to make informed decisions, tailor strategies 
+to their specific contexts, and implement 
+sustainable and environmentally friendly soil 
+fertility management practices.
+The principles of integrated soil 
+fertility management
+ISFM is an approach that aims to enhance 
+soil fertility and agricultural productivity in a 
+sustainable and balanced way.3 The principles of 
+ISFM are as follows:
+1. Balancing nutrients: ISFM focuses on 
+balancing a combination of essential 
+nutrients in the soil by using organic 
+materials such as compost, crop residues 
+and manure, together with mineral fertilizers, 
+to ensure that all required nutrients are 
+available to plants.
+2. Site-specific management: The approach 
+recognizes that different soils and agro-
+ecological conditions require tailored 
+solutions by adapting practices to the specific 
+needs and conditions of each field or plot.
+3. Crop rotation and diversity: Rotating 
+different crops in a sequence helps prevent 
+nutrient depletion and pest build-up by 
+planting a diverse range of crops to improve 
+soil health and reduce the risk of disease 
+outbreaks. 
+4. Minimizing soil disturbance: Reducing 
+excessive tillage and other practices that 
+disturb the soil structure helps maintain its 
+fertility, prevent erosion, and enhance water 
+retention.
+5. Conservation agriculture: ISFM promotes 
+the practices of minimum tillage, cover 
+cropping and maintenance of crop residues 
+on the field to protect the soil from erosion, 
+maintain moisture, and improve organic 
+matter content.
+6. Use of organic matter: Incorporating 
+organic materials such as compost, crop 
+residues and manure into the soil enhances 
+2
+Integrated soil fertility management
+Training guide for facilitators
+
+its structure, water-holding capacity and 
+nutrient content. It also promotes beneficial 
+microbial activity.
+7. Sustainable nutrient management: ISFM
+encourages the judicious use of mineral
+fertilizers based on soil test results and
+nutrient requirements to prevent overuse,
+which can lead to environmental pollution.
+8. Local resources utilization: Using locally
+available resources, such as crop residues,
+organic waste and local rock phosphates,
+reduces the need for external inputs and
+supports the local economy
+.
+9. Knowledge and capacity building:
+Educating farmers about soil fertility
+management practices empowers them to
+make informed decisions about their land
+and resources.
+10.
+ Monitoring and adaptation: ISFM
+emphasizes continuous monitoring of soil
+health and crop performance. This allows
+farmers to adapt their practices based on
+results and observations.
+3
+
+
+SESSION I 
+Soil as a living organism
+Why is soil considered a living 
+organism?
+• Soil is the land surface layer that supports 
+plant growth.
+• Like a living organism, soil breathes and 
+requires air and water to sustain life.
+• Good soil hosts a large biomass of 
+microorganisms essential for decomposing 
+organic matter and releasing nutrients for 
+plant growth.
+• Soil is home to macro-organisms like 
+earthworms, insects and mites, as well 
+as other small invertebrates, which aid in 
+aeration, organic matter breakdown and soil 
+structure formation (Figure 1).
+• Soil organisms cycle essential nutrients such 
+as nitrogen, phosphorus and potassium, 
+transforming them into forms accessible to 
+plants.
+• Soil organisms respire, releasing carbon 
+dioxide and influencing the global carbon 
+cycle.
+• Soil organisms are vital for ecosystem 
+functions such as plant growth, water 
+filtration and carbon storage, linking 
+soil health to the health of aboveground 
+ecosystems. 
+Introduction to soil health 
+management
+Soil health is the capacity of soil to function 
+as a living system, with ecosystem and land 
+use boundaries, to sustain plant and animal 
+productivity, maintain or enhance water and air 
+quality, and promote plant and animal health. 
+Healthy soils maintain a diverse community of 
+soil organisms that help to control plant disease, 
+insect and weed pests; form beneficial symbiotic 
+associations with plant roots; recycle essential 
+plant nutrients; improve soil structure with 
+positive repercussions for soil water and nutrient 
+holding capacity; and ultimately improve crop 
+production.
+Soil fertility and its importance
+Soil fertility is the capacity of soil to retain, cycle 
+and supply essential nutrients for optimal plant 
+growth. Fertile soil can supply all essential plant 
+nutrients, i.e. nitrogen, phosphorus, potassium, 
+calcium, magnesium, sulphur, iron, zinc, copper, 
+boron, molybdenum and nickel, in amounts 
+needed to produce yields with high quantity 
+and quality. Sources of soil nutrients include soil 
+minerals, soil organic matter and biological 
+nitrogen fixation.
+Factors that negatively affect soil fertility
+• inappropriate irrigation methods;
+• excessive irrigation;
+• natural disaster, i.e. floods and windstorms;
+Figure 1 Healthy topsoil is home to soil- 
+enriching creatures
+© FAO/Alessia Pierdomenico
+4
+Integrated soil fertility management
+Training guide for facilitators
+
+• unsustainable agricultural practices, i.e. poor 
+soil and water conservation practices, poor 
+management of crop residue, monoculture, 
+overgrazing, burning of vegetation cover, 
+and deforestation resulting in soil erosion 
+(Figure 2); and
+• inappropriate use of inorganic fertilizers in 
+conventional farming.
+Soil fertility evaluation techniques and soil 
+texture determination 
+Soil fertility status can be evaluated through 
+qualitative and quantitative assessments by 
+using the following methods: 
+• the biological method (pot culture, 
+Neubauer seedling method); 
+• the visual method, consisting of observing 
+the symptoms of nutrient deficiency, such as 
+yellowing leaves (nitrogen deficiency), purple 
+edges (phosphorus deficiency) and pale 
+leaves (potassium deficiency); 
+• the plant analysis method, consisting of 
+examining the crops’ appearance; and
+• the soil analysis method, consisting in 
+digging two small holes in different spots 
+and comparing soil textures, colour and 
+structure; sandy soils lack nutrients, while 
+clay soils hold too much water. 
+Integrate these simple methods with organic 
+matter, crop residue and manure to enhance 
+soil fertility. This hands-on approach saves time 
+and money, and will provide an overview of the 
+ability of the soil to supply essential nutrients for 
+optimum plant growth and development.
+Assessing soil fertility involves evaluating the 
+soil’s capacity to support plant growth by 
+providing essential nutrients and favourable 
+conditions. FAO uses various methods to assess 
+soil fertility, such as analysing soil samples in 
+laboratories, conducting on-site evaluations, 
+and employing remote sensing techniques.
+Laboratory soil analysis is carried out by 
+collecting soil samples from the field to be sent 
+to laboratory service providers (e.g. Sokoine 
+University of Agriculture – Soil Science; Tanzania 
+Agricultural Research Institutes (Mlingano and 
+Selian) - Soil Service; Nelson Mandela African 
+Institution of Science and Technology in Arusha, 
+and International Institute of Tropical Agriculture 
+in Dar es Salaam), or by using soil testing kits 
+from the nearest agricultural extension service 
+followed by the interpretation of results.
+Soil texture can be determined using the soil 
+texture triangle (Figure 3) and the proportions of 
+clay, silt and sand in a sample. Understanding 
+the soil texture provides information about 
+factors such as the permeability and water-
+holding capacity of a given soil. These qualities 
+impact the types of plants that can grow as well 
+as erosion rates.
+The proportions of particle types are found 
+by suspending a sample in water (put soil 
+and water in a jar and shake it), allowing the 
+Figure 2 Topsoil eroded by floods
+© Sustainable Agriculture Tanzania (SAT)
+5
+
+
+components to settle (this can take up to 24 
+hours), and then measuring the layers formed. 
+Measure the height in the container of each 
+particle layer. Then divide the layer’s height 
+by the total sample height to determine the 
+percentage. The area that contains the point at 
+which the three types intersect is the soil type.
+ISFM and its importance
+ISFM involves maintaining and enhancing soil 
+nutrient content, structure and health for optimal 
+plant growth. It ensures balanced nutrient 
+levels, supports robust crops, and prevents 
+environmental harm. By recycling nutrients, it 
+promotes sustainability and resilience to climate 
+change while reducing production costs and 
+preventing soil degradation. 
+Customized practices, including organic matter 
+application, controlled fertilizer use and various 
+agricultural techniques, ensure context-specific 
+success. Adopting these practices safeguards 
+agricultural productivity and the environment for 
+future generations.
+ISFM and implications for sustainable 
+farming
+In conventional farming, ISFM includes 
+appropriate inorganic and organic fertilizer 
+resource management combined with the 
+utilization of improved crop varieties and 
+adapting to local conditions. This results in 
+interactive specific management practices and 
+investment choices, which improves farmers’ 
+decisions concerning weed management, the 
+choice of timing and spacing of fertilizer use, 
+and crop variety. The outcome is improved 
+productivity, enhanced soil quality and a more 
+sustainable farming system.
+soil survey Manual 125
+Figure 3-7
+USDA textural triangle showing the percentages of clay, silt, and sand in the 12 basic 
+texture classes.
+Groupings of Soil Texture Classes
+The need for fine distinctions in the texture of the soil layers results 
+in a large number of classes and subclasses of soil texture. It commonly 
+is convenient to speak generally of broad groups or classes of texture. 
+Table 3-1 provides an outline of three general soil texture groups and five 
+subgroups. In some areas where soils have a high content of silt, a fourth 
+general class, silty soil materials, may be used for silt and silt loam.
+Terms Used in Lieu of Soil Texture
+There are some horizons or layers for which soil texture class terms 
+are not applicable. These include bedrock and other cemented horizons 
+(such as petrocalcic horizons, duripans, etc.), those composed of organic 
+soil materials, and those composed of water, either liquid or frozen, below 
+a mineral or organic soil surface layer. Other exceptions include layers 
+composed of more than 90 percent rock fragments or artifacts and horizons 
+or layers composed of 40 percent or more gypsum in the fine-earth fraction 
+(and that are not cemented). These exceptions are discussed below.
+Figure 3 Soil texture determination 
+triangle
+Source: Soil Survey Staff. 2017. Soil Survey 
+Manual. USDA Handbook No. 18. U.S. Department 
+of Agriculture, Natural Resources Conservation 
+Service, Washington, D.C.
+6
+Integrated soil fertility management
+Training guide for facilitators
+
+LESSON PLAN 
+for Session I
+Topic
+Why is soil considered a living organism? 10 minutes
+Introduction to soil health management 15 minutes
+Soil fertility and its importance 10 minutes
+Factors affecting soil fertility 10 minutes
+ISFM and sustainable farming implications 10 minutes
+Soil texture determination and soil fertility 
+evaluation techniques 20 minutes
+ISFM and its importance 15 minutes
+Objectives
+By the end of the session, participants will be 
+able to:
+a. describe soil as a living organism and 
+explain soil health management;
+b. describe soil fertility management;
+c. describe practices of soil health 
+management for sustainable soil fertility.
+Time: 90 minutes
+Steps:
+1. Describe why soil is a living organism.
+2. Explain soil fertility management and its 
+importance.
+3. Determine the factors affecting soil fertility.
+4. Describe soil texture and fertility evaluation 
+techniques.
+5. Explain the relationship between ISFM and 
+sustainable farming.
+Methodology: Brainstorming, question and answer sessions, lectures and group discussions.
+Materials: Flip charts, marker pens, notebooks, pens, masking tape.
+Key message: Soil is a living organism and must be maintained sustainably.
+7
+
+
+SESSION II 
+Integrated soil fertility management 
+practices
+Soil and water conservation practices
+Soil and water conservation practices focus on 
+the control of water movement and improved 
+vegetation cover of the soil to reduce water 
+runoff on the soil surface.
+The use of cover crops such as large canopy 
+crops and runner crops, the planting of large 
+dense pasture around the field, and the 
+application of organic mulches (e.g. dry leaves, 
+rice husks, eggshells) and inorganic mulches 
+such as plastic sheets protect the soil from 
+erosion and evapotranspiration by reducing 
+water runoff while conserving moisture and 
+improving soil fertility upon decomposition.
+Combining cover crops with physical rainwater 
+harvesting techniques, such as half-moon 
+micro-catchment, trenches, cut-off drains and 
+contours, helps to protect soil against soil 
+erosion (Figure 4). 
+Conservation tillage
+This practice involves growing crops from year to 
+year with zero or minimum soil disturbance.
+The practice includes no-till, strip-till, ridge-
+till and mulch-till systems (Figure 5). When 
+compared to conventional practices, a minimum 
+tillage system can maintain plant residue by 
+more than 40 percent while reducing the volume 
+of soil disturbed, thus preserving the soil surface 
+for environmental and economic viability.
+Crop residue management in the field
+Crop residues contain a good proportion of 
+essential nutrients exported by plants from 
+the soil. When left to decompose in the field, 
+crop residues increase soil organic matter and 
+enhance nutrient cycling and retention.
+Figure 4 Soil and water conservation
+© Sustainable Agriculture Tanzania (SAT)
+Figure 5 No-till conservation tillage
+© FAO/Luis Tato
+8
+Integrated soil fertility management
+Training guide for facilitators
+© Sustainable Agriculture Tanzania (SAT)
+
+Crops residue, when left in the field as surface 
+mulches, combined with minimum tillage 
+(tilling only in the planting row), reduces water 
+runoff, and thus protects the soil from erosion 
+(Figure 6).
+Recycling of organic wastes in a farmstead
+Organic waste (fruit and vegetable kitchen 
+wastes) from the homestead can be recycled 
+through compost preparation and used to 
+replenish soil nutrients (Figure 7) (https://www.
+gardeningstuffs.com/how-to-build-a-garden-
+hose). 
+Organic waste amendments are a rich source 
+of beneficial plant nutrients and organic matter 
+These materials should be well managed to be 
+used as recycling materials in crop fields.
+Agroforestry practices in ISFM
+Agroforestry is a regenerative farming practice 
+defined as an intentional combination of 
+trees with crops and/or livestock into a single, 
+integrated system. Commonly, these practices 
+are used for managing soil fertility.
+Utilizing trees in your cropping system through 
+agroforestry can be a tool for building healthy 
+and fertile soils.
+Figure 7 Preparation of organic compost
+© FAO/Luis Tato
+Figure 6 Use of crop residues
+© Sustainable Agriculture Tanzania (SAT)
+9
+
+
+Agroforestry can take many forms: rotating 
+animals through an orchard; alley-cropping 
+of crops between rows of fruit or timber trees; 
+planting rows of windbreaks along the edges 
+of the farm; integrating livestock with trees; 
+establishing multi-layered forest gardens; and 
+practising silvopastoral systems (Figure 8). 
+Despite the agroforestry system, it incorporates 
+trees that improve soil fertility by increasing 
+organic matter, boosting microbiological activity, 
+mineralizing nutrients into a more plant-
+available form, cycling nutrients up from deep 
+soil layers to shallow ones, fixing nitrogen (in 
+the case of leguminous trees) and preventing 
+nutrient losses due to leaching, erosion and 
+runoff.
+Use of organic fertilizers
+Organic fertilizers are degradable materials 
+derived from plant and animal products brought 
+by the farmer to the crop field as fertilizer 
+resources to replenish soil nutrients. These 
+include farmyard manure (Figure 9a), green 
+manure, composts (Figure 9b), poultry manure, 
+manure tea and plant tea.
+Organic fertilizers improve the soil’s physical 
+properties. They also increase humus content, 
+change the biological properties of soil, and 
+help in the flourishing of beneficial macro- and 
+microorganisms.
+Organic amendments increase soil carbon and 
+nitrogen content, which results in enhanced soil 
+fertility and crop productivity, and are also eco-
+friendly and cost-effective.
+Types of organic fertilizers
+• Solid organic fertilizers, e.g. compost, green
+manure, farmyard manure
+• Liquid organic fertilizer
+, e.g. plant tea, tea
+manure.
+Figure 8 Agroforestry
+© FAO
+Figure 9b
+Figure 9a
+A compost pile
+Farmyard manure
+© Sustainable Agriculture Tanzania (SAT)
+© Sustainable Agriculture Tanzania (SAT)
+10
+Integrated soil fertility management
+Training guide for facilitators
+
+Factors affecting nutrient content in organic 
+fertilizers
+• T
+ypes of animal feed
+• T
+ypes of plant materials used
+• Degradability of the materials
+• Moisture contents of the materials
+• T
+ypes of bedding materials
+• Manure age and storage condition.
+Benefits of organic fertilizers
+Organic fertilizers have multiple benefits for the 
+soil, plants, organisms and the environment, as 
+follows:
+• They ensure nutrient recycling
+.
+• They reduce environmental pollution risks
+through proper handling and practices.
+• They increase the amount of organic matter
+in the soil.
+• They improve soil air circulation and water
+holding capacity.
+• They provide food for soil microorganisms
+and increase biodiversity
+, hence soil health.
+• They improve soil structure.
+Use of inorganic fertilizer
+Inorganic fertilizer is one of the components 
+of ISFM, providing essential nutrients (e.g
+. 
+nitrogen, phosphorus, and potassium) in a 
+readily available form to plants. Their use is 
+balanced with organic amendments, improved 
+crop varieties, conservation practices, efficient 
+resource management, and local knowledge to 
+create a sustainable and productive agricultural 
+system.
+The inappropriate use (excessive amount, wrong 
+choice/source/time of application) of inorganic 
+fertilizer can result in a change of soil pH, which 
+has negative impacts on the soil ecosystem, 
+resulting in poor soil quality. When used as 
+a single source, inorganic fertilizers tend to 
+accelerate the decomposition of soil organic 
+matter, which leads to the degradation of soil 
+structure, especially in soils constrained by 
+smaller quantities of organic matter.
+Integrating the minimum inorganic fertilizer 
+with the best sustainable agronomic practices 
+(e.g. soil and water conservation practices, use 
+of animal manure or compost, crop residue 
+management, suitable agroforestry practice) 
+improves soil health while increasing soil 
+productivity.
+11
+
+
+LESSON PLAN 
+for Session II
+Topic
+Soil and water conservation practices 10 minutes
+Crop residues management in the field 40 minutes
+Recycling of organic wastes in a farmstead 10 minutes
+60 minutes
+Agroforestry practices in ISFM 10 minutes
+10 minutes
+Use of organic fertilizer
+Use of inorganic fertilizer
+Objectives
+By the end of this session, participants will be 
+able to explain and describe ISFM practices.
+Time: 150 minutes
+Steps:
+1. Define and explain the meaning of ISFM.
+2. Describe different ISFM practices.
+Methodology: Brainstorming
+, questions and answer sessions, lectures, group discussions and 
+hands-on activities.
+Materials: A flip chart, marker pens, notebooks and pens, masking tape, a hand hoe, a machete, 
+ropes, a line level and A-frame, a fork, nails, timber, a hand saw, a hammer and a spade.
+Key message: Applying ISFM practices enhances crop productivity and protects the environment.
+12
+Integrated soil fertility management
+Training guide for facilitators
+
+SESSION III 
+Sources and preparation of organic 
+fertilizer
+Preparation of compost
+Compost is a mixture of ingredients used as 
+plant fertilizer and to improve soil’s physical, 
+chemical and biological properties. It is 
+commonly prepared by decomposing plants, 
+food waste, recycling organic materials and 
+manure.
+The factors to consider during the 
+preparation of compost are:
+1. Moisture content – The recommended
+moisture content of compost ranges between
+40 percent and 60 percent: if too high or
+too low, this will affect aerobics microbial
+activities. The moisture content could be
+measured using a compost moisture meter,
+or by a visual inspection, or by touching
+the compost. If the pile is too dry, it will lack
+heat and there’ll be little evidence of organic
+material breakdown. If the compost is too
+wet, it appears slimy and smells bad.
+2. T
+emperature – Temperature is vital
+in compost preparation, affecting
+microorganism activity. The ideal range is
+between 49°C (120°F) and 71°C (160°F).
+Composting has two phases: the mesophilic
+phase (20–45°C) and the thermophilic
+phase (45–70°C), where different bacteria
+break down material. High temperatures,
+55–70°C, destroy pathogens and
+weed seeds. Monitoring and adjusting
+temperature, aeration and moisture ensures
+effective composting.
+3. Degree of acidity – The degree of acidity
+of the material used impacts the entire
+composting process: an acidity level of the
+organic materials that is too low inhibits
+carbon dioxide and heat generation; and
+an acidity level that is too high can cause
+excessive volatilization of ammonia, leading 
+to nitrogen loss. T
+urning or aerating your 
+compost to improve air circulation and foster 
+aerobic bacteria is the best way to reduce 
+acidity. Also, make sure that there is plenty of 
+brown plant material in the compost. Adding 
+wood ash to compost may aid in neutralizing 
+it. Add several layers of ash every 18 inches 
+(46 cm).
+4. V
+entilation and oxygen supply – Air,
+especially oxygen, is necessary for the
+multiplication of microbes involved in the
+decomposition of organic materials. Turn
+the compost regularly to ensure proper air
+circulation, which speeds the decomposition
+process by encouraging beneficial bacteria
+and fungi growth. Proper ventilation and
+oxygen supply can reduce nitrogen loss and
+odour production, as well as the moisture
+of the compost products, making it easy to
+store.
+Materials and tools needed for 
+compost preparation.
+• Plant materials : Fresh leaves and grasses,
+brown plant materials, dry grasses, leaves
+and crop residues, topsoil, manure or forest
+soil, wood charcoal fragments, ashes and
+water.
+• T
+ools: Hand hoes, rakes, spades, forked
+hoes, forked spades and buckets.
+Note: During composting, avoid using diseased 
+plants and materials with a high proportion 
+of weed seeds, materials with characteristics 
+that are toxic to other plants such as bamboo 
+and Eucalyptus, and acidic behaviour upon 
+decomposition.
+13
+
+
+Collection and preparation of plant material
+• Collect plant materials: Although all organic
+materials can be composted, a rapid
+decomposition depends on the proportions
+of carbon, nitrogen, air and water. These
+materials should be collected ready for
+chopping.
+• Chop plant substrates into small pieces:
+This increases the surface for the fast
+decomposition of materials.
+• Soak plant 
+substrates in water: This increases
+microbial activity to hold materials.
+Steps in preparing the compost heap 
+(Figure 10)
+• Step 1: Choose a site near the garden or
+homestead, and clear it of weeds and other
+debris. The minimum size of the heap is
+1.0-m wide, 1.0-m long and 1.5-m high.
+Remove 5–10 cm of topsoil on the selected
+site and drive strong poles in each corner.
+• Step 2: Collect materials required for
+composting including brown/dry materials
+(crop residues), green materials, ashes,
+animal manure, etc.
+Figure 10 Step-by-step compost preparation
+1. Choose and prepare the site for
+composting.
+4. Lay down the second layer of green
+material.
+5. Lay down a layer of topsoil, manure or compost, and then fill it in layer by layer,
+always mixing the layers of dry and green material, and watering them well. Drive a
+metal pole into the compost heap to determine its temperature. Cover the compost
+with grass or banana leaves.
+2. Collect materials for composting . 3. Lay down the first layer of brown
+materials.
+6. Check the temperature of the metal pole regularly.
+7. Turn over the compost twice when
+the temperature in the heap has
+dropped.
+© Sustainable Agriculture T anzania (SAT)
+14
+Integrated soil fertility management
+Training guide for facilitators
+© Sustainable Agriculture T anzania (SAT)
+© Sustainable Agriculture T anzania 
+(SAT)
+© Sustainable Agriculture T anzania (SAT)
+© Sustainable Agriculture T anzania 
+(SAT)
+© Sustainable Agriculture T anzania 
+(SAT)
+© Sustainable Agriculture T anzania (SAT)
+© Sustainable Agriculture T anzania (SAT)
+© Sustainable Agriculture T anzania (SAT)
+
+• Step 3: Lay down the first layer of 15–20 cm 
+of brown plant residues such as dry grasses, 
+dry leaves and dry crop residues, and water 
+it well.
+• Step 4: Lay down the second layer of 
+15–20 cm of green material such as 
+fresh leaves, grasses and legumes. 
+Green materials are a source of food for 
+decomposers.
+• Step 5: Lay down the third layer of 5 cm 
+of compost or topsoil, or a mixture of soil 
+with manure, which provides nutrients for 
+decomposers. Sprinkle ashes on the top for 
+neutralizing compost pH. Continue adding 
+layers to the size required and then insert a 
+pole at the centre of the heap to assess heap 
+temperature and moisture. 
+• Step 6: Check the temperature of the 
+pole: a warm pole indicates that the 
+decomposition process is in full action; a 
+cold pole indicates that the decomposition 
+cannot start or that there is a drop in 
+temperature, and the heap can be turned. 
+• Step 7: Turn over the compost heap at an 
+interval of 2–4 weeks. After turning it over 
+the second time, the compost should be 
+ready for use.
+Handling and application of compost
+1. Store the compost in sacks in a shaded area.
+2. Decomposition will continue to some extent 
+while the compost is in the sack until the 
+substrate is finely fragmented. Mature 
+compost can be stored for at least six 
+months without a change in nutrient content. 
+3. Apply the compost before planting at a rate 
+of one full 20-litre bucket per square metre 
+of farmland, or one full 20-litre bucket per 
+planting site for perennial crops.
+Preparation of solid organic fertilizers
+Farmyard manure
+Farmyard manure is a decomposed mixture 
+of dung, urine and bedding material (usually 
+straw or grass). Manure from different animals 
+have different qualities, which thus requires 
+different application rates when used as fertilizer 
+resource, for instance:
+• Cattle, sheep and goat manure are good 
+sources of nitrogen and potassium as well 
+as organic carbon, while pig manure is 
+relatively low in both.
+• Chicken manure is highly concentrated in 
+nitrogen and phosphate, and is prized for 
+both properties.
+Characteristics of farmyard manure
+• It contains large amounts of nutrients.
+• Only part of the nitrogen content of the 
+manure is directly available to plants, while 
+the remaining part is released as the manure 
+decomposes.
+• The nitrogen in animal urine is available in 
+the short term.
+• When dung and urine are mixed, they form 
+a well-balanced source of nutrients for 
+plants.
+• The availability of phosphorus and 
+potassium from farmyard manure is similar 
+to that from chemical fertilizers.
+• Chicken manure is rich in phosphorus. 
+However, it is important to be aware of the 
+origin of the manure, since chicken manure 
+from conventional farms is contaminated 
+by heavy metals Heavy metal pollution 
+is the main risk during livestock manure 
+composting, in which microorganisms play a 
+vital role.4 
+15
+
+
+Organic manures contribute to the build-up 
+of soil organic matter and thus improve soil 
+fertility. 
+Collection and storage of farmyard manure
+1. Selection of the storage site. The storage 
+site should be next to the stables and 
+impermeable, and if stored on a heap, 
+it should have a slight slope for proper 
+drainage of excess water away from the 
+manure pile.
+2. Collection of farmyard manure. If 
+the animals are kept in stables, different 
+materials such as bedding and feed 
+remains, and other related materials can be 
+collected for farmyard manure preparation.
+3. Storage of farmyard manure. Manure 
+should be stored under anaerobic 
+conditions. Water-logged pits result in 
+inferior product quality. For storage as a 
+heap, the manure should be mixed with dry 
+plant material (straw, grass, crop residues, 
+leaves, etc.) to absorb the liquid. The straw 
+that has been cut or mashed by spreading 
+it out on a roadside can absorb more water 
+than a long straw.
+Note: Poring manure in pits is particularly 
+suitable for dry areas and seasons. Storage in 
+pits reduces the risk of drying out and the need 
+to water the pile. 
+Management of the stored farmyard 
+manure
+The farmyard manure should always be 
+protected from sun, rain and waterlogging to 
+avoid nutrient losses.
+Note: If white fungus appears (threads and 
+white spots), the manure is too dry and should 
+be dampened with water or urine. A yellow-
+green colour and a bad smell are signs that the 
+manure is too wet and not sufficiently aerated. 
+If the manure shows a brown to black colour 
+throughout the heap, the conditions are ideal.
+Application of farmyard manure
+The method of application depends on the time 
+of application and type of the crops. Before 
+planting, farmyard manure should be spread 
+throughout the farm, depending on the size; 
+for example, for a 1m2, 20 kg of manure can 
+be applied. For perennial crops, 20 kg can be 
+applied per hole, and for cereals, legumes and 
+vegetables, 1–2 kg per hole. Farmyard manure 
+should be incorporated into the soil before 
+planting to enhance nutrient mineralization. 
+Green manure preparation
+In agriculture, green manure is a crop 
+specifically cultivated to be incorporated into the 
+soil while still green.
+Typically, the green manure’s biomass is 
+incorporated during ploughing. The primary 
+goal is to add organic matter to the soil for 
+its benefit. Green manuring is often used with 
+legume crops to add nitrogen to the soil for 
+following crops, especially in organic farming, 
+but is also used in conventional farming, as 
+follows:
+• Trees and/or shrubs growing alongside 
+crops in an agroforestry system may provide 
+a large quantity of green material that can 
+be used as green manure.
+• Incorporated fresh plant material 
+decomposes and releases nutrients quickly.
+Selection of plant varieties for green 
+manure
+Plant varieties that are mostly used as green 
+manure include legumes, grasses, wild 
+sunflower and moringa leaves.
+Preparation and application of green 
+manure
+• Sow seeds/plants for green manure by 
+considering the ideal condition for them to 
+germinate, and species to be grown.
+• Wait until the biomass is developed to 
+provide good nutrients in the soil when 
+16
+Integrated soil fertility management
+Training guide for facilitators
+
+incorporated, which should be before 
+flowering (nearly to flowering).
+• Timing of cutting: Cut the green manure
+2–4 weeks before planting the main crop.
+This timing allows the green manure to
+decompose adequately, releasing nutrients
+into the soil.
+Note
+: Green manure is worked easily when 
+the plants are still young and fresh. If plants 
+are tall or contain bulky and hard plant parts, 
+they should be chopped into pieces to enhance 
+decomposition. After incorporating the green 
+manure, it should be left to decompose for 2–3 
+weeks before planting the main crop. Delayed 
+sowing of the main crop can lead to nutrient 
+loss. 
+Vermicomposting
+• Vermicompost is an organic fertilizer
+prepared by subjecting biodegradable plant
+materials/organic waste to earthworms
+under controlled environments.
+• It starts with vermiculture, which means
+‘worm farming’ (F
+igure 11).
+• Verm worms accelerate the decomposition
+process and allow the preparation of
+compost around the year
+.
+Materials required in vermicomposting
+Water, cow dung, soil or sand, earthworms, dry 
+straws or gunny bags, plastic or cement tank. 
+Steps used to prepare the vermicompost
+• Prepare a plastic/concrete or wooden tank
+(the size depends on the available raw
+materials).
+• Collect the organic-based biomass, and then
+chop them to small pieces and soak them.
+• Prepare a cow dung slurry and sprinkle
+it on the biomass heap to speed up the
+decomposition process.
+• Add a layer (5 to 7.5 cm) of soil or sand at
+the bottom of the tank.
+• Prepare fine bedding by adding partially
+decomposed cattle manure on dried
+biomass (dry leaves, crop residue, kitchen
+waste, and any other biodegradable wastes).
+Figure 11 Steps of vermicomposting
+1. Prepare a
+vermicomposting bin.
+6.
+Lay down an even
+layer of food scraps on
+top of the soil
+7. Close the lid and
+wait three days to two
+weeks.
+8. Place the worms on
+top of the bedding
+9. Add food waste
+each day to feed the
+worms.
+10. Harvest the
+vermicompost after
+around six months.
+2. Shred up newspaper
+for bedding
+.
+3. Soak the bedding
+with water.
+4. Spread the bedding
+into the bin.
+5. Sprinkle soil on top
+of the bedding
+.
+Source: Sustainable Agriculture Tanzania (SAT). 2024. Our projets [illustration]. Vianzi. https://www.kilimo.org/
+what-we-do/our-projects
+17
+
+
+• Distribute them evenly on the sand layer and
+continue adding layers of both the chopped
+bio-waste and the partially decomposed
+cattle manure into the tank to a depth of
+15–30
+ 
+cm.
+• After adding all the bio-wastes, release the
+earthworm species over the mixture and
+cover the compost mixture with dry straw or
+gunny bags.
+• Sprinkle water regularly to keep the compost
+moist.
+• Cover the tank with a thatch roof to protect
+the compost from rainwater and direct
+sunshine.
+• Check the compost frequently to monitor
+moisture and temperature.
+Application of vermin compost
+• F
+ield crops usually requires between 700
+ 
+g/
+plant and 900 g/plant, i.e. 6 t/ha to 7
+ 
+t/ha.
+• V
+egetable crops require 11–12 t/ha.
+• Any flowering plants require 100–250 g/
+tree.
+• F
+ruit trees require 6–12 kg/tree.
+Preparation of liquid organic fertilizers
+These are organic fertilizers that are in liquid 
+form and include tea manure, organic booster, 
+plant tea and bio-slurry.
+Tea manure preparation
+• Manure in a bag is soaked in water without
+mixing or stirring (F
+igure 12).
+• Only soluble nutrients become extracted
+to form the tea with high nutrient
+concentrations.
+Plant tea preparation
+Organic liquid fertilizer is extracted from green 
+leguminous plants by fermenting legume leaves 
+for three consecutive weeks in water (F
+igure 13). 
+In this process, only soluble nutrients become 
+extracted and applied to the crops.
+Application of liquid manure
+Adding fertilizers to crops during the growing 
+season improves plant nutrition and boosts 
+yields. Fertilizer is often applied to the soil so 
+that the nutrients are taken up by the roots. 
+Organic Booster is an aerobically composted, 
+locally sourced poultry manure. It offers all of 
+Figure 12 Manure in a bag soaked in 
+water
+© Sustainable Agriculture Tanzania (SAT)
+Figure 13 Plant tea
+© Sustainable Agriculture Tanzania (SAT)
+18
+Integrated soil fertility management
+Training guide for facilitators
+
+the benefits and none of the risks of boosting 
+your soil with ‘fresh’ chicken manure – the best 
+natural manure fertilizer to make your garden 
+grow.
+19
+
+
+LESSON PLAN 
+for Session III
+Topic
+Preparation of compost 40 minutes
+Preparation of solid fertilizers 30 minutes
+Preparation of liquid fertilizers 30 minutes
+Application of liquid fertilizer 30 minutes
+Objective
+By the end of this session, participants will be 
+able to:
+• explain the different types of organic 
+fertilizers;
+• describe the preparation and application of 
+different types of fertilizer.
+Time: 150 minutes
+Steps:
+1. Define and explain the meaning and types 
+of compost.
+2. Explain the factors to consider during the 
+preparation of the compost.
+3. Describe the materials and tools used in 
+compost preparation.
+4. Collect and prepare the plant material.
+5. Prepare the compost heap.
+6. Prepare solid fertilizers.
+7. Prepare liquid fertilizers.
+8. Apply liquid fertilizer.
+Methodology: Brainstorming, questions and answer sessions, lectures and hands-on activities.
+Materials: A flip chart, marker pens, notebooks and pens, masking tape, manure, green and dry 
+leaves, ash, water, forest soil, kitchen waste, a hand hoe, a spade, a machete and a sickle.
+Key message: It is important to understand how to prepare and use different organic inputs as a 
+soil amendment for increased soil productivity.
+20
+Integrated soil fertility management
+Training guide for facilitators
+
+NOTES
+1 United Republic of Tanzania. (2022) National Environmental Master Plan for Strategic 
+Interventions (2022–2032). National Environmental Master Plan for Strategic Interventions (2022 
+2032). | UNEP Law and Environment Assistance Platform
+2 Fairhurst, T., ed. (2012) Handbook for Integrated Soil Fertility Management. Africa Soil 
+Health Consortium, Nairobi. 1853_PDF .pdf (cta.int)
+3 TSBF-CIAT (Tropic Soil Biology and Fertility Institute of the International Centre for Tropical 
+Agriculture). 2009. Integrated soil fertility management in Africa: Principles Practices and Devel-
+opmental Process. Nairobi. Integrated soil fertility management in Africa: Principles, Practices and 
+Developmental Process.
+4 Chen, X., Du, Z., Guo, T., Wu, J., Wang, B., Wei, Z., Jia, L., &amp; Kang, K. 2022. 
+Effects of heavy metals stress on chicken manures composting via the perspective of microbi-
+al community feedback. Environmental Pollution, 294, 118624. https://doi.org/10.1016/j.en-
+vpol.2021.118624.
+21
+
+
+Integrated soil fertility management (ISFM) 
+is a holistic approach aimed at nurturing 
+soil fertility and agricultural productivity 
+sustainably. Recognizing soil fertility as a 
+dynamic and multifaceted system, ISFM 
+acknowledges the interplay of diverse factors 
+such as nutrient dynamics, organic matter 
+content and soil structure, and the symbiotic 
+relationships between plants, soil organisms and 
+microorganisms.
+The European Union-funded programme, 
+“Capacity Building Related to Multilateral 
+Environmental Agreements in African, 
+Caribbean and Pacific Countries Phase III” 
+(ACP MEAs 3), implemented field activities in 
+the United Republic of Tanzania to mainstream 
+biodiversity into the agricultural sector. The 
+programme underscored the need for enhancing 
+the knowledge base of farmers and extension 
+service providers in areas such as agroforestry 
+systems and ISFM, which led to the development 
+of a training manual tailored to local contexts.
+The integrated soil fertility management: Training 
+guide for facilitators aims to democratize 
+knowledge and empower stakeholders at the 
+grassroots level. By distilling complex concepts 
+into accessible guidance, it equips facilitators, 
+farmers, extension officers and development 
+agentswith the tools needed to implement ISFM 
+approaches effectively.
+Integrated soil fertility management
+Training guide for facilitators
+Contact information:  
+Plant Production and Protection Division - Natural Resources 
+and Sustainable Production
+https://www.fao.org/plant-production-protection/about/
+NSPdivision/en
+NSP-Director@fao.org
+Food and Agriculture Organization of the United Nations 
+Rome, Italy
